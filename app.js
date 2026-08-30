@@ -288,4 +288,4 @@ async function load(){
   window.addEventListener('hashchange',router);
 }
 
-load((load);
+load();
