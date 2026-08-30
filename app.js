@@ -227,4 +227,10 @@ async function load(){
   [DATA.glossaire,DATA.artistes,DATA.ateliers,DATA.objets,DATA.pages]=vals;
   router(); window.addEventListener('hashchange',router);
 }
-load();
+load(load().catch(e => {
+  document.body.innerHTML =
+    '<pre style="white-space:pre-wrap;padding:20px;color:red;font-size:16px">' +
+    'ERREUR APP.JS\n\n' +
+    e.stack +
+    '</pre>';
+});
