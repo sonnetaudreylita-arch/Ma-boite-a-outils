@@ -288,10 +288,4 @@ async function load(){
   window.addEventListener('hashchange',router);
 }
 
-load().catch(e => {
-  document.body.innerHTML =
-    '<pre style="white-space:pre-wrap;padding:20px;color:red;font-size:16px">' +
-    'ERREUR APP.JS\n\n' +
-    e.stack +
-    '</pre>';
-});
+load(load();
