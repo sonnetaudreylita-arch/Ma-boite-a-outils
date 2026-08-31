@@ -1,230 +1,33 @@
-const DATA = {glossaire:[], artistes:[], ateliers:[], objets:[], pages:{}};
-const $ = s => document.querySelector(s);
-const esc = s => String(s ?? '').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const norm = s => String(s??'').normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim();
-const slug = s => norm(s).replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
-const imagePath = f => f ? `assets/webp/${String(f).replace(/\.(jpg|jpeg|png)$/i,'.webp')}` : '';
-
-const NAV = [
-  ['Accueil','#/','⌂'],['Qui je suis','#/qui-je-suis','♡'],['Documents de stage','#/stages','▤'],
-  ['Ateliers','#/ateliers','✎'],['Activités','#/activites','✂'],['Préparations','#/preparations','▣'],
-  ['Glossaire','#/glossaire','Aa'],['Références','#/artistes','▧'],['Objets culturels','#/objets','◇']
-];
-
-function findByName(list, value, field='title'){
-  const n=norm(value);
-  return list.find(x=>norm(x[field])===n) || list.find(x=>n && norm(x[field]).includes(n)) || list.find(x=>n && n.includes(norm(x[field])));
-}
-function linkToGlossary(name){
-  const x=findByName(DATA.glossaire,name);
-  return x ? `#/glossaire/${x.id}` : '#/glossaire';
-}
-function linkToArtist(name){
-  const x=findByName(DATA.artistes,name,'name');
-  return x ? `#/artistes/${x.id}` : '#/artistes';
-}
+const DATA={};
+const nav=[['Accueil','#/'],['Qui je suis','#/qui-je-suis'],['Documents de stage','#/stages'],['Ateliers','#/ateliers'],['Activités','#/activites'],['Préparations','#/preparations'],['Glossaire','#/glossaire'],['Références','#/artistes'],['Objets culturels','#/objets']];
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const slug=s=>String(s).normalize('NFKD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+function imgPath(b){return b?`assets/webp/${b.replace(/\.jpg$/i,'.webp')}`:''}
 function linkify(text){
-  let out=esc(text);
-  const candidates=[
-    ...DATA.artistes.map(x=>({t:x.name,h:`#/artistes/${x.id}`})),
-    ...DATA.glossaire.map(x=>({t:x.title,h:`#/glossaire/${x.id}`}))
-  ].filter(x=>x.t).sort((a,b)=>b.t.length-a.t.length);
-  for(const x of candidates){
-    const re=new RegExp(`(?<![\\w-])(${x.t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')})(?![\\w-])`,'gi');
-    out=out.replace(re,`<a class="link" href="${x.h}">$1</a>`);
-  }
-  return out;
+ let out=esc(text);
+ const all=[...DATA.glossaire.map(x=>({t:x.title,h:`#/glossaire/${x.id}`})),...DATA.artistes.map(x=>({t:x.name,h:`#/artistes/${x.id}`}))].sort((a,b)=>b.t.length-a.t.length);
+ for(const x of all){const re=new RegExp(`(?<![\\w-])(${x.t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')})(?![\\w-])`,'gi'); out=out.replace(re,`<a class="link" href="${x.h}">$1</a>`)}
+ return out;
 }
-
-function layout(content){
-  document.querySelector('#app').innerHTML=`
-  <div class="app">
-    <header class="top">
-      <a class="logo" href="#/">Ma boîte à outils<br><small>de future maîtresse</small></a>
-      <nav class="nav">${NAV.slice(1).map(([t,h,i])=>`<a href="${h}"><span>${i}</span>${t}</a>`).join('')}</nav>
-      <label class="search"><span>⌕</span><input id="global-search" placeholder="Rechercher…" aria-label="Recherche globale"></label>
-    </header>
-    <main>${content}</main>
-    <footer class="footer">Portfolio étudiant d’Audrey-Lita Sonnet · Un outil évolutif pendant toute la formation.</footer>
-  </div>`;
-  const q=$('#global-search');
-  q?.addEventListener('keydown',e=>{if(e.key==='Enter'&&q.value.trim()) location.hash='#/recherche/'+encodeURIComponent(q.value.trim())});
-  const cur=location.hash.split('/')[1]||'';
-  document.querySelectorAll('.nav a').forEach(a=>a.classList.toggle('active',a.getAttribute('href').includes(cur)));
+function layout(content){document.querySelector('#app').innerHTML=`<div class="app"><header class="top"><a class="logo" href="#/">Ma boîte à outils<br><small>de future maîtresse</small></a><nav class="nav">${nav.slice(1).map(([t,h])=>`<a href="${h}">${t}</a>`).join('')}</nav><input id="global-search" class="search" placeholder="Rechercher…"></header><main>${content}</main><footer class="footer">Portfolio étudiant d'Audrey-Lita Sonnet · Architecture pensée pour être enrichie pendant toute la formation.</footer></div>`; const q=$('#global-search'); q.addEventListener('keydown',e=>{if(e.key==='Enter'&&q.value.trim()) location.hash='#/recherche/'+encodeURIComponent(q.value.trim())});
+ const cur=location.hash.split('/')[1]||''; document.querySelectorAll('.nav a').forEach(a=>a.classList.toggle('active',a.getAttribute('href').includes(cur)));
 }
-function pageHead(title,sub=''){
-  return `<div class="page-head"><div class="eyebrow">MA BOÎTE À OUTILS</div><h1>${esc(title)}</h1><p class="sub">${esc(sub)}</p></div>`;
-}
-function imageTag(f,alt='',cls=''){
-  return f?`<img class="${cls}" src="${imagePath(f)}" alt="${esc(alt)}" loading="lazy">`:'';
-}
-
-function home(){
-  const p=DATA.pages.home||{};
-  layout(`<section class="hero">
-    <div class="hero-copy"><div class="eyebrow">PORTFOLIO D’ENSEIGNEMENT</div><h1>Bienvenue<br>dans ma boîte à outils <span>♡</span></h1>
-      <p class="lead">Un espace vivant pour rassembler mes expériences, mes ateliers, mes préparations et mes ressources pour l’école.</p>
-      <p class="lead small">Chaque rubrique est pensée pour être enrichie au fil de ma formation.</p>
-    </div>
-    <div class="desk">
-      ${homeObject('🎒','Préparations','Par matière, niveau, année','#/preparations','sage')}
-      ${homeObject('🖌️','Ateliers','Expérimenter et documenter','#/ateliers','pink')}
-      ${homeObject('✂️','Activités','Musique, psychomotricité…','#/activites','blue')}
-      ${homeObject('Aa','Glossaire','Notions et procédés','#/glossaire','lilac')}
-      ${homeObject('🖼️','Références','Artistes et œuvres','#/artistes','yellow')}
-      ${homeObject('🌱','Qui je suis','Parcours, CV, vision','#/qui-je-suis','sage')}
-      <div class="desk-note">✦ apprendre · expérimenter · transmettre ✦</div>
-    </div>
-  </section>
-  <section class="cards home-cards">
-    <article class="card"><h3>Un portfolio évolutif</h3><p>La structure est pensée pour accueillir de nouveaux contenus pendant toute la formation.</p></article>
-    <article class="card"><h3>Des liens croisés</h3><p>Une notion peut renvoyer à un artiste, une œuvre ou un atelier — et inversement.</p></article>
-    <article class="card"><h3>Déjà dans la base</h3><p><b>${DATA.glossaire.length}</b> termes · <b>${DATA.artistes.length}</b> artistes · <b>${DATA.objets.length}</b> objets culturels.</p></article>
-  </section>
-  <section class="lower"><article class="paper"><div class="portrait">♡</div><div><h2>Qui suis-je ?</h2><p>${esc((p.text||'').slice(0,300))}</p><a class="link" href="#/qui-je-suis">Découvrir mon parcours →</a></div></article>
-  <article class="paper quote"><div class="quote-mark">“</div><p>Un espace pour garder une trace de ce que j’apprends, de ce que j’expérimente et de ce qui m’inspire.</p><small>Ma boîte à outils ♡</small></article></section>`);
-}
-function homeObject(icon,title,sub,href,tone){return `<a class="object ${tone}" href="${href}"><span>${icon}</span><b>${title}</b><small>${sub}</small></a>`}
-
-function glossary(){
-  let q='', letter='*', type='';
-  const letters='ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
-  const render=()=>{
-    const arr=DATA.glossaire.filter(x=>{
-      const starts=norm(x.title).charAt(0)===letter.toLowerCase();
-      const okL=letter==='*'||starts;
-      const okQ=!q||[x.title,x.type,...(x.content||[])].join(' ').toLowerCase().includes(q.toLowerCase());
-      const okT=!type||x.type===type;
-      return okL&&okQ&&okT;
-    });
-    $('#glist').innerHTML=arr.map(x=>`<article class="item">
-      <div class="type">${esc(x.type||'Ressource')}</div>
-      <h3><a class="link" href="#/glossaire/${x.id}">${esc(x.title)}</a></h3>
-      <p>${esc((x.content||[]).filter(Boolean).slice(-2).join(' ').slice(0,360))}</p>
-      ${(x.ateliers||[]).length?`<div class="chips">${x.ateliers.map(a=>`<a class="chip" href="#/ateliers/${slug(a)}">${esc(a)}</a>`).join('')}</div>`:''}
-    </article>`).join('')||`<div class="empty">Aucun terme pour cette sélection.</div>`;
-    document.querySelectorAll('.alpha button').forEach(b=>b.classList.toggle('selected',b.dataset.letter===letter));
-  };
-  const types=[...new Set(DATA.glossaire.map(x=>x.type).filter(Boolean))];
-  layout(`${pageHead('Glossaire','Recherche + index alphabétique + liens vers les ressources associées')}
-    <div class="glossary-tools"><input id="gq" placeholder="Rechercher un terme…"><select id="gtype"><option value="">Tous les types</option>${types.map(t=>`<option>${esc(t)}</option>`).join('')}</select></div>
-    <div class="alpha"><button data-letter="*">TOUS</button>${letters.map(l=>`<button data-letter="${l}">${l}</button>`).join('')}</div>
-    <div class="countline"><span id="gcount"></span></div><div id="glist" class="list"></div>`);
-  $('#gq').addEventListener('input',e=>{q=e.target.value;render()});
-  $('#gtype').addEventListener('change',e=>{type=e.target.value;render()});
-  document.querySelectorAll('.alpha button').forEach(b=>b.addEventListener('click',()=>{letter=b.dataset.letter;render()}));
-  render();
-}
-function glossaryDetail(id){
-  const x=DATA.glossaire.find(x=>x.id===id); if(!x)return glossary();
-  layout(`${pageHead(x.title,x.type||'Entrée du glossaire')}<a class="back" href="#/glossaire">← Retour au glossaire</a>
-    <article class="detail text">
-      ${(x.content||[]).filter(Boolean).map(p=>`<p>${linkify(p)}</p>`).join('')}
-      ${(x.images||[]).length?`<div class="gallery">${x.images.map(i=>imageTag(i,x.title)).join('')}</div>`:''}
-      ${x.sources?.length?`<h3>Sources</h3>${x.sources.map(s=>`<p>${linkify(s)}</p>`).join(''):''}
-      ${x.ateliers?.length?`<h3>Ateliers en lien</h3><div class="chips">${x.ateliers.map(a=>`<a class="chip" href="#/ateliers/${slug(a)}">${esc(a)}</a>`).join('')}</div>`:''}
-    </article>`);
-}
-function artists(){
-  let q='';
-  const render=()=>{
-    const arr=DATA.artistes.filter(x=>!q||JSON.stringify(x).toLowerCase().includes(q.toLowerCase()));
-    $('#alist').innerHTML=arr.map(x=>`<article class="artist-card">
-      ${imageTag(x.images?.[0],x.name,'artist-cover')}
-      <div class="artist-body"><h3><a class="link" href="#/artistes/${x.id}">${esc(x.name)}</a></h3>
-      <p>${esc((x.bio||[]).join(' ').slice(0,250))}</p><small>${x.works?.length||0} œuvre(s)</small></div></article>`).join('')||'<div class="empty">Aucun artiste trouvé.</div>';
-  };
-  layout(`${pageHead('Références artistiques','Artistes, œuvres, courants, dimensions, médiums et procédés')}<div class="toolbar"><input id="aq" placeholder="Rechercher un artiste ou une œuvre…"></div><div id="alist" class="artist-grid"></div>`);
-  $('#aq').addEventListener('input',e=>{q=e.target.value;render()});render();
-}
-function artistDetail(id){
-  const x=DATA.artistes.find(x=>x.id===id);if(!x)return artists();
-  const works=x.works||[];
-  layout(`${pageHead(x.name,'Biographie et œuvres')}<a class="back" href="#/artistes">← Retour aux références</a>
-  <article class="detail">
-    <div class="profile">${imageTag(x.images?.[0],x.name,'profile-photo')}<div><h2>${esc(x.name)}</h2>${(x.bio||[]).map(p=>`<p>${esc(p)}</p>`).join('')}</div></div>
-    <h3>Œuvres</h3>
-    <div class="works">${works.map((w,i)=>`<article class="work-card">
-      ${x.images?.[i]?imageTag(x.images[i],w.title,'work-image'):''}
-      <h4>${esc(w.title||'Œuvre')}</h4>
-      <div class="meta">${['Date','Siècle','Courant artistique','Dimensions','Médium','Procédés artistiques'].filter(k=>w[k]).map(k=>`<div><strong>${esc(k)}</strong><span>${esc(w[k])}</span></div>`).join('')}</div>
-      ${w.notes?`<p>${esc(Array.isArray(w.notes)?w.notes.join(' '):w.notes)}</p>`:''}
-    </article>`).join('')}</div>
-    ${x.glossary?.length?`<h3>Notions associées</h3><div class="chips">${x.glossary.map(g=>`<a class="chip" href="${linkToGlossary(g)}">${esc(g)}</a>`).join('')}</div>`:''}
-    ${x.ateliers?.length?`<h3>Ateliers associés</h3><div class="chips">${x.ateliers.map(a=>`<a class="chip" href="#/ateliers/${slug(a)}">${esc(a)}</a>`).join('')}</div>`:''}
-  </article>`);
-}
-function workshops(){
-  const real=DATA.ateliers.filter(x=>(x.title||'').toLowerCase()!=='atelier' || (x.sections?.length||x.images?.length||x.glossary?.length||x.artists?.length));
-  if(!real.length){layout(`${pageHead('Ateliers d’expérimentations','Une rubrique prête à accueillir tes ateliers')}<div class="empty large"><div>✎</div><h2>Les ateliers ne sont pas encore présents dans les données exportées.</h2><p>La structure du site est prête, mais le fichier actuel contient seulement des entrées vides. Je ne vais pas inventer leur contenu. Dès que le contenu réel est récupéré depuis ton ancien site/Google Takeout, il pourra être injecté ici.</p></div>`);return;}
-  layout(`${pageHead('Ateliers d’expérimentations','Expérimenter, documenter et relier les pratiques')}<div class="list">${real.map(x=>`<article class="item"><h3><a class="link" href="#/ateliers/${x.id}">${esc(x.title)}</a></h3><p>${esc((x.sections||[]).flatMap(s=>s.items||[]).slice(0,3).join(' ').slice(0,360))}</p><div class="chips">${(x.glossary||[]).map(g=>`<a class="chip" href="${linkToGlossary(g)}">${esc(g)}</a>`).join('')}</div></article>`).join('')}</div>`);
-}
-function workshopDetail(id){
-  const x=DATA.ateliers.find(x=>x.id===id);if(!x)return workshops();
-  layout(`${pageHead(x.title,'Atelier documenté')}<a class="back" href="#/ateliers">← Retour aux ateliers</a><article class="detail">
-    ${(x.images||[]).length?`<div class="gallery">${x.images.map(i=>imageTag(i,x.title)).join('')}</div>`:''}
-    ${(x.sections||[]).map(s=>`<section><h3>${esc(s.label||'Contenu')}</h3>${(s.items||[]).map(p=>`<p>${linkify(p)}</p>`).join('')}</section>`).join('')}
-    ${(x.glossary||[]).length?`<h3>Glossaire</h3><div class="chips">${x.glossary.map(g=>`<a class="chip" href="${linkToGlossary(g)}">${esc(g)}</a>`).join('')}</div>`:''}
-    ${(x.artists||[]).length?`<h3>Références artistiques</h3><div class="chips">${x.artists.map(a=>`<a class="chip" href="${linkToArtist(a)}">${esc(a)}</a>`).join('')}</div>`:''}
-  </article>`);
-}
-function objects(){
-  layout(`${pageHead('Objets culturels','Œuvres, objets et références culturelles')}<div class="object-grid">${DATA.objets.map((x,i)=>`<article class="item">
-    <div class="gallery">${(x.images||[]).map(img=>imageTag(img,x.title)).join('')}</div><h3>${esc(x.title||'Objet culturel')}</h3>
-    ${(x.content||[]).map(p=>`<p>${linkify(p)}</p>`).join('')}</article>`).join('')}</div>`);
-}
-function activities(){
-  layout(`${pageHead('Activités','Ressources pratiques classées par domaine')}<div class="cards three">
-    <article class="card"><h3>🎵 Musique</h3><p>Chants et ressources musicales.</p><a class="link" href="#/activites/chants">Voir les chants →</a></article>
-    <article class="card"><h3>🤸 Psychomotricité</h3><p>Ressources de psychomotricité.</p><a class="link" href="#/activites/psychomotricite">Voir la ressource →</a></article>
-    <article class="card"><h3>🎨 Arts plastiques</h3><p>Les expérimentations sont regroupées dans les ateliers.</p><a class="link" href="#/ateliers">Voir les ateliers →</a></article>
-  </div>`);
-}
-function activityDetail(kind){
-  const x=DATA.pages[kind];if(!x)return activities();
-  layout(`${pageHead(x.title,'Activité')}<a class="back" href="#/activites">← Retour aux activités</a><article class="detail text">${esc(x.text||'').split(/(?<=\.)\s+(?=[A-ZÀÉÈ])/).map(p=>`<p>${p}</p>`).join('')}</article>`);
-}
-function preparations(){
-  const x=DATA.pages.preparation||{};
-  layout(`${pageHead('Fiches de préparation','Une bibliothèque à enrichir par matière, niveau et année')}<article class="detail text"><div class="notice"><b>Structure prête.</b><br>Cette rubrique pourra accueillir les futures fiches sans changer l’interface.</div>${x.text?`<h3>Contenu existant</h3>${esc(x.text).split(/(?<=\.)\s+(?=[A-ZÀÉÈ])/).map(p=>`<p>${p}</p>`).join('')}`:''}</article>`);
-}
-function stages(){
-  const x=DATA.pages.stage||{};
-  layout(`${pageHead('Documents de stage','Parcours, CV et documents professionnels')}<article class="detail text"><p>${esc(x.text||'')}</p><div class="pdfs"><a class="pdf" href="documents/CV-Audrey-Lita-Sonnet-2026.pdf" target="_blank">📄 CV 2026</a><a class="pdf" href="documents/Lettre-de-motivation-2e-annee.pdf" target="_blank">📄 Lettre de motivation · 2e année</a></div></article>`);
-}
-function identity(){
-  const p=DATA.pages.home||{};
-  layout(`${pageHead('Qui je suis','Parcours, CV et vision de l’école')}<article class="detail text"><h3>Mon parcours</h3><p>${esc((p.text||'').slice(0,900))}</p><div class="pdfs"><a class="pdf" href="documents/CV-Audrey-Lita-Sonnet-2026.pdf" target="_blank">📄 Voir mon CV</a><a class="pdf" href="documents/Lettre-de-motivation-2e-annee.pdf" target="_blank">📄 Lettre de motivation</a></div><h3>Ma vision de l’école</h3><p>La page éditoriale dédiée pourra reprendre et développer le contenu de ta vision.</p><a class="link" href="#/vision">Lire ma vision →</a></article>`);
-}
-function vision(){
-  const t=DATA.pages.home?.text||'';
-  layout(`${pageHead('Ma vision de l’école','Une réflexion appelée à évoluer pendant la formation')}<article class="detail text">${esc(t).split(/(?<=\.)\s+(?=[A-ZÀÉÈ])/).filter(Boolean).map(p=>`<p>${p}</p>`).join('')}</article>`);
-}
-function searchPage(q){
-  const g=DATA.glossaire.filter(x=>JSON.stringify(x).toLowerCase().includes(q.toLowerCase())).slice(0,10);
-  const a=DATA.artistes.filter(x=>JSON.stringify(x).toLowerCase().includes(q.toLowerCase())).slice(0,10);
-  layout(`${pageHead('Recherche',`Résultats pour « ${esc(q)} »`)}<div class="results"><article class="card"><h3>Glossaire</h3>${g.map(x=>`<p><a class="link" href="#/glossaire/${x.id}">${esc(x.title)}</a></p>`).join('')||'<p>Aucun résultat.</p>'}</article><article class="card"><h3>Artistes</h3>${a.map(x=>`<p><a class="link" href="#/artistes/${x.id}">${esc(x.name)}</a></p>`).join('')||'<p>Aucun résultat.</p>'}</article></div>`);
-}
-function router(){
-  const parts=decodeURIComponent(location.hash||'#/').replace(/^#\/?/,'').split('/').filter(Boolean);
-  if(!parts.length)return home();
-  const [r,id]=parts;
-  if(r==='glossaire')return id?glossaryDetail(id):glossary();
-  if(r==='artistes')return id?artistDetail(id):artists();
-  if(r==='ateliers')return id?workshopDetail(id):workshops();
-  if(r==='objets')return objects();
-  if(r==='activites')return id?activityDetail(id):activities();
-  if(r==='preparations')return preparations();
-  if(r==='qui-je-suis')return identity();
-  if(r==='vision')return vision();
-  if(r==='stages')return stages();
-  if(r==='recherche')return searchPage(id||'');
-  return home();
-}
-async function load(){
-  const files=['glossaire','artistes','ateliers','objets-culturels','pages'];
-  const vals=await Promise.all(files.map(f=>fetch(`data/${f}.json`).then(r=>{if(!r.ok)throw new Error(f);return r.json()}).catch(()=>f==='pages'?{}:[])));
-  [DATA.glossaire,DATA.artistes,DATA.ateliers,DATA.objets,DATA.pages]=vals;
-  router(); window.addEventListener('hashchange',router);
-}
-load();
+function pageHead(title,sub=''){return `<div class="page-head"><h2>${esc(title)}</h2><p class="sub">${esc(sub)}</p></div>`}
+function home(){layout(`<section class="hero"><div><div class="eyebrow">Portfolio d’enseignement</div><h1>Bienvenue dans<br>ma boîte à outils</h1><p class="lead">Un espace vivant pour rassembler mes expériences, mes ateliers, mes préparations et mes ressources pour l’école.</p><p class="lead">Le contenu est organisé comme un réseau : une notion peut renvoyer à un atelier, un artiste, une œuvre ou une autre ressource.</p></div><div class="desk"><button class="object sage" onclick="location.hash='#/preparations'"><span>🎒</span><b>Préparations</b><small>Par matière, niveau, année</small></button><button class="object pink" onclick="location.hash='#/ateliers'"><span>🖌️</span><b>Ateliers</b><small>Expérimenter et documenter</small></button><button class="object blue" onclick="location.hash='#/activites'"><span>✂️</span><b>Activités</b><small>Musique, psychomotricité…</small></button><button class="object lilac" onclick="location.hash='#/glossaire'"><span>🔎</span><b>Glossaire</b><small>Notions et procédés</small></button><button class="object yellow" onclick="location.hash='#/artistes'"><span>🖼️</span><b>Références</b><small>Artistes et œuvres</small></button><button class="object sage" onclick="location.hash='#/qui-je-suis'"><span>🌱</span><b>Qui je suis</b><small>Parcours, CV, vision</small></button></div></section><section class="cards"><article class="card"><h3>Un portfolio évolutif</h3><p>Les contenus sont séparés de l’interface afin de pouvoir ajouter, modifier ou supprimer des ressources sans reconstruire le site.</p></article><article class="card"><h3>Des liens croisés</h3><p>Atelier → notion → artiste → œuvre, et retour vers les contenus associés.</p></article><article class="card"><h3>Une base déjà remplie</h3><p>${DATA.glossaire.length} entrées de glossaire, ${DATA.artistes.length} profils d’artistes et ${DATA.ateliers.length} ateliers issus de ton export.</p></article></section>`)}
+function glossaryList(){let q='',filtered=DATA.glossaire; const render=()=>{filtered=DATA.glossaire.filter(x=>!q||[x.title,x.type,...x.content].join(' ').toLowerCase().includes(q.toLowerCase()));$('#glist').innerHTML=filtered.map(x=>`<article class="item"><div class="type">${esc(x.type||'Ressource')}</div><h3><a class="link" href="#/glossaire/${x.id}">${esc(x.title)}</a></h3><p>${esc(x.content.slice(0,2).join(' '))}</p><div class="chips">${x.ateliers.slice(0,4).map(a=>`<a class="chip" href="#/ateliers/${slug(a)}">${esc(a)}</a>`).join('')}</div></article>`).join('')||'<div class="empty">Aucun terme ne correspond.</div>'}; layout(`${pageHead('Glossaire','Recherche, ordre alphabétique et relations croisées')}<div class="toolbar"><input id="gq" placeholder="Rechercher un terme…"><select id="gtype"><option value="">Tous les types</option><option>Notion plastique</option><option>Procédé plastique</option><option>Outil / matériel</option></select></div><div id="glist" class="list"></div>`);$('#gq').addEventListener('input',e=>{q=e.target.value;render()});$('#gtype').addEventListener('change',e=>{const typ=e.target.value;filtered=DATA.glossaire.filter(x=>(!q||[x.title,x.type,...x.content].join(' ').toLowerCase().includes(q.toLowerCase()))&&(!typ||x.type===typ));$('#glist').innerHTML=filtered.map(x=>`<article class="item"><div class="type">${esc(x.type||'Ressource')}</div><h3><a class="link" href="#/glossaire/${x.id}">${esc(x.title)}</a></h3><p>${esc(x.content.slice(0,2).join(' '))}</p></article>`).join('')||'<div class="empty">Aucun terme ne correspond.</div>'});render()}
+function glossaryDetail(id){const x=DATA.glossaire.find(x=>x.id===id);if(!x)return glossaryList();layout(`${pageHead(x.title,x.type||'Entrée du glossaire')}<a class="back" href="#/glossaire">← Retour au glossaire</a><article class="detail text">${x.content.map(p=>`<p>${linkify(p)}</p>`).join('')} ${x.sources.length?`<h3>Sources</h3>${x.sources.map(s=>`<p>${esc(s)}</p>`).join('')}`:''}${x.ateliers.length?`<h3>Ateliers en lien</h3><div class="chips">${x.ateliers.map(a=>`<a class="chip" href="#/ateliers/${slug(a)}">${esc(a)}</a>`).join('')}</div>`:''}</article>`)}
+function artists(){let q='';const render=()=>{const arr=DATA.artistes.filter(x=>!q||[x.name,...x.bio,x.works.map(w=>Object.values(w).join(' '))].join(' ').toLowerCase().includes(q.toLowerCase()));$('#alist').innerHTML=arr.map(x=>`<article class="item">${x.images[0]?`<img src="${imgPath(x.images[0])}" alt="" style="width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:15px;margin-bottom:10px">`:''}<h3><a class="link" href="#/artistes/${x.id}">${esc(x.name)}</a></h3><p>${esc(x.bio.join(' ').slice(0,240))}</p><p><small>${x.works.length} œuvre${x.works.length>1?'s':''}</small></p></article>`).join('')||'<div class="empty">Aucun artiste trouvé.</div>'};layout(`${pageHead('Références artistiques','Artistes, œuvres, courants, médiums et procédés')}<div class="toolbar"><input id="aq" placeholder="Rechercher un artiste ou une œuvre…"></div><div id="alist" class="list"></div>`);$('#aq').addEventListener('input',e=>{q=e.target.value;render()});render()}
+function artistDetail(id){const x=DATA.artistes.find(x=>x.id===id);if(!x)return artists();layout(`${pageHead(x.name,'Biographie et œuvres')}<a class="back" href="#/artistes">← Retour aux références</a><article class="detail"><div class="profile">${x.images[0]?`<div><img class="profile-photo" src="${imgPath(x.images[0])}" alt="${esc(x.name)}"></div>`:'<div></div>'}<div><h2>${esc(x.name)}</h2><div class="text">${x.bio.map(p=>`<p>${esc(p)}</p>`).join('')}</div></div></div><h3>Œuvres</h3>${x.works.map((w,i)=>`<div class="work-card">${x.images[i]?`<img src="${imgPath(x.images[i])}" alt="" style="width:100%;max-height:520px;object-fit:contain;border-radius:15px;margin-bottom:12px">`:''}<h4>${esc(w.title||'Œuvre')}</h4><div class="meta">${['Date','Siècle','Courant artistique','Dimensions','Médium','Procédés artistiques'].filter(k=>w[k]).map(k=>`<div><strong>${esc(k)}</strong>${esc(w[k])}</div>`).join('')}</div>${w.notes?`<p>${w.notes.map(esc).join(' ')}</p>`:''}</div>`).join('')}<h3>Connexions</h3><div class="chips">${x.glossary.map(g=>`<a class="chip" href="#/glossaire/${slug(g)}">${esc(g)}</a>`).join('')}${x.ateliers.map(a=>`<a class="chip" href="#/ateliers/${slug(a)}">${esc(a)}</a>`).join('')}</div></article>`)}
+function workshops(){layout(`${pageHead('Ateliers d’expérimentations','Les ateliers existants sont repris et reliés au glossaire et aux références')}<div class="list">${DATA.ateliers.map(x=>`<article class="item"><h3><a class="link" href="#/ateliers/${x.id}">${esc(x.title)}</a></h3><p>${esc(x.sections.slice(0,2).flatMap(s=>s.items).slice(0,2).join(' '))}</p><div class="chips">${x.glossary.slice(0,6).map(g=>`<a class="chip" href="#/glossaire/${slug(g)}">${esc(g)}</a>`).join('')}</div></article>`).join('')}</div>`)}
+function workshopDetail(id){const x=DATA.ateliers.find(x=>x.id===id);if(!x)return workshops();layout(`${pageHead(x.title,'Atelier documenté')}<a class="back" href="#/ateliers">← Retour aux ateliers</a><article class="detail">${x.images.length?`<div class="gallery">${x.images.map(i=>`<img src="${imgPath(i)}" alt="">`).join('')}</div>`:''}${x.sections.map(s=>`<section><h3>${esc(s.label||'Contenu')}</h3>${s.items.map(p=>`<p>${linkify(p)}</p>`).join('')}</section>`).join('')}<h3>Éléments du glossaire</h3><div class="chips">${x.glossary.map(g=>`<a class="chip" href="#/glossaire/${slug(g)}">${esc(g)}</a>`).join('')}</div>${x.artists.length?`<h3>Références artistiques</h3><div class="chips">${x.artists.map(a=>`<a class="chip" href="#/artistes/${slug(a)}">${esc(a)}</a>`).join('')}</div>`:''}</article>`)}
+function objects(){layout(`${pageHead('Objets culturels','Références culturelles reliées aux notions et aux pratiques')}<div class="list">${DATA.objets.map(x=>`<article class="item">${x.images[0]?`<img src="${imgPath(x.images[0])}" alt="" style="width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:15px;margin-bottom:10px">`:''}<h3>${esc(x.title)}</h3><p>${esc(x.content.slice(0,2).join(' '))}</p></article>`).join('')}</div>`)}
+function activities(){const p=DATA.pages;layout(`${pageHead('Activités','Ressources pratiques classées par domaine')}<div class="cards"><article class="card"><h3>🎵 Musique</h3><p>Chants et ressources de musique déjà présents dans le site source.</p><a class="link" href="#/activites/chants">Voir les chants →</a></article><article class="card"><h3>🤸 Psychomotricité</h3><p>Activités et séance observée en maternelle.</p><a class="link" href="#/activites/psychomotricite">Voir la ressource →</a></article><article class="card"><h3>🎨 Arts plastiques</h3><p>Les ateliers d’expérimentations sont regroupés dans leur section dédiée.</p><a class="link" href="#/ateliers">Voir les ateliers →</a></article></div>`)}
+function activityDetail(kind){const x=DATA.pages[kind];layout(`${pageHead(x.title,'Activité')}<a class="back" href="#/activites">← Retour aux activités</a><article class="detail text">${x.text.split(/(?<=\.)\s+(?=[A-ZÀÉÈ])/).map(p=>`<p>${esc(p)}</p>`).join('')}</article>`)}
+function preparations(){const x=DATA.pages.preparation;layout(`${pageHead('Fiches de préparation','Une bibliothèque destinée à être enrichie par matière, niveau, année et type')}<article class="detail text"><h3>Préparation existante</h3>${x.text.split(/(?<=\.)\s+(?=[A-ZÀÉÈ])/).map(p=>`<p>${esc(p)}</p>`).join('')}<div class="notice empty">La structure est prête pour ajouter d’autres fiches sans modifier l’interface : matière → niveau → année → type → objectifs → déroulement → matériel → évaluation.</div></article>`)}
+function stages(){const x=DATA.pages.stage;layout(`${pageHead('Documents de stage','CV, lettres et documents liés aux expériences de terrain')}<article class="detail text"><h3>Documents</h3><p>${esc(x.text.slice(0,500))}</p><div class="pdfs"><a class="pdf" href="documents/CV-Audrey-Lita-Sonnet-2026.pdf" target="_blank">📄 CV 2026</a><a class="pdf" href="documents/Lettre-de-motivation-2e-annee.pdf" target="_blank">📄 Lettre de motivation · 2e année</a></div><h3>Stages à venir</h3><p>Cette section est prévue pour accueillir chaque nouvelle expérience : école, niveau, contexte, préparations, analyses, productions et documents.</p></article>`)}
+function vision(){const text=DATA.pages.home.text; const i=text.indexOf('Ma vision de l\'école'); const j=text.indexOf('Qui suis-je ?'); const v=i>=0?text.slice(i+'Ma vision de l\'école'.length,j>=0?j:text.length):text; layout(`${pageHead('Ma vision de l’école','Une page éditoriale indépendante')}<article class="detail text">${v.split(/(?<=\.)\s+(?=[A-ZÀÉÈ])/).filter(Boolean).map(p=>`<p>${esc(p)}</p>`).join('')}</article>`)}
+function identity(){const p=DATA.pages.home;layout(`${pageHead('Qui je suis','Parcours, CV et lettre de motivation')}<article class="detail"><h3>Mon parcours</h3>${p.text.split(/(?<=\.)\s+(?=[A-ZÀÉÈ])/).slice(0,5).map(t=>`<p>${esc(t)}</p>`).join('')}<div class="pdfs"><a class="pdf" href="documents/CV-Audrey-Lita-Sonnet-2026.pdf" target="_blank">📄 Voir mon CV</a><a class="pdf" href="documents/Lettre-de-motivation-2e-annee.pdf" target="_blank">📄 Lettre de motivation</a></div><h3>Ma vision de l’école</h3><p>Ma réflexion sur l’inclusion, les classes à niveaux multiples et la place de l’enfant dans la communauté scolaire.</p><p><a class="link" href="#/vision">Lire ma vision →</a></p></article>`)}
+function searchPage(q){const terms=DATA.glossaire.filter(x=>[x.title,...x.content].join(' ').toLowerCase().includes(q.toLowerCase())).slice(0,8);const arts=DATA.artistes.filter(x=>[x.name,...x.bio].join(' ').toLowerCase().includes(q.toLowerCase())).slice(0,8);layout(`${pageHead('Recherche',`Résultats pour « ${q} »`)}<div class="cards"><article class="card"><h3>Glossaire</h3>${terms.map(x=>`<p><a class="link" href="#/glossaire/${x.id}">${esc(x.title)}</a></p>`).join('')||'<p>Aucun résultat.</p>'}</article><article class="card"><h3>Artistes</h3>${arts.map(x=>`<p><a class="link" href="#/artistes/${x.id}">${esc(x.name)}</a></p>`).join('')||'<p>Aucun résultat.</p>'}</article></div>`)}
+function router(){const h=decodeURIComponent(location.hash||'#/');const parts=h.replace(/^#\/?/,'').split('/').filter(Boolean);if(!parts.length)return home();const [r,id]=parts;if(r==='glossaire')return id?glossaryDetail(id):glossaryList();if(r==='artistes')return id?artistDetail(id):artists();if(r==='ateliers')return id?workshopDetail(id):workshops();if(r==='objets')return objects();if(r==='activites')return id?activityDetail(id):activities();if(r==='preparations')return preparations();if(r==='qui-je-suis')return identity();if(r==='vision')return vision();if(r==='stages')return stages();if(r==='recherche')return searchPage(id||'');return home()}
+Promise.all(['glossaire','artistes','objets-culturels'].map(n=>fetch(`data/${n}.json`).then(r=>r.json()))).then(([g,a,o])=>{DATA.glossaire=g;DATA.artistes=a;DATA.objets=o;return fetch('data/ateliers.json').then(r=>r.json())}).then(w=>{DATA.ateliers=w;return fetch('data/pages.json').then(r=>r.json())}).then(p=>{DATA.pages=p;router();window.addEventListener('hashchange',router)});
