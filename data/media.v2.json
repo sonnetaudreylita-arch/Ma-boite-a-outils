@@ -1,0 +1,2281 @@
+[
+  {
+    "id": "0108beca2d28fa34da0ab6f2b1d293d9",
+    "type": "image",
+    "filename": "0108beca2d28fa34da0ab6f2b1d293d9.webp",
+    "path": "assets/0108beca2d28fa34da0ab6f2b1d293d9.webp",
+    "mime": "image/webp",
+    "sha256": "0f1f11e6be9a35240e8a55487312d3083bc318aadfc5239a57e6c4ac8589d9aa",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "05b03a9a9ccb2bfbf2f631d813ef94c4",
+    "type": "image",
+    "filename": "05b03a9a9ccb2bfbf2f631d813ef94c4.webp",
+    "path": "assets/05b03a9a9ccb2bfbf2f631d813ef94c4.webp",
+    "mime": "image/webp",
+    "sha256": "d36ffc59ebef29ee0e9a11824c7b8442088fea200fca3660a1df41abf48ad137",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-4"
+    ]
+  },
+  {
+    "id": "06df3aa03f06b6ba7fe8afe39235d3fb",
+    "type": "image",
+    "filename": "06df3aa03f06b6ba7fe8afe39235d3fb.webp",
+    "path": "assets/06df3aa03f06b6ba7fe8afe39235d3fb.webp",
+    "mime": "image/webp",
+    "sha256": "41911b62ef15a57681494c8c7cd7a89c925a0e505d855adc0837f64fda8c895f",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "088c36ca0ce2e91f71ff2d7e079c6ce0",
+    "type": "image",
+    "filename": "088c36ca0ce2e91f71ff2d7e079c6ce0.webp",
+    "path": "assets/088c36ca0ce2e91f71ff2d7e079c6ce0.webp",
+    "mime": "image/webp",
+    "sha256": "372fad62f818f2faa01b759fe1c2f1fc4b69a1a937b3402a55d50cfba7d180cd",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "0901279c25694cf8e4db121b8d5f5907",
+    "type": "image",
+    "filename": "0901279c25694cf8e4db121b8d5f5907.webp",
+    "path": "assets/0901279c25694cf8e4db121b8d5f5907.webp",
+    "mime": "image/webp",
+    "sha256": "4d96825e00c6febe5255b962aa3dc5c6d435ffcb4ad1eed2f37ebfb4afbf4c41",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "0b61a957612c35349376ef0d88556999",
+    "type": "image",
+    "filename": "0b61a957612c35349376ef0d88556999.webp",
+    "path": "assets/0b61a957612c35349376ef0d88556999.webp",
+    "mime": "image/webp",
+    "sha256": "a7fcb4cf2fca1fe5f40b8177d34e79c3cfdeed7f13c8b01d59ac2c8c81766b82",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "0b73404a42c83dc779bd26bcb671ad3e",
+    "type": "image",
+    "filename": "0b73404a42c83dc779bd26bcb671ad3e.webp",
+    "path": "assets/0b73404a42c83dc779bd26bcb671ad3e.webp",
+    "mime": "image/webp",
+    "sha256": "0c8e353bacc01ecbe2cbdf618d769b93aa4fe53babeb90bb9398e5cbfe16a6c2",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "0cd64800ecfa772b81301e75b31b22df",
+    "type": "image",
+    "filename": "0cd64800ecfa772b81301e75b31b22df.webp",
+    "path": "assets/0cd64800ecfa772b81301e75b31b22df.webp",
+    "mime": "image/webp",
+    "sha256": "d117eaa569ab34bf8745689103e0d65f9e5478ece9c1d1895b55094ec3a2f061",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "0de6befc110858d102190fe013626342",
+    "type": "image",
+    "filename": "0de6befc110858d102190fe013626342.webp",
+    "path": "assets/0de6befc110858d102190fe013626342.webp",
+    "mime": "image/webp",
+    "sha256": "ed328c2bddf63e521a8add8548d39eddf37b938d395767fefec908af02624715",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-3"
+    ]
+  },
+  {
+    "id": "0fc99cef08381697db74e3c5fc5fc2f8",
+    "type": "image",
+    "filename": "0fc99cef08381697db74e3c5fc5fc2f8.webp",
+    "path": "assets/0fc99cef08381697db74e3c5fc5fc2f8.webp",
+    "mime": "image/webp",
+    "sha256": "957d8bc0f5089fba44251e589ab3817ae39408c51d97ae291e9034bf796cac45",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "12658c03d83d9eea667acaef98b9dad5",
+    "type": "image",
+    "filename": "12658c03d83d9eea667acaef98b9dad5.webp",
+    "path": "assets/12658c03d83d9eea667acaef98b9dad5.webp",
+    "mime": "image/webp",
+    "sha256": "8167cd701ba6c6ac046868282fb9fe4798947820c84218ff150c8ed0917090e2",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "13b5a1f71751d2d61ae7f5a270c88841",
+    "type": "image",
+    "filename": "13b5a1f71751d2d61ae7f5a270c88841.webp",
+    "path": "assets/13b5a1f71751d2d61ae7f5a270c88841.webp",
+    "mime": "image/webp",
+    "sha256": "30ef9c95b80bee433cb8cf3aec4998782c8fd180425c3abe6d6096745f76d93c",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "150aab1adb16425fef2853a2403aae5a",
+    "type": "image",
+    "filename": "150aab1adb16425fef2853a2403aae5a.webp",
+    "path": "assets/150aab1adb16425fef2853a2403aae5a.webp",
+    "mime": "image/webp",
+    "sha256": "3755db353dae87132a647622ec5e64ff4fb07882bead0e7e1295ec43b1e8c06e",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "1699f9876b01bf07f797b409bedcd701",
+    "type": "image",
+    "filename": "1699f9876b01bf07f797b409bedcd701.webp",
+    "path": "assets/1699f9876b01bf07f797b409bedcd701.webp",
+    "mime": "image/webp",
+    "sha256": "b198f11e2b5dfcb6a12137278e90b660808d835c7c04bf6e96b03570b70eb3e8",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "16d3578253a2f57fae835da74d8674c3",
+    "type": "image",
+    "filename": "16d3578253a2f57fae835da74d8674c3.webp",
+    "path": "assets/16d3578253a2f57fae835da74d8674c3.webp",
+    "mime": "image/webp",
+    "sha256": "aec37cf00f682d246aa136bf0dbad60edb18b9a2dba7b32b071326b61b63b2d9",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "18547d9f86fe6d5d13643d3ff3099dea",
+    "type": "image",
+    "filename": "18547d9f86fe6d5d13643d3ff3099dea.webp",
+    "path": "assets/18547d9f86fe6d5d13643d3ff3099dea.webp",
+    "mime": "image/webp",
+    "sha256": "62cc094d7dae4cd7c59f5125b424403add2a3ed3d2d2ef944b8a7454dda98d4d",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "19219c66d48a073c7b560bebae517a02",
+    "type": "image",
+    "filename": "19219c66d48a073c7b560bebae517a02.webp",
+    "path": "assets/19219c66d48a073c7b560bebae517a02.webp",
+    "mime": "image/webp",
+    "sha256": "f8837602426869eabd3163e17a6d49c362677c1cba8e01ee5b91ef58406d18e3",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "1b4ef5d09970deb1c4bc7ac854f3daf4",
+    "type": "image",
+    "filename": "1b4ef5d09970deb1c4bc7ac854f3daf4.webp",
+    "path": "assets/1b4ef5d09970deb1c4bc7ac854f3daf4.webp",
+    "mime": "image/webp",
+    "sha256": "5b94642b1af06e69f5b21f7ffa47ed8fe45bfbb211b139cd84af63d689772e98",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "1db3e2ed682d7a45af16fb66f8e72dc8",
+    "type": "image",
+    "filename": "1db3e2ed682d7a45af16fb66f8e72dc8.webp",
+    "path": "assets/1db3e2ed682d7a45af16fb66f8e72dc8.webp",
+    "mime": "image/webp",
+    "sha256": "4f31d8dd9c36df94b1451ab9245277081f81d92eccd03b8b189a59e90606b828",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "1e4ff24b461597127cfa43231fb4d5a8",
+    "type": "image",
+    "filename": "1e4ff24b461597127cfa43231fb4d5a8.webp",
+    "path": "assets/1e4ff24b461597127cfa43231fb4d5a8.webp",
+    "mime": "image/webp",
+    "sha256": "41b0e470d5b1bcb9403a018e01375d8eefe3de4f9ad0d83b14f90c061c775d0e",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "1f8b475019f5613d064337a3360e8862",
+    "type": "image",
+    "filename": "1f8b475019f5613d064337a3360e8862.webp",
+    "path": "assets/1f8b475019f5613d064337a3360e8862.webp",
+    "mime": "image/webp",
+    "sha256": "6f48763ee175badff3df146ea285b5e0800ad50386d85b7cda9eecb522a78499",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "1fd2d83b2a97b191d3622eab6d254301",
+    "type": "image",
+    "filename": "1fd2d83b2a97b191d3622eab6d254301.webp",
+    "path": "assets/1fd2d83b2a97b191d3622eab6d254301.webp",
+    "mime": "image/webp",
+    "sha256": "01831bef54846d2b60bb0b1e916b6623857526d8c06f2e4bf0079288da673c8f",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "2283b722a27d9189fa670411e9cccaba",
+    "type": "image",
+    "filename": "2283b722a27d9189fa670411e9cccaba.webp",
+    "path": "assets/2283b722a27d9189fa670411e9cccaba.webp",
+    "mime": "image/webp",
+    "sha256": "7f10b1cf3abcad451874d81031586deb9f29849f10ffe74c811b5db4fe685027",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-3"
+    ]
+  },
+  {
+    "id": "24b2bbfd42e97f6198dab4d3d2e141de",
+    "type": "image",
+    "filename": "24b2bbfd42e97f6198dab4d3d2e141de.webp",
+    "path": "assets/24b2bbfd42e97f6198dab4d3d2e141de.webp",
+    "mime": "image/webp",
+    "sha256": "223188291b4c8b681fcaa4168db4726ae38d5f9ede2b3bbf7827f0f65d4db1d7",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "27cdb9634e5203961d8ac7668cd1fafe",
+    "type": "image",
+    "filename": "27cdb9634e5203961d8ac7668cd1fafe.webp",
+    "path": "assets/27cdb9634e5203961d8ac7668cd1fafe.webp",
+    "mime": "image/webp",
+    "sha256": "1e0bb0957fabf51f45410e84158ff3edf17f33658d4c55b17e5bcabb88cdc11a",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "27f72e98b63ba59681a33de100646e6f",
+    "type": "image",
+    "filename": "27f72e98b63ba59681a33de100646e6f.webp",
+    "path": "assets/27f72e98b63ba59681a33de100646e6f.webp",
+    "mime": "image/webp",
+    "sha256": "4bd676fc5d04c26455b5c34a0d5c1b64c7563c9dfaa3d2681ecee6b189a005d5",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-2"
+    ]
+  },
+  {
+    "id": "28d53ec50b9839c3e4119669a4c7d87e",
+    "type": "image",
+    "filename": "28d53ec50b9839c3e4119669a4c7d87e.webp",
+    "path": "assets/28d53ec50b9839c3e4119669a4c7d87e.webp",
+    "mime": "image/webp",
+    "sha256": "2c116c66e6067ec4553007ad3cbf7d8b4c172e492a382c556f014f9facb259ea",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "28e736b7cd9b4cba6c2a0c59fb350e4a",
+    "type": "image",
+    "filename": "28e736b7cd9b4cba6c2a0c59fb350e4a.webp",
+    "path": "assets/28e736b7cd9b4cba6c2a0c59fb350e4a.webp",
+    "mime": "image/webp",
+    "sha256": "0ed4170ceb439b776f6fa6ae142ffe5605471ea195f2f6b96dc4409b510e6b78",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "2b427fb2cd7d30ae8c3f589305f4e76e",
+    "type": "image",
+    "filename": "2b427fb2cd7d30ae8c3f589305f4e76e.webp",
+    "path": "assets/2b427fb2cd7d30ae8c3f589305f4e76e.webp",
+    "mime": "image/webp",
+    "sha256": "3fda65b981cbe3c09b6b2e34ae1585e1a8b85293d67b0067cc624f148a76ca44",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "2b98346673c8e5363d67dee8bbd3e310",
+    "type": "image",
+    "filename": "2b98346673c8e5363d67dee8bbd3e310.webp",
+    "path": "assets/2b98346673c8e5363d67dee8bbd3e310.webp",
+    "mime": "image/webp",
+    "sha256": "4032f8d0844591160cf4829f7f969346b6e8d02c6c6a43671ce6c55ef1ce345a",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "2d7afcb25db84d017314689f358c1847",
+    "type": "image",
+    "filename": "2d7afcb25db84d017314689f358c1847.webp",
+    "path": "assets/2d7afcb25db84d017314689f358c1847.webp",
+    "mime": "image/webp",
+    "sha256": "1ddd78311067f6363ba807e2e26f8bf7ae60eea721e7667195dfb184489a72a2",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "2ecc83464532419b68de1cbb6db43766",
+    "type": "image",
+    "filename": "2ecc83464532419b68de1cbb6db43766.webp",
+    "path": "assets/2ecc83464532419b68de1cbb6db43766.webp",
+    "mime": "image/webp",
+    "sha256": "8f68a35f36ce64abb76f050f256c4b5ad47608bad39d4f35067b3df538faaa77",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "2ff1e95b9d78c3edeeb88c8a948c2fbc",
+    "type": "image",
+    "filename": "2ff1e95b9d78c3edeeb88c8a948c2fbc.webp",
+    "path": "assets/2ff1e95b9d78c3edeeb88c8a948c2fbc.webp",
+    "mime": "image/webp",
+    "sha256": "120e6f58ad2603a3e9d27bb5e9b7362275690efc981db7aef76e345c643c76c9",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-3"
+    ]
+  },
+  {
+    "id": "30b483423ff7a36dea9166131a3c0e47",
+    "type": "image",
+    "filename": "30b483423ff7a36dea9166131a3c0e47.webp",
+    "path": "assets/30b483423ff7a36dea9166131a3c0e47.webp",
+    "mime": "image/webp",
+    "sha256": "48f1227cc0e7d09d864e2d48540c835e15df0d50bd1ffeb052b89a43749e0d83",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-2"
+    ]
+  },
+  {
+    "id": "31a9d173d0797684f05a783ebed12a76",
+    "type": "image",
+    "filename": "31a9d173d0797684f05a783ebed12a76.webp",
+    "path": "assets/31a9d173d0797684f05a783ebed12a76.webp",
+    "mime": "image/webp",
+    "sha256": "d3689033bbcee9d4a13cf58f72e0f982deb360dab12a0e06ef054315245ef989",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "31e8c877e7afcf455a6461c155b70a1b",
+    "type": "image",
+    "filename": "31e8c877e7afcf455a6461c155b70a1b.webp",
+    "path": "assets/31e8c877e7afcf455a6461c155b70a1b.webp",
+    "mime": "image/webp",
+    "sha256": "76a705d201dbd05038f8229535a5b5025ba0682e6861d47b4347e8bb38d4c19a",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "32c3def440ae1d558ff622dbb9b7e969",
+    "type": "image",
+    "filename": "32c3def440ae1d558ff622dbb9b7e969.webp",
+    "path": "assets/32c3def440ae1d558ff622dbb9b7e969.webp",
+    "mime": "image/webp",
+    "sha256": "1d03b18509ae5950cebc8b6d0f8c299173cb21e30315d90aecd4b418cf0ea4e3",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "38fbbb65d01916d98960d8d94c0f61c9",
+    "type": "image",
+    "filename": "38fbbb65d01916d98960d8d94c0f61c9.webp",
+    "path": "assets/38fbbb65d01916d98960d8d94c0f61c9.webp",
+    "mime": "image/webp",
+    "sha256": "e56a90cc63d296f546665b6961875676b1bdfedc6524838bc824d248fb3fa93e",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "39ed3ac5eab32de3dd71d061d1a0aaf4",
+    "type": "image",
+    "filename": "39ed3ac5eab32de3dd71d061d1a0aaf4.webp",
+    "path": "assets/39ed3ac5eab32de3dd71d061d1a0aaf4.webp",
+    "mime": "image/webp",
+    "sha256": "15f59c474410dfe1d65cd1ada8f9701aa241aa130755dac0d626eeca4bc70d6b",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "3a1158c9cebb0eb58d207343bbd6753d",
+    "type": "image",
+    "filename": "3a1158c9cebb0eb58d207343bbd6753d.webp",
+    "path": "assets/3a1158c9cebb0eb58d207343bbd6753d.webp",
+    "mime": "image/webp",
+    "sha256": "008687cf35499082b970bbafff810b90ae60e938d1a8274a4ca4b6ee68921e12",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "3b2eb2de9e73e5b6e01a3d051c12d72f",
+    "type": "image",
+    "filename": "3b2eb2de9e73e5b6e01a3d051c12d72f.webp",
+    "path": "assets/3b2eb2de9e73e5b6e01a3d051c12d72f.webp",
+    "mime": "image/webp",
+    "sha256": "fe39cd2892da4d42ff63b0c958b1f447a30e2e5e958b0c83eeb3a8326356cb1c",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-4"
+    ]
+  },
+  {
+    "id": "3b6314a3de106a983b39dfaa2126fbff",
+    "type": "image",
+    "filename": "3b6314a3de106a983b39dfaa2126fbff.webp",
+    "path": "assets/3b6314a3de106a983b39dfaa2126fbff.webp",
+    "mime": "image/webp",
+    "sha256": "ead00487720a1ae1da7c5eee6663a85a43f40acfd477d202fa123a551ac253e3",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "3bec7151ee4a2374b94ee527d2d0a48a",
+    "type": "image",
+    "filename": "3bec7151ee4a2374b94ee527d2d0a48a.webp",
+    "path": "assets/3bec7151ee4a2374b94ee527d2d0a48a.webp",
+    "mime": "image/webp",
+    "sha256": "ff7d603fd322383ca809459060af763ec7a979cd29d007f740170599c84e6fe1",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "3cc1c8c0f6a97e8e111f661b8e081df4",
+    "type": "image",
+    "filename": "3cc1c8c0f6a97e8e111f661b8e081df4.webp",
+    "path": "assets/3cc1c8c0f6a97e8e111f661b8e081df4.webp",
+    "mime": "image/webp",
+    "sha256": "a1ea27e70293b0ea22ea32ff50bafdddbf2996d52d37df7aca223141bda85fd1",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "3ec64c4e749a8ca278325ef98704f9e9",
+    "type": "image",
+    "filename": "3ec64c4e749a8ca278325ef98704f9e9.webp",
+    "path": "assets/3ec64c4e749a8ca278325ef98704f9e9.webp",
+    "mime": "image/webp",
+    "sha256": "8eecb032339d4d2791c0e82b385a8f1e89cf47b7cdd45f3daf3291b119aa4f66",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-1"
+    ]
+  },
+  {
+    "id": "3edd6abcf2e4f441b1fa72e1234af967",
+    "type": "image",
+    "filename": "3edd6abcf2e4f441b1fa72e1234af967.webp",
+    "path": "assets/3edd6abcf2e4f441b1fa72e1234af967.webp",
+    "mime": "image/webp",
+    "sha256": "697285a8d5a9ecb4820149d9c8fee48c5dab445e31bd5be3b340964268eeb830",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "413ba61d4dec2f2d757125008740ebb4",
+    "type": "image",
+    "filename": "413ba61d4dec2f2d757125008740ebb4.webp",
+    "path": "assets/413ba61d4dec2f2d757125008740ebb4.webp",
+    "mime": "image/webp",
+    "sha256": "7befad222c0f5b4786ed89420670ea714c69763e8f163bf8378903f476e50581",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "418933a345b544767576a05814a61d1c",
+    "type": "image",
+    "filename": "418933a345b544767576a05814a61d1c.webp",
+    "path": "assets/418933a345b544767576a05814a61d1c.webp",
+    "mime": "image/webp",
+    "sha256": "cbfccf5271199b8904498665418e47306d832cd953e9f37417cfd147312fa678",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "432fb4a3e6d8ce2157bd66f0b8db17f3",
+    "type": "image",
+    "filename": "432fb4a3e6d8ce2157bd66f0b8db17f3.webp",
+    "path": "assets/432fb4a3e6d8ce2157bd66f0b8db17f3.webp",
+    "mime": "image/webp",
+    "sha256": "ba3a9817f25cd5e2b18265c4f25c6d33a7a67e78bda2d6f61859c25cebced2e9",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "43336eadc58a24daacc4a597c8c256b6",
+    "type": "image",
+    "filename": "43336eadc58a24daacc4a597c8c256b6.webp",
+    "path": "assets/43336eadc58a24daacc4a597c8c256b6.webp",
+    "mime": "image/webp",
+    "sha256": "7c62759517ec9df35cd802c0f5662834fb7e8da9d15d824a348e55ce2a383b98",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "4507331886fe2abfda481186136dde9e",
+    "type": "image",
+    "filename": "4507331886fe2abfda481186136dde9e.webp",
+    "path": "assets/4507331886fe2abfda481186136dde9e.webp",
+    "mime": "image/webp",
+    "sha256": "8cc87fe3520d9c10e07c0e233f62d3216ba7f53868fcb992455425ee5410ffcc",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-1"
+    ]
+  },
+  {
+    "id": "46485e9d5e7d0237e295ea4b705fe758",
+    "type": "image",
+    "filename": "46485e9d5e7d0237e295ea4b705fe758.webp",
+    "path": "assets/46485e9d5e7d0237e295ea4b705fe758.webp",
+    "mime": "image/webp",
+    "sha256": "0ddd4b2d931b0e302325142d8a495c56afb3c794bd7a13a9f1cb2c4d2d12db48",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "47b035766d9976d635021ae9588a5340",
+    "type": "image",
+    "filename": "47b035766d9976d635021ae9588a5340.webp",
+    "path": "assets/47b035766d9976d635021ae9588a5340.webp",
+    "mime": "image/webp",
+    "sha256": "f3097ac6a6341680959863e21d6b95d0d49b2dd4da29a6ce68e9c8479af60f13",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-1"
+    ]
+  },
+  {
+    "id": "4cbbc684e00d9ea397bcedb9596f0022",
+    "type": "image",
+    "filename": "4cbbc684e00d9ea397bcedb9596f0022.webp",
+    "path": "assets/4cbbc684e00d9ea397bcedb9596f0022.webp",
+    "mime": "image/webp",
+    "sha256": "0fd7880ee3f1a0fce849b40a2f863b39c94d15a8047dc77e30a173ca666a13a5",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-2"
+    ]
+  },
+  {
+    "id": "4d2bda1de7c3922ef6da0afeeaa7ba00",
+    "type": "image",
+    "filename": "4d2bda1de7c3922ef6da0afeeaa7ba00.webp",
+    "path": "assets/4d2bda1de7c3922ef6da0afeeaa7ba00.webp",
+    "mime": "image/webp",
+    "sha256": "a5b011a9be4d5c8010ba38c475fe3495c0181719072e2d0e37b9e8422c020310",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "4e39f93ab2a58cd05772400fc8c33740",
+    "type": "image",
+    "filename": "4e39f93ab2a58cd05772400fc8c33740.webp",
+    "path": "assets/4e39f93ab2a58cd05772400fc8c33740.webp",
+    "mime": "image/webp",
+    "sha256": "cf22b87db6760d93b453958b46ee72c0bec69f2e76df422990289f6f5569b5a7",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "50ed4b7fa4c2dbcaa3c70f899fbfa41e",
+    "type": "image",
+    "filename": "50ed4b7fa4c2dbcaa3c70f899fbfa41e.webp",
+    "path": "assets/50ed4b7fa4c2dbcaa3c70f899fbfa41e.webp",
+    "mime": "image/webp",
+    "sha256": "94b9c9888e8add731d40485578fcd99ff6e1cc47b5cc42d5b7289dfacf2b655d",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "50fd09d2ee25a3d011170988cf56b7e3",
+    "type": "image",
+    "filename": "50fd09d2ee25a3d011170988cf56b7e3.webp",
+    "path": "assets/50fd09d2ee25a3d011170988cf56b7e3.webp",
+    "mime": "image/webp",
+    "sha256": "7c921e7ec210dd41d4da3118dc8c05f42074e96095f17418acb271d117c7bb6f",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "52933513b47b2d47bbd9e84ce11085fc",
+    "type": "image",
+    "filename": "52933513b47b2d47bbd9e84ce11085fc.webp",
+    "path": "assets/52933513b47b2d47bbd9e84ce11085fc.webp",
+    "mime": "image/webp",
+    "sha256": "8d35154efb2b1572a4d8a69f3566bb180241661e2f2ee473b3f1eb9c7e2fae62",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "55e10e78342e48d1020fd00c97f94dfb",
+    "type": "image",
+    "filename": "55e10e78342e48d1020fd00c97f94dfb.webp",
+    "path": "assets/55e10e78342e48d1020fd00c97f94dfb.webp",
+    "mime": "image/webp",
+    "sha256": "da9d3d800490b3f9e6b6c55331e486421521d2c3abc52310dba3e0f9b531a6de",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "56abf1a934c1b196aaff6f7320ca8853",
+    "type": "image",
+    "filename": "56abf1a934c1b196aaff6f7320ca8853.webp",
+    "path": "assets/56abf1a934c1b196aaff6f7320ca8853.webp",
+    "mime": "image/webp",
+    "sha256": "dede36c4f5a4417c65962bea793a6434dc73dba22ab44c4f4989797c067f3e9e",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "588b225edf08d4030a89a07fce0d7ff6",
+    "type": "image",
+    "filename": "588b225edf08d4030a89a07fce0d7ff6.webp",
+    "path": "assets/588b225edf08d4030a89a07fce0d7ff6.webp",
+    "mime": "image/webp",
+    "sha256": "4f020a5bb717f56cdfb18968b10cb53892c4893f1595eb9caa92b352fcd70a31",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "58b93b19ccc6779e1afce9e6fe5b92be",
+    "type": "image",
+    "filename": "58b93b19ccc6779e1afce9e6fe5b92be.webp",
+    "path": "assets/58b93b19ccc6779e1afce9e6fe5b92be.webp",
+    "mime": "image/webp",
+    "sha256": "05054e45862f22baaf67909c7501b8af5c8b8b8fae31882d63176e1f95e24e55",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-3"
+    ]
+  },
+  {
+    "id": "59496c013bbdbc5d43df5688c2b34304",
+    "type": "image",
+    "filename": "59496c013bbdbc5d43df5688c2b34304.webp",
+    "path": "assets/59496c013bbdbc5d43df5688c2b34304.webp",
+    "mime": "image/webp",
+    "sha256": "1aac1a4b5c14dfe5a6d4861f186585daf60400df2697f16310ba2c0a541c980e",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "59b1903acb615e682b47a1bc5f6559ae",
+    "type": "image",
+    "filename": "59b1903acb615e682b47a1bc5f6559ae.webp",
+    "path": "assets/59b1903acb615e682b47a1bc5f6559ae.webp",
+    "mime": "image/webp",
+    "sha256": "23238f75ba25216e57d3fa084e91068243e6f5c23c15028abf168ca96fc0155c",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "59c30237e8681326c5c82d173b128b46",
+    "type": "image",
+    "filename": "59c30237e8681326c5c82d173b128b46.webp",
+    "path": "assets/59c30237e8681326c5c82d173b128b46.webp",
+    "mime": "image/webp",
+    "sha256": "1c3b7abc6275b678355fe9cc626c753de2adbd8e555cf9fe60f57c39bd25094f",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "5afed428042a859379903684bab82429",
+    "type": "image",
+    "filename": "5afed428042a859379903684bab82429.webp",
+    "path": "assets/5afed428042a859379903684bab82429.webp",
+    "mime": "image/webp",
+    "sha256": "250431c78f7d7b93f1d92e1e3cd58a0c31e236ab910dc469570abe3fefefaca3",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "5cd5c95b822e8d0ed684bb1f4fb5a9b2",
+    "type": "image",
+    "filename": "5cd5c95b822e8d0ed684bb1f4fb5a9b2.webp",
+    "path": "assets/5cd5c95b822e8d0ed684bb1f4fb5a9b2.webp",
+    "mime": "image/webp",
+    "sha256": "97ccfb0863ad876f9224c287f967431bf503740fe90659d61d7efb6e5426b473",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-3"
+    ]
+  },
+  {
+    "id": "5d0acd52da61e25743660bf567d5919d",
+    "type": "image",
+    "filename": "5d0acd52da61e25743660bf567d5919d.webp",
+    "path": "assets/5d0acd52da61e25743660bf567d5919d.webp",
+    "mime": "image/webp",
+    "sha256": "c2b11c44c29161ee92c619c70f30a9b380c0c6ea1abe499317232dccf2bc6b53",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-4"
+    ]
+  },
+  {
+    "id": "5ec182c5b084debd35fb0351bde94296",
+    "type": "image",
+    "filename": "5ec182c5b084debd35fb0351bde94296.webp",
+    "path": "assets/5ec182c5b084debd35fb0351bde94296.webp",
+    "mime": "image/webp",
+    "sha256": "04f4d605f8866fa4c601aff554031f62c4a7da44b207cc1968e7506edeae87ba",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "6067737663121c48d38352e37ce0313b",
+    "type": "image",
+    "filename": "6067737663121c48d38352e37ce0313b.webp",
+    "path": "assets/6067737663121c48d38352e37ce0313b.webp",
+    "mime": "image/webp",
+    "sha256": "55b8149603d4364ed4687c4bad0dfbcc10b881797a7dba3806b485d692b137d7",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "616721408bb30dc0b42426a7e5c9bd49",
+    "type": "image",
+    "filename": "616721408bb30dc0b42426a7e5c9bd49.webp",
+    "path": "assets/616721408bb30dc0b42426a7e5c9bd49.webp",
+    "mime": "image/webp",
+    "sha256": "36748d9d35a8b589a4e4c128f9185f4f749095f08cdc01f54e53d7b6c0534844",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "61c1f5b6be4cab7b66f05483fdf6bcfb",
+    "type": "image",
+    "filename": "61c1f5b6be4cab7b66f05483fdf6bcfb.webp",
+    "path": "assets/61c1f5b6be4cab7b66f05483fdf6bcfb.webp",
+    "mime": "image/webp",
+    "sha256": "282070fcd0bee3e21d8204aa9a26c8aa53db0e359ded1240eac3a68433f9a7c9",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "62b5f500091cb6932c8a9342a83ab605",
+    "type": "image",
+    "filename": "62b5f500091cb6932c8a9342a83ab605.webp",
+    "path": "assets/62b5f500091cb6932c8a9342a83ab605.webp",
+    "mime": "image/webp",
+    "sha256": "2ee3ff14e1aeb1c36c8057070ce73d022a8b18db28125c039ef40a53b3efb1eb",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "64b66f3268e84a5aa9babeb937debea3",
+    "type": "image",
+    "filename": "64b66f3268e84a5aa9babeb937debea3.webp",
+    "path": "assets/64b66f3268e84a5aa9babeb937debea3.webp",
+    "mime": "image/webp",
+    "sha256": "d117eaa569ab34bf8745689103e0d65f9e5478ece9c1d1895b55094ec3a2f061",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "650d62466ce4eeb17ea64664b937037a",
+    "type": "image",
+    "filename": "650d62466ce4eeb17ea64664b937037a.webp",
+    "path": "assets/650d62466ce4eeb17ea64664b937037a.webp",
+    "mime": "image/webp",
+    "sha256": "99d73b670d142b9063808cdd31910fb4863563b317a22c54fa016efd30b0430c",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "67de51d098215eb4ef5f7b855c269f4a",
+    "type": "image",
+    "filename": "67de51d098215eb4ef5f7b855c269f4a.webp",
+    "path": "assets/67de51d098215eb4ef5f7b855c269f4a.webp",
+    "mime": "image/webp",
+    "sha256": "79e7a9ab047596378a19a7b495421ed320c3d7a247545dbc680814fae3c83203",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-2"
+    ]
+  },
+  {
+    "id": "683eaf3165b65a30ee3c9cda133693d6",
+    "type": "image",
+    "filename": "683eaf3165b65a30ee3c9cda133693d6.webp",
+    "path": "assets/683eaf3165b65a30ee3c9cda133693d6.webp",
+    "mime": "image/webp",
+    "sha256": "b9337d828fe728f5064bddadba0e6c0d2d7e0f72f9514cf8f447b11374ae094f",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-2"
+    ]
+  },
+  {
+    "id": "68aad4f52106255ac3c944cedc06074f",
+    "type": "image",
+    "filename": "68aad4f52106255ac3c944cedc06074f.webp",
+    "path": "assets/68aad4f52106255ac3c944cedc06074f.webp",
+    "mime": "image/webp",
+    "sha256": "6002cc63f23d4796a9e0b39daec6dc5a2585475806a89e30eb73e470df8f3201",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "68f14272d83aca3518a76ad26e023a13",
+    "type": "image",
+    "filename": "68f14272d83aca3518a76ad26e023a13.webp",
+    "path": "assets/68f14272d83aca3518a76ad26e023a13.webp",
+    "mime": "image/webp",
+    "sha256": "5c61fff927f89f901e457ad8e7bb3ccacb2978e3fccb6573bdaa92654fa3d933",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-3"
+    ]
+  },
+  {
+    "id": "694bc7b3d183ef6571b1696d95c31274",
+    "type": "image",
+    "filename": "694bc7b3d183ef6571b1696d95c31274.webp",
+    "path": "assets/694bc7b3d183ef6571b1696d95c31274.webp",
+    "mime": "image/webp",
+    "sha256": "089454e46bf808b9cbdbc5103c6750ec27ea40af2c12a032e5946595604b6c94",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "69b83fccfd8fb8420adfab68252f86eb",
+    "type": "image",
+    "filename": "69b83fccfd8fb8420adfab68252f86eb.webp",
+    "path": "assets/69b83fccfd8fb8420adfab68252f86eb.webp",
+    "mime": "image/webp",
+    "sha256": "ff32003017b52949c846079a1a0e6e33356faf84ba865815e70eaf556a901102",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "69fdd3431d6561d8247a465750fbd4b4",
+    "type": "image",
+    "filename": "69fdd3431d6561d8247a465750fbd4b4.webp",
+    "path": "assets/69fdd3431d6561d8247a465750fbd4b4.webp",
+    "mime": "image/webp",
+    "sha256": "0b698ff2702ad3c97e5609fc66048d7879a0e8432abc71f5c32654c5bb64d8aa",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "6a1d39e063868dc1f01912a5c4aa5856",
+    "type": "image",
+    "filename": "6a1d39e063868dc1f01912a5c4aa5856.webp",
+    "path": "assets/6a1d39e063868dc1f01912a5c4aa5856.webp",
+    "mime": "image/webp",
+    "sha256": "c353ee90a6ec7921218f814215997172fb88debc089bd3e81db18d4e73b2a342",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-2"
+    ]
+  },
+  {
+    "id": "6b4ab9f72ac77faf90c72f10c96073a3",
+    "type": "image",
+    "filename": "6b4ab9f72ac77faf90c72f10c96073a3.webp",
+    "path": "assets/6b4ab9f72ac77faf90c72f10c96073a3.webp",
+    "mime": "image/webp",
+    "sha256": "e3e477764de11f23f7cbd6ff57e6a70d9c042925c895fdb368c172a76f84dea3",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "6c0053a3df7941f64b12b5d9813fc49b",
+    "type": "image",
+    "filename": "6c0053a3df7941f64b12b5d9813fc49b.webp",
+    "path": "assets/6c0053a3df7941f64b12b5d9813fc49b.webp",
+    "mime": "image/webp",
+    "sha256": "75e1ff59b7eef5949ba50ef376463af72942ea28ba87d8087dcac1b6e0b1fa95",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "6cd66f3698050cdf57ccc96036cf4829",
+    "type": "image",
+    "filename": "6cd66f3698050cdf57ccc96036cf4829.webp",
+    "path": "assets/6cd66f3698050cdf57ccc96036cf4829.webp",
+    "mime": "image/webp",
+    "sha256": "09e7e3a8795db3cdc197582d4a7ba3d9f52033b6918f9e56c8f35d7f4ce29330",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "6fbbf3f064fabfaca17c1283a721eee1",
+    "type": "image",
+    "filename": "6fbbf3f064fabfaca17c1283a721eee1.webp",
+    "path": "assets/6fbbf3f064fabfaca17c1283a721eee1.webp",
+    "mime": "image/webp",
+    "sha256": "5bcad143f68e1a41927a7791e830deeb86bd30a313b8d909899ee2dae8fd86c7",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "720b85b7f2efbc768a89f6160f241316",
+    "type": "image",
+    "filename": "720b85b7f2efbc768a89f6160f241316.webp",
+    "path": "assets/720b85b7f2efbc768a89f6160f241316.webp",
+    "mime": "image/webp",
+    "sha256": "0d6151f4a8728ac46e5d1a6fc32f079ce7e7efc25166172f06f6f9d030403ad2",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-3"
+    ]
+  },
+  {
+    "id": "72748ee3e4646c8470fe34e6a256929d",
+    "type": "image",
+    "filename": "72748ee3e4646c8470fe34e6a256929d.webp",
+    "path": "assets/72748ee3e4646c8470fe34e6a256929d.webp",
+    "mime": "image/webp",
+    "sha256": "a5b87e0759420ecc378287b100307aec5e4e5276de8d31d6d7792aa59c1d7b57",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-3"
+    ]
+  },
+  {
+    "id": "727f573100ac84b10169f5d2df2ae529",
+    "type": "image",
+    "filename": "727f573100ac84b10169f5d2df2ae529.webp",
+    "path": "assets/727f573100ac84b10169f5d2df2ae529.webp",
+    "mime": "image/webp",
+    "sha256": "de443561cbf64ffb517b177b7d5586ebc4275bbcd4c15ecd3d7e6bd6056b9381",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "72c2ebc4c0809fbc41b343ad35675f0b",
+    "type": "image",
+    "filename": "72c2ebc4c0809fbc41b343ad35675f0b.webp",
+    "path": "assets/72c2ebc4c0809fbc41b343ad35675f0b.webp",
+    "mime": "image/webp",
+    "sha256": "51377fb8e262dc8e89c6913dc60a635a82146381321db353e2688891a24b0e4e",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "7363b8fc883667aa091c89d080fbfd39",
+    "type": "image",
+    "filename": "7363b8fc883667aa091c89d080fbfd39.webp",
+    "path": "assets/7363b8fc883667aa091c89d080fbfd39.webp",
+    "mime": "image/webp",
+    "sha256": "2c116c66e6067ec4553007ad3cbf7d8b4c172e492a382c556f014f9facb259ea",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "74e3711d500c4c7a3eea900719d6bd59",
+    "type": "image",
+    "filename": "74e3711d500c4c7a3eea900719d6bd59.webp",
+    "path": "assets/74e3711d500c4c7a3eea900719d6bd59.webp",
+    "mime": "image/webp",
+    "sha256": "86c0c4664dea6cc0639df40bed3fbf75ebb2e929c01774e026c48c6795b19c00",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "7692817d9f370935996167922ac32c6e",
+    "type": "image",
+    "filename": "7692817d9f370935996167922ac32c6e.webp",
+    "path": "assets/7692817d9f370935996167922ac32c6e.webp",
+    "mime": "image/webp",
+    "sha256": "2c88261a81b487936e1693aaba6159b68e3c5d3aced0109eed94182c2492919a",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "79b5ff6ef57bc371585bdf51947cadbf",
+    "type": "image",
+    "filename": "79b5ff6ef57bc371585bdf51947cadbf.webp",
+    "path": "assets/79b5ff6ef57bc371585bdf51947cadbf.webp",
+    "mime": "image/webp",
+    "sha256": "841def62f93e60a0597eed549b8cb89678715d59f2a0c9321c2018ee86fc0bc7",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "7be560d2d72077b4b39486e51bbe6409",
+    "type": "image",
+    "filename": "7be560d2d72077b4b39486e51bbe6409.webp",
+    "path": "assets/7be560d2d72077b4b39486e51bbe6409.webp",
+    "mime": "image/webp",
+    "sha256": "6353965205451e37b821c2a6c31a1ec0497f5f56a802640ea7e0aee840566a80",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "7c7c1d659cc5fcab23e22cce79bb465f",
+    "type": "image",
+    "filename": "7c7c1d659cc5fcab23e22cce79bb465f.webp",
+    "path": "assets/7c7c1d659cc5fcab23e22cce79bb465f.webp",
+    "mime": "image/webp",
+    "sha256": "995ca2c62990788b30dce44a40c48d80aec8a49c6996ade6c068b1d9e022cef3",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "7e5a459c103df8afdb486aeec200cbcd",
+    "type": "image",
+    "filename": "7e5a459c103df8afdb486aeec200cbcd.webp",
+    "path": "assets/7e5a459c103df8afdb486aeec200cbcd.webp",
+    "mime": "image/webp",
+    "sha256": "d22325bf66c6438aecc696989193dceb4ef213bc8f5e8e02f7bc5f37c51381a3",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-3"
+    ]
+  },
+  {
+    "id": "7e6985a242365927b243f344abdf47dc",
+    "type": "image",
+    "filename": "7e6985a242365927b243f344abdf47dc.webp",
+    "path": "assets/7e6985a242365927b243f344abdf47dc.webp",
+    "mime": "image/webp",
+    "sha256": "28abf81e929c3c51cc4dad627afd7602025b6211877628137f8a40992471481a",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "805c5feb1d682f44f7acc2e6b15ecc30",
+    "type": "image",
+    "filename": "805c5feb1d682f44f7acc2e6b15ecc30.webp",
+    "path": "assets/805c5feb1d682f44f7acc2e6b15ecc30.webp",
+    "mime": "image/webp",
+    "sha256": "0cd4a2e9e3a8a42216b742b476d2ff21cd4fd33d10ec22d08ea3e8e10e661f6b",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "81892f03499005a5111a0a58061428f6",
+    "type": "image",
+    "filename": "81892f03499005a5111a0a58061428f6.webp",
+    "path": "assets/81892f03499005a5111a0a58061428f6.webp",
+    "mime": "image/webp",
+    "sha256": "2697d614a6a75bae12b95d8f6283034429c5915e1dc12995231a685c371b3298",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "83030f1eef29e094ee850372e6198c31",
+    "type": "image",
+    "filename": "83030f1eef29e094ee850372e6198c31.webp",
+    "path": "assets/83030f1eef29e094ee850372e6198c31.webp",
+    "mime": "image/webp",
+    "sha256": "5d260cf452af33ea0841b9a0fe650928624bdca48f48b8d51e3608b8ef473444",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "84e7bc93877387c89a410ce3b81b8f8e",
+    "type": "image",
+    "filename": "84e7bc93877387c89a410ce3b81b8f8e.webp",
+    "path": "assets/84e7bc93877387c89a410ce3b81b8f8e.webp",
+    "mime": "image/webp",
+    "sha256": "8069d54d6aeec6aab2c475f15026f56a30a110a3dbd04a4fbf788df28bf90d3f",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "8500ec1cee7df696de4a720d17333890",
+    "type": "image",
+    "filename": "8500ec1cee7df696de4a720d17333890.webp",
+    "path": "assets/8500ec1cee7df696de4a720d17333890.webp",
+    "mime": "image/webp",
+    "sha256": "4b4f8947193ae1e472580a055a246c369e0cd1328704edecb63f5a45adeb2db3",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-2"
+    ]
+  },
+  {
+    "id": "8684d78bf10f13d08d7e9d55e93fde70",
+    "type": "image",
+    "filename": "8684d78bf10f13d08d7e9d55e93fde70.webp",
+    "path": "assets/8684d78bf10f13d08d7e9d55e93fde70.webp",
+    "mime": "image/webp",
+    "sha256": "894805c56a00d8447184d9f9b43c92ee1ac19527b7d3763a57a931addfa6c980",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "88430f962774e92cd46e085ce32439a8",
+    "type": "image",
+    "filename": "88430f962774e92cd46e085ce32439a8.webp",
+    "path": "assets/88430f962774e92cd46e085ce32439a8.webp",
+    "mime": "image/webp",
+    "sha256": "8094066ceac89f504b281352d1d67bb346a8e01a0c2404d694b4275dc6a05d60",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-2"
+    ]
+  },
+  {
+    "id": "88a9ec9cbd16c93a82cc5db25068695c",
+    "type": "image",
+    "filename": "88a9ec9cbd16c93a82cc5db25068695c.webp",
+    "path": "assets/88a9ec9cbd16c93a82cc5db25068695c.webp",
+    "mime": "image/webp",
+    "sha256": "4eb196ba02f7716d6961695696e331f8aeabcf3656e7a7602226e4e1d9291d45",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "88e394827807c7f41549eec802f840ce",
+    "type": "image",
+    "filename": "88e394827807c7f41549eec802f840ce.webp",
+    "path": "assets/88e394827807c7f41549eec802f840ce.webp",
+    "mime": "image/webp",
+    "sha256": "8d611e5ee64e0bee33e91e62f701ff0b9676b60b03bd070da26acb9215056244",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "88f6881983ffba4f78b90ca70dff71d8",
+    "type": "image",
+    "filename": "88f6881983ffba4f78b90ca70dff71d8.webp",
+    "path": "assets/88f6881983ffba4f78b90ca70dff71d8.webp",
+    "mime": "image/webp",
+    "sha256": "6fdee0b6a57d7841b2ae2661b5be88871f9b337c122fff8b52e3d38eb23216bb",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "8ae8ebb852818b4e338dc8642ed9fc28",
+    "type": "image",
+    "filename": "8ae8ebb852818b4e338dc8642ed9fc28.webp",
+    "path": "assets/8ae8ebb852818b4e338dc8642ed9fc28.webp",
+    "mime": "image/webp",
+    "sha256": "512852cb3b081a3059d33a853f6dbd962e2bc6f15088bcaca2c30a82d9c911f7",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "8bface13d9d9cd165a561ee5a0d9f6b2",
+    "type": "image",
+    "filename": "8bface13d9d9cd165a561ee5a0d9f6b2.webp",
+    "path": "assets/8bface13d9d9cd165a561ee5a0d9f6b2.webp",
+    "mime": "image/webp",
+    "sha256": "324768cc7f76b9907a2b2aa8ada8e48b4ac21f99abfaee637ce3c0c77b8faf81",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "8c06457b3a3198616105f33a00bff0a1",
+    "type": "image",
+    "filename": "8c06457b3a3198616105f33a00bff0a1.webp",
+    "path": "assets/8c06457b3a3198616105f33a00bff0a1.webp",
+    "mime": "image/webp",
+    "sha256": "37d1f7bbd3d4de12046b8084b1b24cd0e261a60f74633569c5776d4eef77017d",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "8e182dfeef2c775ac76299c4d977c9ff",
+    "type": "image",
+    "filename": "8e182dfeef2c775ac76299c4d977c9ff.webp",
+    "path": "assets/8e182dfeef2c775ac76299c4d977c9ff.webp",
+    "mime": "image/webp",
+    "sha256": "fcf69c8445106528fccbae6f15d684e1f904ec473effe2c46f6c5f5322e1fbe8",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "8fdc64975cfb5025bcacbb6d2bdc464c",
+    "type": "image",
+    "filename": "8fdc64975cfb5025bcacbb6d2bdc464c.webp",
+    "path": "assets/8fdc64975cfb5025bcacbb6d2bdc464c.webp",
+    "mime": "image/webp",
+    "sha256": "aadac058e3f91cc8f5ffefc169a4926a2d049113cc65e2f5ce63d01ffa54b036",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-1"
+    ]
+  },
+  {
+    "id": "900145402ffa2d07789c8a58567600a6",
+    "type": "image",
+    "filename": "900145402ffa2d07789c8a58567600a6.webp",
+    "path": "assets/900145402ffa2d07789c8a58567600a6.webp",
+    "mime": "image/webp",
+    "sha256": "2d957182928e729489df5f3571b14e998f2505957a869e80aaae327dd693138a",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "9257b9327f9794654ef1824291721ae7",
+    "type": "image",
+    "filename": "9257b9327f9794654ef1824291721ae7.webp",
+    "path": "assets/9257b9327f9794654ef1824291721ae7.webp",
+    "mime": "image/webp",
+    "sha256": "98a6860d68c223c2ff6e8509afbccbae4674375d8bc8973138096cc8d6043d28",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "929253ca254ae99184f4e16896ec368d",
+    "type": "image",
+    "filename": "929253ca254ae99184f4e16896ec368d.webp",
+    "path": "assets/929253ca254ae99184f4e16896ec368d.webp",
+    "mime": "image/webp",
+    "sha256": "92af9a6074c0ec9f3c4c50957cd72f5f6ad2b66355dfa1f2fad41693489654f5",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "93b2231891271021c5ad801bb49f80b4",
+    "type": "image",
+    "filename": "93b2231891271021c5ad801bb49f80b4.webp",
+    "path": "assets/93b2231891271021c5ad801bb49f80b4.webp",
+    "mime": "image/webp",
+    "sha256": "5cc95e27284c2568301ea240c7a45b55b70dea84ef78713cbedd88b8e9e906ce",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "93b6fd57533de95e5ede2732c87a3596",
+    "type": "image",
+    "filename": "93b6fd57533de95e5ede2732c87a3596.webp",
+    "path": "assets/93b6fd57533de95e5ede2732c87a3596.webp",
+    "mime": "image/webp",
+    "sha256": "7a2d0ae190b84fdc88a90a62bfae916d67233228083dd2a46c4556fab0e6ecf5",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "93bfa87b8d46ea0408b6b3dd3696deb8",
+    "type": "image",
+    "filename": "93bfa87b8d46ea0408b6b3dd3696deb8.webp",
+    "path": "assets/93bfa87b8d46ea0408b6b3dd3696deb8.webp",
+    "mime": "image/webp",
+    "sha256": "0eb2da22c67565fa4c948b6271c46dbd1e2fef5d523c3921bf93dc218da43c93",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "94398489854b648cefb74f059aa9e68f",
+    "type": "image",
+    "filename": "94398489854b648cefb74f059aa9e68f.webp",
+    "path": "assets/94398489854b648cefb74f059aa9e68f.webp",
+    "mime": "image/webp",
+    "sha256": "5bb86b3e47ddf5f3d7ca6da16ec194e74ce56e95ba0131f527aab3fbeae7f7af",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "9508271e6559112618366230b50ad3a3",
+    "type": "image",
+    "filename": "9508271e6559112618366230b50ad3a3.webp",
+    "path": "assets/9508271e6559112618366230b50ad3a3.webp",
+    "mime": "image/webp",
+    "sha256": "eadda2eb3d25740845b4d27faf6e3192033e24e1b758da93f1945d9dceb215c9",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "9658314db901d7fdeb8cce2d05169028",
+    "type": "image",
+    "filename": "9658314db901d7fdeb8cce2d05169028.webp",
+    "path": "assets/9658314db901d7fdeb8cce2d05169028.webp",
+    "mime": "image/webp",
+    "sha256": "47d5e441ffaa11cf8cd6440f164d527282474da04fbc9e01ed0c2bf75d7097b0",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "97174181cb42600b95623291b32f61bb",
+    "type": "image",
+    "filename": "97174181cb42600b95623291b32f61bb.webp",
+    "path": "assets/97174181cb42600b95623291b32f61bb.webp",
+    "mime": "image/webp",
+    "sha256": "471261ddb2521559ee37f1751101fbd0eda8c3ea3cc988127540edd09f7ff7c0",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "a0583fe4a3fbd45aa4cc94e6b0ec15c3",
+    "type": "image",
+    "filename": "a0583fe4a3fbd45aa4cc94e6b0ec15c3.webp",
+    "path": "assets/a0583fe4a3fbd45aa4cc94e6b0ec15c3.webp",
+    "mime": "image/webp",
+    "sha256": "484abb76e6a91ede30271d0ae5c477f7d6d084c24845a8f6f5d48a690a2249db",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "a0dd59a6dcac290c29a17394dad85a12",
+    "type": "image",
+    "filename": "a0dd59a6dcac290c29a17394dad85a12.webp",
+    "path": "assets/a0dd59a6dcac290c29a17394dad85a12.webp",
+    "mime": "image/webp",
+    "sha256": "d5e5fa8d27d086bf465dc6d003745005ccbe84618e75f7eca5cdb78107849dc3",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-4"
+    ]
+  },
+  {
+    "id": "a12267d2f5b823135ac22f3db5f6afc6",
+    "type": "image",
+    "filename": "a12267d2f5b823135ac22f3db5f6afc6.webp",
+    "path": "assets/a12267d2f5b823135ac22f3db5f6afc6.webp",
+    "mime": "image/webp",
+    "sha256": "4bfd87e089251309a3485a98e7e1b4a5ebf066154ce0a5c50435f87a7887b40a",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "a1ed51db3fbaa0cff961d32b9acec1e0",
+    "type": "image",
+    "filename": "a1ed51db3fbaa0cff961d32b9acec1e0.webp",
+    "path": "assets/a1ed51db3fbaa0cff961d32b9acec1e0.webp",
+    "mime": "image/webp",
+    "sha256": "541968779f0f90b0a926c22df121be1e93576917cc9b86c5fe97c2aaabf247d0",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "a2c39422dc80957bc87a5e5ef23f477b",
+    "type": "image",
+    "filename": "a2c39422dc80957bc87a5e5ef23f477b.webp",
+    "path": "assets/a2c39422dc80957bc87a5e5ef23f477b.webp",
+    "mime": "image/webp",
+    "sha256": "137c5f044e76e74bc3e6d1e27839be6dec50e680349c668fd2eb9640c5e2b5da",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "a3437a97d15458e8e5a9a164c800ec72",
+    "type": "image",
+    "filename": "a3437a97d15458e8e5a9a164c800ec72.webp",
+    "path": "assets/a3437a97d15458e8e5a9a164c800ec72.webp",
+    "mime": "image/webp",
+    "sha256": "b9f78ecc170983e0c5cd1bec4e1d32717becf20d6aafcc87361fa4755606ab88",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "a43c53d42b0687387b43940e2b76a8b5",
+    "type": "image",
+    "filename": "a43c53d42b0687387b43940e2b76a8b5.webp",
+    "path": "assets/a43c53d42b0687387b43940e2b76a8b5.webp",
+    "mime": "image/webp",
+    "sha256": "91cb3ebe74bfedc4b124599bd29ba2888cf1766dc16beabb0aaead72df8f4d77",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "a634a461c7eea7f302fad64c453347b9",
+    "type": "image",
+    "filename": "a634a461c7eea7f302fad64c453347b9.webp",
+    "path": "assets/a634a461c7eea7f302fad64c453347b9.webp",
+    "mime": "image/webp",
+    "sha256": "cef2f6ed3787a1d420d64414734d5575dfc7bb7e433d6eea11d0da88757b3efa",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "a820f58d007299a9b72c38c11c0b8cab",
+    "type": "image",
+    "filename": "a820f58d007299a9b72c38c11c0b8cab.webp",
+    "path": "assets/a820f58d007299a9b72c38c11c0b8cab.webp",
+    "mime": "image/webp",
+    "sha256": "9bf0e675a656bc2f1bd37b32979c2c827d6758d968bda2c0d33c8fc865b7d06e",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "a96d2b541fefefc5371e964a7e0df6e6",
+    "type": "image",
+    "filename": "a96d2b541fefefc5371e964a7e0df6e6.webp",
+    "path": "assets/a96d2b541fefefc5371e964a7e0df6e6.webp",
+    "mime": "image/webp",
+    "sha256": "74c6706f84ceb181cc8ca6f2e8e7f78b689c1b07552f7e57f516493d008daf0a",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "a97bfa5e71685f4d9d9cd835c9a614ab",
+    "type": "image",
+    "filename": "a97bfa5e71685f4d9d9cd835c9a614ab.webp",
+    "path": "assets/a97bfa5e71685f4d9d9cd835c9a614ab.webp",
+    "mime": "image/webp",
+    "sha256": "31b91e26f0e76750171f05e9bef0cc993f86a475cbc219af4c146e2b253bcc83",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "ac8c6309e0106e1e42b009c41e630e0a",
+    "type": "image",
+    "filename": "ac8c6309e0106e1e42b009c41e630e0a.webp",
+    "path": "assets/ac8c6309e0106e1e42b009c41e630e0a.webp",
+    "mime": "image/webp",
+    "sha256": "c8164a6265df5bf960ece8c1e4bb79492c1ad79dfc9e0417e7fa1632ba346dbd",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-2"
+    ]
+  },
+  {
+    "id": "ad16c069709142ce22289a9ebf6471f7",
+    "type": "image",
+    "filename": "ad16c069709142ce22289a9ebf6471f7.webp",
+    "path": "assets/ad16c069709142ce22289a9ebf6471f7.webp",
+    "mime": "image/webp",
+    "sha256": "74e5fa2cdc9d93eb441494e0451415ac1ce234cfa855796ab280bc594d244ea3",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "aeaaf824b7053d9b3ae65b6e07a0b0d1",
+    "type": "image",
+    "filename": "aeaaf824b7053d9b3ae65b6e07a0b0d1.webp",
+    "path": "assets/aeaaf824b7053d9b3ae65b6e07a0b0d1.webp",
+    "mime": "image/webp",
+    "sha256": "4857e9b38f205fbe78192de541da27316e763743309755d5d3d8a16ddc6e65c3",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "b0b25d05879bf8e663db1293a3f2de54",
+    "type": "image",
+    "filename": "b0b25d05879bf8e663db1293a3f2de54.webp",
+    "path": "assets/b0b25d05879bf8e663db1293a3f2de54.webp",
+    "mime": "image/webp",
+    "sha256": "815fc669ce065832c4d10bd4a6b977ad4fdf06cfda22c09ae678778011a609c2",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "b16358a2766b3c453a77e1db5ff5c297",
+    "type": "image",
+    "filename": "b16358a2766b3c453a77e1db5ff5c297.webp",
+    "path": "assets/b16358a2766b3c453a77e1db5ff5c297.webp",
+    "mime": "image/webp",
+    "sha256": "83bb7c53d66888acf11e56db9f54b8514e96e2900e8150e464bfca073325e60d",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "b1d21eb9c32d8e280cb36c6c899019e7",
+    "type": "image",
+    "filename": "b1d21eb9c32d8e280cb36c6c899019e7.webp",
+    "path": "assets/b1d21eb9c32d8e280cb36c6c899019e7.webp",
+    "mime": "image/webp",
+    "sha256": "99cc0942d5846f6d425d9eb21aa257ccf22806789ed98fd386ac05b05d753a19",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "b21551f876e60e0c0ebe95a0e4a73572",
+    "type": "image",
+    "filename": "b21551f876e60e0c0ebe95a0e4a73572.webp",
+    "path": "assets/b21551f876e60e0c0ebe95a0e4a73572.webp",
+    "mime": "image/webp",
+    "sha256": "173c218fc05a4e90e9b2a84cac1bf0216ff72c830fb38583bba608b151c42f06",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "b268b96a03853d466c3684b41fb5c900",
+    "type": "image",
+    "filename": "b268b96a03853d466c3684b41fb5c900.webp",
+    "path": "assets/b268b96a03853d466c3684b41fb5c900.webp",
+    "mime": "image/webp",
+    "sha256": "ae435ddfc58db147183f5367ebb9d22a50a0b79a19b0e3269c160ec584e53223",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "b2e3c954f1725a33182ffcc866372d98",
+    "type": "image",
+    "filename": "b2e3c954f1725a33182ffcc866372d98.webp",
+    "path": "assets/b2e3c954f1725a33182ffcc866372d98.webp",
+    "mime": "image/webp",
+    "sha256": "d36962a636b4bb7686e1290c25039787cf2b5433e00abe6cd19aa7887ca64c90",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "b3d090841e48ec888d2fc178f711efbc",
+    "type": "image",
+    "filename": "b3d090841e48ec888d2fc178f711efbc.webp",
+    "path": "assets/b3d090841e48ec888d2fc178f711efbc.webp",
+    "mime": "image/webp",
+    "sha256": "e7268a6de569a0e6bb1d3bfb7eaecdc35448eb3e9a3dfbf56937272c2ac2f84a",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "b3d850d5873c8073cfa8a09a62778b03",
+    "type": "image",
+    "filename": "b3d850d5873c8073cfa8a09a62778b03.webp",
+    "path": "assets/b3d850d5873c8073cfa8a09a62778b03.webp",
+    "mime": "image/webp",
+    "sha256": "92d0fb46f62115099f3baf940b6635a763e38dbe621c56f3030461054df8feb6",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "b40cfecca847d7dfed490f768174ceaa",
+    "type": "image",
+    "filename": "b40cfecca847d7dfed490f768174ceaa.webp",
+    "path": "assets/b40cfecca847d7dfed490f768174ceaa.webp",
+    "mime": "image/webp",
+    "sha256": "d117eaa569ab34bf8745689103e0d65f9e5478ece9c1d1895b55094ec3a2f061",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-1"
+    ]
+  },
+  {
+    "id": "b69b3f4f2ccf8935b7a9e2b1555d5a1e",
+    "type": "image",
+    "filename": "b69b3f4f2ccf8935b7a9e2b1555d5a1e.webp",
+    "path": "assets/b69b3f4f2ccf8935b7a9e2b1555d5a1e.webp",
+    "mime": "image/webp",
+    "sha256": "99300afbd25159ad9c76fd3afbdbcdaa7a5cede397be2509262da510c4ae08af",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-2"
+    ]
+  },
+  {
+    "id": "b6fcb23de85aa030adb9142fa3049c63",
+    "type": "image",
+    "filename": "b6fcb23de85aa030adb9142fa3049c63.webp",
+    "path": "assets/b6fcb23de85aa030adb9142fa3049c63.webp",
+    "mime": "image/webp",
+    "sha256": "cf6e093b980d9ae32462d9bed3a7864017f7ebfbbeb2d9fa56d382be17843693",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-4"
+    ]
+  },
+  {
+    "id": "b89c9b5d925ebf97a5c62eb849b1475d",
+    "type": "image",
+    "filename": "b89c9b5d925ebf97a5c62eb849b1475d.webp",
+    "path": "assets/b89c9b5d925ebf97a5c62eb849b1475d.webp",
+    "mime": "image/webp",
+    "sha256": "cb961e95d71e69ebc37addd2ed7f97d31eae4364d63212f1ffee118f3da4913b",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "b9da03fc763abc86c8883579e5a63020",
+    "type": "image",
+    "filename": "b9da03fc763abc86c8883579e5a63020.webp",
+    "path": "assets/b9da03fc763abc86c8883579e5a63020.webp",
+    "mime": "image/webp",
+    "sha256": "1e25c28ede781e50e01b2717edca5c7d7cb3d92ffbd59d7a07a89a2d4d406a3e",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "bb2f717be47cb1bed2c41a77b849c530",
+    "type": "image",
+    "filename": "bb2f717be47cb1bed2c41a77b849c530.webp",
+    "path": "assets/bb2f717be47cb1bed2c41a77b849c530.webp",
+    "mime": "image/webp",
+    "sha256": "b8712d07a2ce38bb77f16b12e981591ea2a340c3b340adb04a1aa2373171893b",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-4"
+    ]
+  },
+  {
+    "id": "bbf54a27205137371944b1af77cfe01c",
+    "type": "image",
+    "filename": "bbf54a27205137371944b1af77cfe01c.webp",
+    "path": "assets/bbf54a27205137371944b1af77cfe01c.webp",
+    "mime": "image/webp",
+    "sha256": "5f5645ca2d87ff3e1c14be2cce194812a75051d353b26c29f171bad84beb53da",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-6"
+    ]
+  },
+  {
+    "id": "bc25b269818bb26183c6bacff4295256",
+    "type": "image",
+    "filename": "bc25b269818bb26183c6bacff4295256.webp",
+    "path": "assets/bc25b269818bb26183c6bacff4295256.webp",
+    "mime": "image/webp",
+    "sha256": "00c3a50677414fb5cf645f9b801b43bdb239589f23a3aef750da4f1d11280c6e",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "bd178c4fec56139df934cbdad75a8617",
+    "type": "image",
+    "filename": "bd178c4fec56139df934cbdad75a8617.webp",
+    "path": "assets/bd178c4fec56139df934cbdad75a8617.webp",
+    "mime": "image/webp",
+    "sha256": "7b62519b600305ff6325dc9316639d1c5d50166ea7d9534d9f9a1540447a0747",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "bd715de4a17ffea9bcb437b44acdc15b",
+    "type": "image",
+    "filename": "bd715de4a17ffea9bcb437b44acdc15b.webp",
+    "path": "assets/bd715de4a17ffea9bcb437b44acdc15b.webp",
+    "mime": "image/webp",
+    "sha256": "47994a36e6067368eca344398d51f98515e07913321a722b804063a28cfb16c6",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "bd8ee0eebfb03659d116059d7a2ce957",
+    "type": "image",
+    "filename": "bd8ee0eebfb03659d116059d7a2ce957.webp",
+    "path": "assets/bd8ee0eebfb03659d116059d7a2ce957.webp",
+    "mime": "image/webp",
+    "sha256": "e4f75136aa179e4c0629641ce9a06b1e669e28f5d6b2631d9760805fb97167f8",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "be5bce18a721f5afbbb7e44bb886cc89",
+    "type": "image",
+    "filename": "be5bce18a721f5afbbb7e44bb886cc89.webp",
+    "path": "assets/be5bce18a721f5afbbb7e44bb886cc89.webp",
+    "mime": "image/webp",
+    "sha256": "18b5b9dd81cf40ba2c07042b5cf9377db125de3f95ae7f4dbfa0f65dd0dcaf36",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "beed0f6da052538fb0f19443bb35e893",
+    "type": "image",
+    "filename": "beed0f6da052538fb0f19443bb35e893.webp",
+    "path": "assets/beed0f6da052538fb0f19443bb35e893.webp",
+    "mime": "image/webp",
+    "sha256": "5c0af8cb5cc7d2a5b64b04692515992ccf720ffac9b6fa81389246e8e08c50bf",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-1"
+    ]
+  },
+  {
+    "id": "c0b481224ecefc2db79115fc2c297c64",
+    "type": "image",
+    "filename": "c0b481224ecefc2db79115fc2c297c64.webp",
+    "path": "assets/c0b481224ecefc2db79115fc2c297c64.webp",
+    "mime": "image/webp",
+    "sha256": "dbfe10e792b7ed1ea974aebd3801432295aad72d9ea85c1d71972cd9457b79c8",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "c0f4bc46eab1180f1d933463c8b7cf26",
+    "type": "image",
+    "filename": "c0f4bc46eab1180f1d933463c8b7cf26.webp",
+    "path": "assets/c0f4bc46eab1180f1d933463c8b7cf26.webp",
+    "mime": "image/webp",
+    "sha256": "5f5114468914080d9428a71fe8ba429444c691c23e8382068c0be54f30222b40",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "c3c80feaad28ad7acfb3493400867438",
+    "type": "image",
+    "filename": "c3c80feaad28ad7acfb3493400867438.webp",
+    "path": "assets/c3c80feaad28ad7acfb3493400867438.webp",
+    "mime": "image/webp",
+    "sha256": "1b85b1ecae80da2bfc2ba0f779bf585a50c50352a0cd53aea09fa15701e20daa",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "c45f2f67f40aae60000f7e30946735ea",
+    "type": "image",
+    "filename": "c45f2f67f40aae60000f7e30946735ea.webp",
+    "path": "assets/c45f2f67f40aae60000f7e30946735ea.webp",
+    "mime": "image/webp",
+    "sha256": "6a6aaba5e00fbad868a3af41f62ce91b568f654a84a648dc35fc1c29c0728480",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "c608a8ebf78b800a6f071d1ec2cc6901",
+    "type": "image",
+    "filename": "c608a8ebf78b800a6f071d1ec2cc6901.webp",
+    "path": "assets/c608a8ebf78b800a6f071d1ec2cc6901.webp",
+    "mime": "image/webp",
+    "sha256": "e5bf841e7492306da33aab03155d4dd8d790abaa5abc587dacda4ed4a3c2f51c",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "c7dd786987cfb4c6e24dd6261d8354ad",
+    "type": "image",
+    "filename": "c7dd786987cfb4c6e24dd6261d8354ad.webp",
+    "path": "assets/c7dd786987cfb4c6e24dd6261d8354ad.webp",
+    "mime": "image/webp",
+    "sha256": "202b9a92c879ee5370ea7377ad07584ca31d01b71d9f782e5d26e359bd108576",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-4"
+    ]
+  },
+  {
+    "id": "c9b6d16842b34194041b595d44d86d02",
+    "type": "image",
+    "filename": "c9b6d16842b34194041b595d44d86d02.webp",
+    "path": "assets/c9b6d16842b34194041b595d44d86d02.webp",
+    "mime": "image/webp",
+    "sha256": "c76045c62b23c6e6a7a7ca3460b9261128ce4862e1e5807a61a44911f6ef99f3",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "cbc9b196927e5595fcba6808a7d0b986",
+    "type": "image",
+    "filename": "cbc9b196927e5595fcba6808a7d0b986.webp",
+    "path": "assets/cbc9b196927e5595fcba6808a7d0b986.webp",
+    "mime": "image/webp",
+    "sha256": "e95bba786f60381b12761602bf9def560127266055018cbeda87ff375bc8ea3b",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "cc3d915782cab3b4f32c077a2cb73dc9",
+    "type": "image",
+    "filename": "cc3d915782cab3b4f32c077a2cb73dc9.webp",
+    "path": "assets/cc3d915782cab3b4f32c077a2cb73dc9.webp",
+    "mime": "image/webp",
+    "sha256": "958e235b5b4fd42737ef745ef70f0fb438e0e9adef14f7d32b0ede1340bae920",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-2"
+    ]
+  },
+  {
+    "id": "ccf443a37b3c0521500e505d37d424c3",
+    "type": "image",
+    "filename": "ccf443a37b3c0521500e505d37d424c3.webp",
+    "path": "assets/ccf443a37b3c0521500e505d37d424c3.webp",
+    "mime": "image/webp",
+    "sha256": "3dda2bd37fa7c3dd96d063bd98c784e8fee10c03460583312e5b58357a7a9a6a",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "d04ceffd32139858cf532e03e0657149",
+    "type": "image",
+    "filename": "d04ceffd32139858cf532e03e0657149.webp",
+    "path": "assets/d04ceffd32139858cf532e03e0657149.webp",
+    "mime": "image/webp",
+    "sha256": "c2a730065c6a208dd035a2c740e6c67bec691abd7adabafe46cd664bc4ae57e5",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "d085f0a68d22029736a1b7ae2b401ea1",
+    "type": "image",
+    "filename": "d085f0a68d22029736a1b7ae2b401ea1.webp",
+    "path": "assets/d085f0a68d22029736a1b7ae2b401ea1.webp",
+    "mime": "image/webp",
+    "sha256": "504a0c71cc70a54165c9214f0d870434d098fce21282bd864add99d68cc893d8",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "d2383227497addbafe0aae480509539b",
+    "type": "image",
+    "filename": "d2383227497addbafe0aae480509539b.webp",
+    "path": "assets/d2383227497addbafe0aae480509539b.webp",
+    "mime": "image/webp",
+    "sha256": "114af573961a50640b66850abd1c944756bc16f21ab98d35e893ea5663f9b5a0",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "d2f39ba6b0f63cda7f954b78f0fc33af",
+    "type": "image",
+    "filename": "d2f39ba6b0f63cda7f954b78f0fc33af.webp",
+    "path": "assets/d2f39ba6b0f63cda7f954b78f0fc33af.webp",
+    "mime": "image/webp",
+    "sha256": "584658e65e77f6202454c557f28c695976843ba245c15534f16e03049dd02f15",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-4"
+    ]
+  },
+  {
+    "id": "d900eab04dfc24875e69d90ada80cfb5",
+    "type": "image",
+    "filename": "d900eab04dfc24875e69d90ada80cfb5.webp",
+    "path": "assets/d900eab04dfc24875e69d90ada80cfb5.webp",
+    "mime": "image/webp",
+    "sha256": "060654ed9dc80bce866f7bf1e89ec65ba4bc93acec1459d8518e806058bfc54e",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "d92f808d018639eeebfb0ab6c52e0e2a",
+    "type": "image",
+    "filename": "d92f808d018639eeebfb0ab6c52e0e2a.webp",
+    "path": "assets/d92f808d018639eeebfb0ab6c52e0e2a.webp",
+    "mime": "image/webp",
+    "sha256": "16b7ab15f9f2d694e85df4cb7743f28980e69a217531da704a2de2c3a6e1d708",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "da8b0588b36f56bcb20e39008b503485",
+    "type": "image",
+    "filename": "da8b0588b36f56bcb20e39008b503485.webp",
+    "path": "assets/da8b0588b36f56bcb20e39008b503485.webp",
+    "mime": "image/webp",
+    "sha256": "60fa0a0bb04e382520045530994d38d7ff2a71836b0710a92cdc7d7fd26b4347",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "dcedeac8455a8a47a551c7dc5577b707",
+    "type": "image",
+    "filename": "dcedeac8455a8a47a551c7dc5577b707.webp",
+    "path": "assets/dcedeac8455a8a47a551c7dc5577b707.webp",
+    "mime": "image/webp",
+    "sha256": "ec16c3d5445465f92b3c6b39a3635cc4e1c023e31c492894c491d0d54a08ed48",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-1"
+    ]
+  },
+  {
+    "id": "e022ccbd6ecc471d66cbe8030592ab0c",
+    "type": "image",
+    "filename": "e022ccbd6ecc471d66cbe8030592ab0c.webp",
+    "path": "assets/e022ccbd6ecc471d66cbe8030592ab0c.webp",
+    "mime": "image/webp",
+    "sha256": "3a275b757165c0ce51ea173959548afaa33eef4c6355f7d9bca92b146bd7b36d",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "e14e5fba1a32e0d8a465ac50405bb6c9",
+    "type": "image",
+    "filename": "e14e5fba1a32e0d8a465ac50405bb6c9.webp",
+    "path": "assets/e14e5fba1a32e0d8a465ac50405bb6c9.webp",
+    "mime": "image/webp",
+    "sha256": "73049c748299bfaf9a35605a2baf0437940beac97e7d5eaf4fd2dbedfb0bf6f2",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "e8170dcde58dea0208eb37730b1ce4a8",
+    "type": "image",
+    "filename": "e8170dcde58dea0208eb37730b1ce4a8.webp",
+    "path": "assets/e8170dcde58dea0208eb37730b1ce4a8.webp",
+    "mime": "image/webp",
+    "sha256": "8d167e5331935b3ccc00fdd8910f071c321d526d74d29d098b98301fa42c26af",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "e91a083fa445abc5a26ae59d08778f42",
+    "type": "image",
+    "filename": "e91a083fa445abc5a26ae59d08778f42.webp",
+    "path": "assets/e91a083fa445abc5a26ae59d08778f42.webp",
+    "mime": "image/webp",
+    "sha256": "b663901ef0ac9625928d12971702439d1fbcf0d2641c8e291397843657cafc48",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "e9b5b79b79924819c1a9eb3d443ce02b",
+    "type": "image",
+    "filename": "e9b5b79b79924819c1a9eb3d443ce02b.webp",
+    "path": "assets/e9b5b79b79924819c1a9eb3d443ce02b.webp",
+    "mime": "image/webp",
+    "sha256": "0076564e5052d53803520abb9cf54d30d51ceba9819e4545b8ff4d8de5008bc3",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "ea4289fc9211176d505dbc36143635a1",
+    "type": "image",
+    "filename": "ea4289fc9211176d505dbc36143635a1.webp",
+    "path": "assets/ea4289fc9211176d505dbc36143635a1.webp",
+    "mime": "image/webp",
+    "sha256": "b97a2be0ea2c27b452c8e0c2ac660f21424ef1b399c6e5c848c95c5a4f6c81f5",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "ea5098141a55824435461361237cbe02",
+    "type": "image",
+    "filename": "ea5098141a55824435461361237cbe02.webp",
+    "path": "assets/ea5098141a55824435461361237cbe02.webp",
+    "mime": "image/webp",
+    "sha256": "23f9c4d3d21effbc7e2f5c088e3302d295fb58d99017a8aad54a8843752bd988",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "eb57534b7d2fd7c5dee536acc90e5c69",
+    "type": "image",
+    "filename": "eb57534b7d2fd7c5dee536acc90e5c69.webp",
+    "path": "assets/eb57534b7d2fd7c5dee536acc90e5c69.webp",
+    "mime": "image/webp",
+    "sha256": "44a29be6e6cd3591d0dd41ec6a21b5d1f7c302b8a19c12d899e785e9d35e0d8b",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "ef0f89406897602539060bdd6067bfc9",
+    "type": "image",
+    "filename": "ef0f89406897602539060bdd6067bfc9.webp",
+    "path": "assets/ef0f89406897602539060bdd6067bfc9.webp",
+    "mime": "image/webp",
+    "sha256": "142fb91de6244288d426ec340911320b6c95ac7c587b22be3fa23e89da07cd9c",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "f012988695e99064bbaba19b4845c056",
+    "type": "image",
+    "filename": "f012988695e99064bbaba19b4845c056.webp",
+    "path": "assets/f012988695e99064bbaba19b4845c056.webp",
+    "mime": "image/webp",
+    "sha256": "eb9cc40a4c577235fd2bbef2244c5f81be6a5e91c10284c18a2557ab6b2171a4",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "f02c6c6743688fa8698070dbeba6243b",
+    "type": "image",
+    "filename": "f02c6c6743688fa8698070dbeba6243b.webp",
+    "path": "assets/f02c6c6743688fa8698070dbeba6243b.webp",
+    "mime": "image/webp",
+    "sha256": "dcabf54f923aa84dc09dc89ea2b2937e0987c8bc7cabc0daa428dbe43c9ea591",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "f38a9e405d54f315697b299b077de49c",
+    "type": "image",
+    "filename": "f38a9e405d54f315697b299b077de49c.webp",
+    "path": "assets/f38a9e405d54f315697b299b077de49c.webp",
+    "mime": "image/webp",
+    "sha256": "8da34bf4a9f33854f3a41182dc787331654a0bc98dc61e571bd30634e7995fa0",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "f4e10ac72adca11f38ecd666a7d818c6",
+    "type": "image",
+    "filename": "f4e10ac72adca11f38ecd666a7d818c6.webp",
+    "path": "assets/f4e10ac72adca11f38ecd666a7d818c6.webp",
+    "mime": "image/webp",
+    "sha256": "1407a410efb25455983bb6dcc3787fd46ccf414f7cbcf3fc20892b39b5300849",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "f523b8254049b2c20ab0c9d9215672bf",
+    "type": "image",
+    "filename": "f523b8254049b2c20ab0c9d9215672bf.webp",
+    "path": "assets/f523b8254049b2c20ab0c9d9215672bf.webp",
+    "mime": "image/webp",
+    "sha256": "cdcb8cb9ecc24f75b2e540963dc9623f96d35328cfd72397ca7f287354ac94eb",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  },
+  {
+    "id": "f56f88136295aff0e0e5d56e165ef06c",
+    "type": "image",
+    "filename": "f56f88136295aff0e0e5d56e165ef06c.webp",
+    "path": "assets/f56f88136295aff0e0e5d56e165ef06c.webp",
+    "mime": "image/webp",
+    "sha256": "a5f12130ea18b3699063ad1a092fecee71cd5fb0abe7e3788e4d929089cdd2bb",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "f752be4c6de111a5d30126bfcf259603",
+    "type": "image",
+    "filename": "f752be4c6de111a5d30126bfcf259603.webp",
+    "path": "assets/f752be4c6de111a5d30126bfcf259603.webp",
+    "mime": "image/webp",
+    "sha256": "a5a27eeaaf5756945c2aff3f1765b0cfac252c75ea06505b48b93788378e5748",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "f7eaaef64cd7b447a4e077221abbdaf1",
+    "type": "image",
+    "filename": "f7eaaef64cd7b447a4e077221abbdaf1.webp",
+    "path": "assets/f7eaaef64cd7b447a4e077221abbdaf1.webp",
+    "mime": "image/webp",
+    "sha256": "2715d53f9f8b43ccf94b4e9ac93731b220dd5b0be47c70002240393a378faf88",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "f90ddda6959121f7038f1352543c16dc",
+    "type": "image",
+    "filename": "f90ddda6959121f7038f1352543c16dc.webp",
+    "path": "assets/f90ddda6959121f7038f1352543c16dc.webp",
+    "mime": "image/webp",
+    "sha256": "8a314b07d304526e70b0487ca922758518c715f32d3e251329130055a1b2b9b2",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "f9d215e705fde2a6e505314e66c0a1fa",
+    "type": "image",
+    "filename": "f9d215e705fde2a6e505314e66c0a1fa.webp",
+    "path": "assets/f9d215e705fde2a6e505314e66c0a1fa.webp",
+    "mime": "image/webp",
+    "sha256": "c2a730065c6a208dd035a2c740e6c67bec691abd7adabafe46cd664bc4ae57e5",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-3"
+    ]
+  },
+  {
+    "id": "f9f84b4a46f2a752752f083877f87133",
+    "type": "image",
+    "filename": "f9f84b4a46f2a752752f083877f87133.webp",
+    "path": "assets/f9f84b4a46f2a752752f083877f87133.webp",
+    "mime": "image/webp",
+    "sha256": "0dc438d65a3aa1ce551d8f67a3e85e5c76a7fbbe32e70adb5df68bf80741dace",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "fcd21f49c0854881220a75c05e26b971",
+    "type": "image",
+    "filename": "fcd21f49c0854881220a75c05e26b971.webp",
+    "path": "assets/fcd21f49c0854881220a75c05e26b971.webp",
+    "mime": "image/webp",
+    "sha256": "7286e5436c252e1aaaff1a99d6dcda9c3c49201f6a3a8c8abdaa5d4b4d5f2164",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "fdcf41ed477e0fbd87a422fb8dec1ccf",
+    "type": "image",
+    "filename": "fdcf41ed477e0fbd87a422fb8dec1ccf.webp",
+    "path": "assets/fdcf41ed477e0fbd87a422fb8dec1ccf.webp",
+    "mime": "image/webp",
+    "sha256": "a04095ae8a728428ebe7a227ba6b57c1e569a7d02aa09091f0ce2e10e45aca7b",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "fe44c6aafa193f549879ae3a3dd0d894",
+    "type": "image",
+    "filename": "fe44c6aafa193f549879ae3a3dd0d894.webp",
+    "path": "assets/fe44c6aafa193f549879ae3a3dd0d894.webp",
+    "mime": "image/webp",
+    "sha256": "72d6bfe3fbdc1edf732180aa649ffb4f3ca8a8bd26cc9ed0f035c24710879a35",
+    "status": "unclassified",
+    "note": "À réassocier à partir de PUBLISHED. Ne pas supposer la catégorie à partir du nom."
+  },
+  {
+    "id": "fe703abdd630c9eda06de40428117308",
+    "type": "image",
+    "filename": "fe703abdd630c9eda06de40428117308.webp",
+    "path": "assets/fe703abdd630c9eda06de40428117308.webp",
+    "mime": "image/webp",
+    "sha256": "2a586682e5776f3304e22dc749a1cc416789ac8da7feef70314496fba88a056a",
+    "status": "present",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-4"
+    ]
+  },
+  {
+    "id": "5665f8c65421cc228a14364a56e21df5",
+    "type": "image",
+    "filename": "5665f8c65421cc228a14364a56e21df5.webp",
+    "path": "assets/5665f8c65421cc228a14364a56e21df5.webp",
+    "mime": "image/webp",
+    "sha256": null,
+    "status": "missing-from-checkpoint",
+    "note": "Source reference recovered from PUBLISHED / Ateliers dexprimentations.html; image-to-atelier association is source-derived.",
+    "workshopIds": [
+      "atelier-5"
+    ]
+  }
+]

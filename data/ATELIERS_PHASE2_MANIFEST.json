@@ -1,0 +1,230 @@
+{
+  "phase": "V2 phase 2 — source-derived atelier reconstruction",
+  "source": "PUBLISHED / Ateliers dexprimentations.html",
+  "workshops": [
+    {
+      "id": "atelier-1",
+      "number": 1,
+      "title": "Atelier n°1: Les couleurs",
+      "glossaryIds": [
+        "aplat",
+        "arts-plastiques",
+        "blanc",
+        "camaieu",
+        "contraste",
+        "couleur",
+        "degrade",
+        "gouache",
+        "homogene",
+        "intensite",
+        "noir",
+        "nuance",
+        "pastel",
+        "peinture",
+        "pinceau",
+        "teinte"
+      ],
+      "artistIds": [
+        "joseph-albers"
+      ],
+      "mediaIds": [
+        "4507331886fe2abfda481186136dde9e",
+        "8fdc64975cfb5025bcacbb6d2bdc464c",
+        "dcedeac8455a8a47a551c7dc5577b707",
+        "3ec64c4e749a8ca278325ef98704f9e9",
+        "beed0f6da052538fb0f19443bb35e893",
+        "47b035766d9976d635021ae9588a5340",
+        "b40cfecca847d7dfed490f768174ceaa"
+      ]
+    },
+    {
+      "id": "atelier-2",
+      "number": 2,
+      "title": "Atelier n°2 : table lumineuse",
+      "glossaryIds": [
+        "abstraction",
+        "assembler",
+        "composition",
+        "contraste",
+        "intensite",
+        "manipulation",
+        "nuance",
+        "ombre",
+        "reflet",
+        "transparence"
+      ],
+      "artistIds": [
+        "herve-tullet",
+        "leo-lionni"
+      ],
+      "mediaIds": [
+        "cc3d915782cab3b4f32c077a2cb73dc9",
+        "67de51d098215eb4ef5f7b855c269f4a",
+        "6a1d39e063868dc1f01912a5c4aa5856",
+        "ac8c6309e0106e1e42b009c41e630e0a",
+        "88430f962774e92cd46e085ce32439a8",
+        "8500ec1cee7df696de4a720d17333890",
+        "27f72e98b63ba59681a33de100646e6f",
+        "b69b3f4f2ccf8935b7a9e2b1555d5a1e",
+        "4cbbc684e00d9ea397bcedb9596f0022",
+        "683eaf3165b65a30ee3c9cda133693d6",
+        "30b483423ff7a36dea9166131a3c0e47"
+      ]
+    },
+    {
+      "id": "atelier-3",
+      "number": 3,
+      "title": "Atelier n°3 : Visages",
+      "glossaryIds": [
+        "assembler",
+        "composition",
+        "contraste",
+        "figuration",
+        "manipulation",
+        "materiel-de-recuperation",
+        "materiel-detourne",
+        "matiere",
+        "relief",
+        "visage"
+      ],
+      "artistIds": [
+        "christian-voltz",
+        "jane-perkins"
+      ],
+      "mediaIds": [
+        "720b85b7f2efbc768a89f6160f241316",
+        "0de6befc110858d102190fe013626342",
+        "58b93b19ccc6779e1afce9e6fe5b92be",
+        "2ff1e95b9d78c3edeeb88c8a948c2fbc",
+        "2283b722a27d9189fa670411e9cccaba",
+        "5cd5c95b822e8d0ed684bb1f4fb5a9b2",
+        "68f14272d83aca3518a76ad26e023a13",
+        "7e5a459c103df8afdb486aeec200cbcd",
+        "72748ee3e4646c8470fe34e6a256929d",
+        "f9d215e705fde2a6e505314e66c0a1fa"
+      ]
+    },
+    {
+      "id": "atelier-4",
+      "number": 4,
+      "title": "Atelier n°4: Théorie des couleurs de J.Itten",
+      "glossaryIds": [
+        "composition-abstraite"
+      ],
+      "artistIds": [
+        "johannes-itten",
+        "vassily-kandinsky"
+      ],
+      "mediaIds": [
+        "5d0acd52da61e25743660bf567d5919d",
+        "d2f39ba6b0f63cda7f954b78f0fc33af",
+        "a0dd59a6dcac290c29a17394dad85a12",
+        "c7dd786987cfb4c6e24dd6261d8354ad",
+        "05b03a9a9ccb2bfbf2f631d813ef94c4",
+        "fe703abdd630c9eda06de40428117308",
+        "bb2f717be47cb1bed2c41a77b849c530",
+        "b6fcb23de85aa030adb9142fa3049c63",
+        "3b2eb2de9e73e5b6e01a3d051c12d72f"
+      ]
+    },
+    {
+      "id": "atelier-5",
+      "number": 5,
+      "title": "Atelier n°5: Traces et Empreintes",
+      "glossaryIds": [
+        "trace",
+        "empreinte",
+        "tampon",
+        "reserve",
+        "frottage",
+        "dripping",
+        "monotype",
+        "encre-coloree",
+        "transfert",
+        "pochoir",
+        "gravure",
+        "quadrichromie",
+        "rouleau-de-linogravure",
+        "seringue",
+        "vaporisateur",
+        "eponge",
+        "spatule",
+        "motif-graphique"
+      ],
+      "artistIds": [
+        "yves-klein",
+        "janet-sobel"
+      ],
+      "mediaIds": [
+        "ea5098141a55824435461361237cbe02",
+        "1db3e2ed682d7a45af16fb66f8e72dc8",
+        "62b5f500091cb6932c8a9342a83ab605",
+        "d900eab04dfc24875e69d90ada80cfb5",
+        "929253ca254ae99184f4e16896ec368d",
+        "8684d78bf10f13d08d7e9d55e93fde70",
+        "3edd6abcf2e4f441b1fa72e1234af967",
+        "e14e5fba1a32e0d8a465ac50405bb6c9",
+        "b16358a2766b3c453a77e1db5ff5c297",
+        "8bface13d9d9cd165a561ee5a0d9f6b2",
+        "ea4289fc9211176d505dbc36143635a1",
+        "f523b8254049b2c20ab0c9d9215672bf",
+        "b3d090841e48ec888d2fc178f711efbc",
+        "3a1158c9cebb0eb58d207343bbd6753d",
+        "5665f8c65421cc228a14364a56e21df5",
+        "19219c66d48a073c7b560bebae517a02",
+        "50fd09d2ee25a3d011170988cf56b7e3",
+        "2b98346673c8e5363d67dee8bbd3e310",
+        "6067737663121c48d38352e37ce0313b",
+        "5afed428042a859379903684bab82429",
+        "1b4ef5d09970deb1c4bc7ac854f3daf4",
+        "94398489854b648cefb74f059aa9e68f",
+        "16d3578253a2f57fae835da74d8674c3",
+        "bd8ee0eebfb03659d116059d7a2ce957",
+        "69fdd3431d6561d8247a465750fbd4b4",
+        "6fbbf3f064fabfaca17c1283a721eee1",
+        "616721408bb30dc0b42426a7e5c9bd49",
+        "650d62466ce4eeb17ea64664b937037a",
+        "b268b96a03853d466c3684b41fb5c900",
+        "b1d21eb9c32d8e280cb36c6c899019e7",
+        "e8170dcde58dea0208eb37730b1ce4a8",
+        "2ecc83464532419b68de1cbb6db43766",
+        "88f6881983ffba4f78b90ca70dff71d8",
+        "6cd66f3698050cdf57ccc96036cf4829",
+        "28e736b7cd9b4cba6c2a0c59fb350e4a",
+        "0108beca2d28fa34da0ab6f2b1d293d9",
+        "a3437a97d15458e8e5a9a164c800ec72",
+        "b0b25d05879bf8e663db1293a3f2de54",
+        "a12267d2f5b823135ac22f3db5f6afc6",
+        "413ba61d4dec2f2d757125008740ebb4",
+        "9508271e6559112618366230b50ad3a3",
+        "d92f808d018639eeebfb0ab6c52e0e2a",
+        "432fb4a3e6d8ce2157bd66f0b8db17f3",
+        "50ed4b7fa4c2dbcaa3c70f899fbfa41e",
+        "28d53ec50b9839c3e4119669a4c7d87e"
+      ]
+    },
+    {
+      "id": "atelier-6",
+      "number": 6,
+      "title": "Atelier n°6 : Classification des Arts",
+      "glossaryIds": [],
+      "artistIds": [],
+      "mediaIds": [
+        "bbf54a27205137371944b1af77cfe01c"
+      ]
+    }
+  ],
+  "counts": {
+    "workshops": 6,
+    "source_images": 83,
+    "media_inventory": 203,
+    "missing_source_images_in_checkpoint": 1
+  },
+  "rules": [
+    "No legacy data deleted.",
+    "No image association inferred from filename.",
+    "Workshop image associations are derived only from explicit image references in the exported PUBLISHED HTML.",
+    "Glossary IDs are linked only when an exact normalized title match exists in the existing glossary V2.",
+    "Artist IDs are linked only for artist headings explicitly present in the workshop source and present in the existing artist V2 collection."
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "title": "Ma boîte à outils",
+  "dataCollections": [
+    {
+      "id": "glossary",
+      "file": "data/glossary.v2.json",
+      "label": "Glossaire"
+    },
+    {
+      "id": "artists",
+      "file": "data/artists.v2.json",
+      "label": "Références artistiques"
+    },
+    {
+      "id": "works",
+      "file": "data/works.v2.json",
+      "label": "Œuvres"
+    },
+    {
+      "id": "workshops",
+      "file": "data/workshops.v2.json",
+      "label": "Ateliers"
+    },
+    {
+      "id": "culturalObjects",
+      "file": "data/cultural-objects.v2.json",
+      "label": "Objets culturels"
+    },
+    {
+      "id": "pages",
+      "file": "data/pages.json",
+      "label": "Pages"
+    },
+    {
+      "id": "media",
+      "file": "data/media.v2.json",
+      "label": "Médias"
+    }
+  ],
+  "assetRoot": "assets",
+  "documentRoot": "documents"
+}
