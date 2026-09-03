@@ -47,10 +47,11 @@
       "Médium": "Installation éphémère photographiée",
       "Procédés artistiques": "Empreinte corporelle sur sol avant la pluie, art éphémère, photographie documentaire"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Titre 1: Série Marilyn Monroe"
   },
   {
-    "title": "\" Série Marilyn Monroe\"",
+    "title": "Série Marilyn Monroe",
     "artist": "Andy Warhol",
     "Date": "1962",
     "Siècle": "XXe siècle",
@@ -151,7 +152,8 @@
       "Médium": "Peinture acrylique sur toile",
       "Procédés artistiques": "Grandes surfaces monochromes"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Color Field"
   },
   {
     "title": "Une année",
@@ -209,7 +211,8 @@
       "Médium": "Album avec pages transparentes",
       "Procédés artistiques": "Superposition de calques transparents, juxtaposition"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Dans le brouillard de Milan"
   },
   {
     "notes": [
@@ -237,7 +240,8 @@
       "Médium": "Peinture à l'huile sur toile",
       "Procédés artistiques": "Clair-obscur, ténébrisme, contraste dramatique lumière/ombre"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "La vocation de Saint Matthieu"
   },
   {
     "notes": [
@@ -263,14 +267,16 @@
       "Médium": "Album jeunesse, sculpture d'objets",
       "Procédés artistiques": "Manipulation, assemblage d'objets du quotidien"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "C'est pas ma faute!"
   },
   {
     "id": "claude-monet-uvre",
     "artistId": "claude-monet",
     "glossaryIds": [],
     "_legacy": {},
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Série Cathédrales de Rouen"
   },
   {
     "notes": [
@@ -298,7 +304,8 @@
       "Médium": "Album pop-up en papier",
       "Procédés artistiques": "Construction 3D en papier découpé, pliage, relief, ingénierie papier"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Un point rouge"
   },
   {
     "notes": [
@@ -326,7 +333,8 @@
       "Dimensions": "Format livre 20 × 26 cm",
       "Médium": "Livre pédagogique illustré"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Ed Emberley's Drawing Book of Faces"
   },
   {
     "notes": [
@@ -354,7 +362,8 @@
       "Médium": "Pastel sur papier",
       "Procédés artistiques": "Technique du pastel, capture du mouvement, cadrages photographiques"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Danseuses (série)"
   },
   {
     "notes": [
@@ -382,7 +391,8 @@
       "Dimensions": "228,6 × 304,8 cm",
       "Médium": "Peinture à l'huile sur toile"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Red Blue Green"
   },
   {
     "notes": [
@@ -410,7 +420,8 @@
       "Médium": "Collage de papiers gouachés",
       "Procédés artistiques": "Papiers gouachés découpés, collage, trous découpés créant un parcours tactile"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "La chenille qui fait des trous"
   },
   {
     "title": "Le papillon imprimeur",
@@ -468,7 +479,8 @@
       "Médium": "Crayon, Gouache",
       "Procédés artistiques": "Utilisation structurelle de la couleur, formes tubulaires"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Le Transport des Forces"
   },
   {
     "notes": [
@@ -496,7 +508,8 @@
       "Médium": "Peinture murale transférée sur toile",
       "Procédés artistiques": "Utilisation massive du noir, palette sombre, thèmes morbides"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Peintures noires (série)"
   },
   {
     "notes": [
@@ -522,7 +535,8 @@
       "Médium": "Peinture à l'huile sur toile",
       "Procédés artistiques": "Geste spontané, projection de peinture, calligraphie gestuelle"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Compositions abstraites lyriques"
   },
   {
     "notes": [
@@ -550,7 +564,8 @@
       "Médium": "Peinture à l'huile sur toile",
       "Procédés artistiques": "Pointillisme, petits coups de pinceau juxtaposés"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Un dimanche après-midi à l'Île de la Grande Jatte"
   },
   {
     "notes": [
@@ -578,7 +593,8 @@
       "Médium": "Peinture à l'huile sur toile",
       "Procédés artistiques": "Exploration des nuances de gris, beiges, ocres"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Natures mortes"
   },
   {
     "title": "Capelli neri… un soffio (Des Cheveux noirs... un souffle)",
@@ -630,7 +646,8 @@
       "Médium": "Peinture à l'huile sur toile",
       "Procédés artistiques": "Figuration réaliste, représentation grandeur nature"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Un enterrement à Ornans"
   },
   {
     "notes": [
@@ -656,14 +673,16 @@
       "Médium": "Peinture acrylique sur toile",
       "Procédés artistiques": "Geste spontané, traces gestuelles, projection de peinture"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Compositions abstraites lyriques"
   },
   {
     "id": "henri-matisse-uvre",
     "artistId": "henri-matisse",
     "glossaryIds": [],
     "_legacy": {},
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "La Gerbe"
   },
   {
     "notes": [
@@ -691,14 +710,16 @@
       "Médium": "Gouache sur papier, encre de Chine",
       "Procédés artistiques": "Aplats de couleur uniformes, ligne claire, contours nets"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Les Aventures de Tintin (planches originales)"
   },
   {
     "id": "herve-tullet-uvre",
     "artistId": "herve-tullet",
     "glossaryIds": [],
     "_legacy": {},
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Couleurs"
   },
   {
     "notes": [
@@ -752,7 +773,8 @@
       "Médium": "Peinture à l'huile sur toile",
       "Procédés artistiques": "Dégradés atmosphériques, lumière diffuse"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Pluie, vapeur et vitesse"
   },
   {
     "notes": [
@@ -780,7 +802,8 @@
       "Médium": "Peinture industrielle sur toile",
       "Procédés artistiques": "Dripping, geste spontané, projection de peinture"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Number 1A"
   },
   {
     "notes": [
@@ -808,7 +831,8 @@
       "Médium": "Assemblage d'objets détournés (boutons, perles, jouets)",
       "Procédés artistiques": "Détournement d'objets, mosaïque"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Vincent Van Golf"
   },
   {
     "title": "Milky Way",
@@ -858,14 +882,16 @@
       "Médium": "Papier collé",
       "Procédés artistiques": "Collage, organisation aléatoire par le hasard"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Collages selon les lois du hasard"
   },
   {
     "id": "jean-dubuffet-uvre",
     "artistId": "jean-dubuffet",
     "glossaryIds": [],
     "_legacy": {},
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Titre 1 : Art Brut — séries gestuelles l'empreinte d'une aventure"
   },
   {
     "notes": [
@@ -893,7 +919,8 @@
       "Médium": "Pastel sur parchemin",
       "Procédés artistiques": "Technique du pastel, réalisme photographique, textures détaillées"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "La Belle Chocolatière"
   },
   {
     "notes": [
@@ -919,7 +946,8 @@
       "Médium": "Théorie de la couleur, pédagogie artistique",
       "Procédés artistiques": "Systématisation des relations chromatiques"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Sphère des couleurs et cercle chromatique"
   },
   {
     "notes": [
@@ -947,10 +975,11 @@
       "Médium": "Peinture à l'huile sur toile",
       "Procédés artistiques": "Maîtrise de la lumière naturelle, réalisme"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "La Laitière"
   },
   {
-    "title": "\"Homage to the Square\"",
+    "title": "Homage to the Square",
     "artist": "Joseph Albers",
     "Siècle": "XXe siècle",
     "Courant artistique": "Abstraction géométrique, Bauhaus",
@@ -995,14 +1024,16 @@
       "Médium": "Album jeunesse, aquarelle",
       "Procédés artistiques": "Reflets dans l'eau, aquarelle"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Le bain de Berk"
   },
   {
     "id": "kasimir-malevitch-uvre",
     "artistId": "kasimir-malevitch",
     "glossaryIds": [],
     "_legacy": {},
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Carré Blanc sur fond blanc"
   },
   {
     "notes": [
@@ -1028,7 +1059,8 @@
       "Médium": "Album jeunesse, papier découpé",
       "Procédés artistiques": "Dégradés de couleurs, formes découpées, livres accordéons, harmonie visuelle"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Bon (album jeunesse)"
   },
   {
     "notes": [
@@ -1056,7 +1088,8 @@
       "Médium": "Assemblage, collage sur huile",
       "Procédés artistiques": "Récupération de déchets, assemblage"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Merzbild 1A (The Psychiatrist)"
   },
   {
     "notes": [
@@ -1082,7 +1115,8 @@
       "Médium": "Album jeunesse, livre-objet",
       "Procédés artistiques": "Découpage, pliage, superposition, matière papier"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Le théâtre de minuit"
   },
   {
     "notes": [
@@ -1110,7 +1144,8 @@
       "Médium": "Collage de papiers déchirés",
       "Procédés artistiques": "Papiers déchirés et superposés, formes abstraites"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Petit-Bleu et Petit-Jaune"
   },
   {
     "notes": [
@@ -1138,7 +1173,8 @@
       "Dimensions": "927 × 891 × 1024 cm (environ 10 mètres de haut)",
       "Médium": "Sculpture en bronze, marbre et acier inoxydable"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Maman"
   },
   {
     "notes": [
@@ -1166,7 +1202,8 @@
       "Médium": "Peinture à l'huile sur toile",
       "Procédés artistiques": "Empâtements, coups de pinceau visibles, observation minutieuse"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Portraits (série)"
   },
   {
     "notes": [
@@ -1194,14 +1231,16 @@
       "Médium": "Peinture à l'huile sur panneau de bois",
       "Procédés artistiques": "Sfumato, figuration minutieuse, représentation réaliste"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "La Joconde (Mona Lisa)"
   },
   {
     "id": "marcel-duchamp-uvre",
     "artistId": "marcel-duchamp",
     "glossaryIds": [],
     "_legacy": {},
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Le Grand Verre"
   },
   {
     "notes": [
@@ -1227,7 +1266,8 @@
       "Médium": "Album jeunesse illustré",
       "Procédés artistiques": "Représentation du corps en mouvement"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "La danse de Doris"
   },
   {
     "notes": [
@@ -1255,7 +1295,8 @@
       "Médium": "Peinture à l'huile sur toile",
       "Procédés artistiques": "Surfaces homogènes de couleur, rectangles flottants"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Color Field Paintings"
   },
   {
     "notes": [
@@ -1281,7 +1322,8 @@
       "Médium": "Peinture acrylique sur toile",
       "Procédés artistiques": "Lignes tracées au pistolet, rapport ligne/espace/couleur"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Peintures abstraites géométriques"
   },
   {
     "title": "L'Évadé (série Histoire Naturelle)",
@@ -1333,14 +1375,16 @@
       "Médium": "Installation avec blocs de glace du Groenland",
       "Procédés artistiques": "Art éphémère, installation in situ, sensibilisation climatique"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Ice Watch"
   },
   {
     "id": "pablo-picasso-uvre",
     "artistId": "pablo-picasso",
     "glossaryIds": [],
     "_legacy": {},
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Période bleue (La vie, Le vieux guitariste aveugle)"
   },
   {
     "notes": [
@@ -1368,7 +1412,8 @@
       "Médium": "Peinture à l'huile sur toile",
       "Procédés artistiques": "Ombres colorées, touches constructives, volumes par la couleur"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "La Montagne Sainte-Victoire (série)"
   },
   {
     "notes": [
@@ -1394,7 +1439,8 @@
       "Médium": "Théorie de la couleur",
       "Procédés artistiques": "Systématisation des relations chromatiques"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Cercle chromatique (avec Itten)"
   },
   {
     "notes": [
@@ -1422,14 +1468,16 @@
       "Médium": "Peinture (noir) sur toile",
       "Procédés artistiques": "Textures, reflets de lumière dans le noir"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Série Outrenoir"
   },
   {
     "id": "piet-mondrian-uvre",
     "artistId": "piet-mondrian",
     "glossaryIds": [],
     "_legacy": {},
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Composition II en rouge, bleu et jaune"
   },
   {
     "notes": [
@@ -1457,7 +1505,8 @@
       "Médium": "Film d'animation 3D",
       "Procédés artistiques": "Animation numérique, utilisation symbolique de la couleur"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Vice-Versa (Inside Out)"
   },
   {
     "notes": [
@@ -1485,7 +1534,8 @@
       "Médium": "Fresque",
       "Procédés artistiques": "Perspective linéaire classique, gestion de l'espace"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "L'École d'Athènes"
   },
   {
     "notes": [
@@ -1511,7 +1561,8 @@
       "Médium": "Album jeunesse avec éléments tactiles et visuels",
       "Procédés artistiques": "Manipulation visuelle, éléments interactifs à transformer, exploration de la composition"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Art'bracadabra"
   },
   {
     "notes": [
@@ -1567,7 +1618,8 @@
       "Dimensions": "Film",
       "Médium": "Film cinématographique"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Sin City"
   },
   {
     "notes": [
@@ -1593,7 +1645,8 @@
       "Médium": "Peinture (blanc) sur divers supports",
       "Procédés artistiques": "Variations de textures, supports, gestes"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Peintures en blanc (carrière entière)"
   },
   {
     "notes": [
@@ -1621,7 +1674,8 @@
       "Médium": "Peinture acrylique et huile sur toile",
       "Procédés artistiques": "Imitation des points Ben-Day, aplats de couleurs primaires"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Whaam!"
   },
   {
     "notes": [
@@ -1649,7 +1703,8 @@
       "Médium": "Peinture à l'huile sur toile",
       "Procédés artistiques": "Technique académique minutieuse, représentation onirique, symbolisme"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "La persistance de la mémoire"
   },
   {
     "notes": [
@@ -1677,14 +1732,16 @@
       "Médium": "Peinture, textile, arts appliqués",
       "Procédés artistiques": "Contrastes simultanés de couleurs, compositions géométriques"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "SérieRythmes colorés et Prismes élec t riques"
   },
   {
     "id": "suzy-lee-uvre",
     "artistId": "suzy-lee",
     "glossaryIds": [],
     "_legacy": {},
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Miroir"
   },
   {
     "notes": [
@@ -1712,27 +1769,31 @@
       "Médium": "Installation avec objets de récupération et lumière",
       "Procédés artistiques": "Assemblage d'objets créant des ombres projetées en forme de visages"
     },
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Miss Understood & MR. Meanor"
   },
   {
     "id": "vassily-kandinsky-uvre",
     "artistId": "vassily-kandinsky",
     "glossaryIds": [],
     "_legacy": {},
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Première aquarelle abstraite"
   },
   {
     "id": "vincent-van-gogh-uvre",
     "artistId": "vincent-van-gogh",
     "glossaryIds": [],
     "_legacy": {},
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "La Nuit étoilée"
   },
   {
     "id": "yves-klein-uvre",
     "artistId": "yves-klein",
     "glossaryIds": [],
     "_legacy": {},
-    "mediaIds": []
+    "mediaIds": [],
+    "title": "Le Bleu Klein (IKB)"
   }
 ]

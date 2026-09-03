@@ -1,7 +1,7 @@
 [
   {
     "id": "description",
-    "title": "Description",
+    "title": "Affiches bleues de cinéma classique de science-fiction",
     "content": [
       "Les affiches de films de science-fiction classiques utilisent souvent une dominante bleue pour évoquer l'espace, la technologie et le futur. Cette utilisation systématique du bleu (camaïeu de bleu) crée une atmosphère froide et mystérieuse caractéristique du genre. Les affiches de films comme Tron, Blade Runner, Star Wars, Alien ou 2001 L'Odyssée de l'espace illustrent parfaitement cette esthétique devenue iconique.",
       "Œuvres",
@@ -76,7 +76,7 @@
   },
   {
     "id": "description-2",
-    "title": "Description",
+    "title": "Couchers de soleil",
     "content": [
       "Les couchers de soleil constituent une référence culturelle majeure à l'internationale dans l'histoire de l'art et de la photographie. Ils illustrent parfaitement les concepts de dégradé chromatique, de nuances de couleurs chaudes (orange, rouge, rose, jaune) et les variations d'intensité lumineuse. De nombreux artistes impressionnistes comme Monet, Turner et Friedrich ont capturé ces moments où le ciel se transforme en palette de couleurs."
     ],
@@ -102,7 +102,7 @@
   },
   {
     "id": "description-3",
-    "title": "Description",
+    "title": "Grottes de Bornéo",
     "content": [
       "Nom de l'objet : Pochoirs de mains",
       "Lieu de création : Grottes de Bornéo (Kalimantan, Indonésie)",
@@ -150,7 +150,7 @@
   },
   {
     "id": "description-4",
-    "title": "Description",
+    "title": "Grottes de Lascaux",
     "content": [
       "Nom de l'objet : Salle des Taureaux / Pochoirs de mains",
       "Lieu de création : Grotte de Lascaux, Montignac-Lascaux, Dordogne, France",
