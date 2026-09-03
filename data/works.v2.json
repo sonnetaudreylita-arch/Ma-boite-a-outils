@@ -271,14 +271,6 @@
     "title": "C'est pas ma faute!"
   },
   {
-    "id": "claude-monet-uvre",
-    "artistId": "claude-monet",
-    "glossaryIds": [],
-    "_legacy": {},
-    "mediaIds": [],
-    "title": "Série Cathédrales de Rouen"
-  },
-  {
     "notes": [
       "\" Un point rouge\""
     ],
@@ -677,14 +669,6 @@
     "title": "Compositions abstraites lyriques"
   },
   {
-    "id": "henri-matisse-uvre",
-    "artistId": "henri-matisse",
-    "glossaryIds": [],
-    "_legacy": {},
-    "mediaIds": [],
-    "title": "La Gerbe"
-  },
-  {
     "notes": [
       "\" Les Aventures de Tintin (planches originales) \""
     ],
@@ -712,14 +696,6 @@
     },
     "mediaIds": [],
     "title": "Les Aventures de Tintin (planches originales)"
-  },
-  {
-    "id": "herve-tullet-uvre",
-    "artistId": "herve-tullet",
-    "glossaryIds": [],
-    "_legacy": {},
-    "mediaIds": [],
-    "title": "Couleurs"
   },
   {
     "notes": [
@@ -1028,14 +1004,6 @@
     "title": "Le bain de Berk"
   },
   {
-    "id": "kasimir-malevitch-uvre",
-    "artistId": "kasimir-malevitch",
-    "glossaryIds": [],
-    "_legacy": {},
-    "mediaIds": [],
-    "title": "Carré Blanc sur fond blanc"
-  },
-  {
     "notes": [
       "\" Bon\" (album jeunesse)"
     ],
@@ -1235,14 +1203,6 @@
     "title": "La Joconde (Mona Lisa)"
   },
   {
-    "id": "marcel-duchamp-uvre",
-    "artistId": "marcel-duchamp",
-    "glossaryIds": [],
-    "_legacy": {},
-    "mediaIds": [],
-    "title": "Le Grand Verre"
-  },
-  {
     "notes": [
       "\" La danse de Doris\""
     ],
@@ -1379,14 +1339,6 @@
     "title": "Ice Watch"
   },
   {
-    "id": "pablo-picasso-uvre",
-    "artistId": "pablo-picasso",
-    "glossaryIds": [],
-    "_legacy": {},
-    "mediaIds": [],
-    "title": "Période bleue (La vie, Le vieux guitariste aveugle)"
-  },
-  {
     "notes": [
       "\" Nature morte aux Pommes \""
     ],
@@ -1470,14 +1422,6 @@
     },
     "mediaIds": [],
     "title": "Série Outrenoir"
-  },
-  {
-    "id": "piet-mondrian-uvre",
-    "artistId": "piet-mondrian",
-    "glossaryIds": [],
-    "_legacy": {},
-    "mediaIds": [],
-    "title": "Composition II en rouge, bleu et jaune"
   },
   {
     "notes": [
@@ -1736,14 +1680,6 @@
     "title": "SérieRythmes colorés et Prismes élec t riques"
   },
   {
-    "id": "suzy-lee-uvre",
-    "artistId": "suzy-lee",
-    "glossaryIds": [],
-    "_legacy": {},
-    "mediaIds": [],
-    "title": "Miroir"
-  },
-  {
     "notes": [
       "\" Miss Understood & MR. Meanor \""
     ],
@@ -1773,27 +1709,404 @@
     "title": "Miss Understood & MR. Meanor"
   },
   {
-    "id": "vassily-kandinsky-uvre",
+    "title": "Série Cathédrales de Rouen",
+    "artist": "Claude Monet",
+    "Date": "1892-1894",
+    "Siècle": "XIXe siècle",
+    "Courant artistique": "Impressionnisme",
+    "Dimensions": "Env. 100 × 65 cm (variations)",
+    "Médium": "Peinture à l'huile sur toile",
+    "Procédés artistiques": "Variations de lumière selon les heures",
+    "id": "claude-monet-uvre-1",
+    "artistId": "claude-monet",
+    "glossaryIds": [],
+    "mediaIds": []
+  },
+  {
+    "title": "Les Nymphéas",
+    "artist": "Claude Monet",
+    "Date": "1914-1926",
+    "Siècle": "XXe siècle",
+    "Courant artistique": "Impressionnisme",
+    "Dimensions": "Grands formats",
+    "Médium": "Peinture à l'huile sur toile",
+    "Procédés artistiques": "Exploration des nuances de bleu, vert, rose",
+    "id": "claude-monet-uvre-2",
+    "artistId": "claude-monet",
+    "glossaryIds": [],
+    "mediaIds": []
+  },
+  {
+    "title": "Les coquelicots",
+    "artist": "Claude Monet",
+    "Date": "1873",
+    "Siècle": "XIXe siècle",
+    "Courant artistique": "Impressionnisme",
+    "Dimensions": "50 × 65 cm",
+    "Médium": "Peinture à l'huile sur toile",
+    "Procédés artistiques": "Couleurs secondaires et complémentaires",
+    "id": "claude-monet-uvre-3",
+    "artistId": "claude-monet",
+    "glossaryIds": [],
+    "mediaIds": []
+  },
+  {
+    "title": "La Gerbe",
+    "artist": "Henri Matisse",
+    "Date": "1953",
+    "Siècle": "XXe siècle",
+    "Courant artistique": "Fauvisme",
+    "Dimensions": "294 × 350 cm",
+    "Médium": "Papiers gouachés découpés sur toile",
+    "Procédés artistiques": "Découpage, aplats de couleurs pures",
+    "id": "henri-matisse-uvre-1",
+    "artistId": "henri-matisse",
+    "glossaryIds": [],
+    "mediaIds": []
+  },
+  {
+    "title": "L'Escargot",
+    "artist": "Henri Matisse",
+    "Date": "1953",
+    "Siècle": "XXe siècle",
+    "Courant artistique": "Fauvisme",
+    "Dimensions": "287 × 288 cm",
+    "Médium": "Papiers gouachés découpés sur toile",
+    "Procédés artistiques": "Découpage, composition spirale",
+    "id": "henri-matisse-uvre-2",
+    "artistId": "henri-matisse",
+    "glossaryIds": [],
+    "mediaIds": []
+  },
+  {
+    "title": "La raie verte",
+    "artist": "Henri Matisse",
+    "Date": "1905",
+    "Siècle": "XXe siècle",
+    "Courant artistique": "Fauvisme",
+    "Dimensions": "40,5 × 32,5 cm",
+    "Médium": "Peinture à l'huile sur toile",
+    "Procédés artistiques": "Mélange de couleurs, portrait fauve",
+    "id": "henri-matisse-uvre-3",
+    "artistId": "henri-matisse",
+    "glossaryIds": [],
+    "mediaIds": []
+  },
+  {
+    "title": "La Danse",
+    "artist": "Henri Matisse",
+    "Date": "1910",
+    "Siècle": "XXe siècle",
+    "Courant artistique": "Fauvisme",
+    "Dimensions": "260 × 391 cm",
+    "Médium": "Peinture à l'huile sur toile",
+    "Procédés artistiques": "Couleurs d'intensité maximale, simplification des formes",
+    "id": "henri-matisse-uvre-4",
+    "artistId": "henri-matisse",
+    "glossaryIds": [],
+    "mediaIds": []
+  },
+  {
+    "title": "Icare",
+    "artist": "Henri Matisse",
+    "Date": "1943-1947",
+    "Siècle": "XXe siècle",
+    "Courant artistique": "Fauvisme",
+    "Dimensions": "Variables",
+    "Médium": "Papiers gouachés découpés",
+    "Procédés artistiques": "Découpage dans papiers peints à la gouache",
+    "id": "henri-matisse-uvre-5",
+    "artistId": "henri-matisse",
+    "glossaryIds": [],
+    "mediaIds": []
+  },
+  {
+    "title": "Couleurs",
+    "artist": "Hervé Tullet",
+    "Date": "2014",
+    "Siècle": "XXIe siècle",
+    "Courant artistique": "Album jeunesse interactif",
+    "Dimensions": "Format album",
+    "Médium": "Album jeunesse",
+    "Procédés artistiques": "Juxtaposition de couleurs, harmonie, transparence chromatique",
+    "id": "herve-tullet-uvre-1",
+    "artistId": "herve-tullet",
+    "glossaryIds": [],
+    "mediaIds": []
+  },
+  {
+    "title": "Formes",
+    "artist": "Hervé Tullet",
+    "Siècle": "XXIe siècle",
+    "Courant artistique": "Album jeunesse interactif",
+    "Dimensions": "Format album",
+    "Médium": "Album jeunesse",
+    "Procédés artistiques": "Exploration des formes géométriques",
+    "id": "herve-tullet-uvre-2",
+    "artistId": "herve-tullet",
+    "glossaryIds": [],
+    "mediaIds": []
+  },
+  {
+    "title": "Carré Blanc sur fond blanc",
+    "artist": "Kasimir Malevitch",
+    "Date": "1918",
+    "Siècle": "XXe siècle",
+    "Courant artistique": "Suprématisme",
+    "Dimensions": "79,4 × 79,4 cm",
+    "Médium": "Peinture à l'huile sur toile",
+    "Procédés artistiques": "Monochrome blanc, abstraction absolue",
+    "id": "kasimir-malevitch-uvre-1",
+    "artistId": "kasimir-malevitch",
+    "glossaryIds": [],
+    "mediaIds": []
+  },
+  {
+    "title": "Suprematist Composition",
+    "artist": "Kasimir Malevitch",
+    "Siècle": "XXe siècle",
+    "Courant artistique": "Suprématisme",
+    "Dimensions": "Variables",
+    "Médium": "Peinture à l'huile sur toile",
+    "id": "kasimir-malevitch-uvre-2",
+    "artistId": "kasimir-malevitch",
+    "glossaryIds": [],
+    "mediaIds": []
+  },
+  {
+    "title": "Le Grand Verre",
+    "artist": "Marcel Duchamp",
+    "Date": "1915-1923",
+    "Siècle": "XXe siècle",
+    "Courant artistique": "Dada, Art conceptuel",
+    "Dimensions": "277,5 × 175,9 cm",
+    "Médium": "Huile, vernis, feuille de plomb sur verre",
+    "Procédés artistiques": "Assemblage sur verre, techniques mixtes",
+    "id": "marcel-duchamp-uvre-1",
+    "artistId": "marcel-duchamp",
+    "glossaryIds": [],
+    "mediaIds": []
+  },
+  {
+    "title": "Fontaine",
+    "artist": "Marcel Duchamp",
+    "Date": "1917",
+    "Siècle": "XXe siècle",
+    "Courant artistique": "Dada, Ready-made",
+    "Dimensions": "36 × 48 × 61 cm",
+    "Médium": "Urinoir en porcelaine",
+    "Procédés artistiques": "Ready-made, détournement d'objet manufacturé",
+    "id": "marcel-duchamp-uvre-2",
+    "artistId": "marcel-duchamp",
+    "glossaryIds": [],
+    "mediaIds": []
+  },
+  {
+    "title": "Période bleue (La vie, Le vieux guitariste aveugle)",
+    "artist": "Pablo Picasso",
+    "Date": "1901-1904",
+    "Siècle": "XXe siècle",
+    "Courant artistique": "Période bleue",
+    "Dimensions": "Variables",
+    "Médium": "Peinture à l'huile sur toile",
+    "Procédés artistiques": "Camaïeu de bleu, tonalités monochromes",
+    "id": "pablo-picasso-uvre-1",
+    "artistId": "pablo-picasso",
+    "glossaryIds": [],
+    "mediaIds": []
+  },
+  {
+    "title": "Les Demoiselles d'Avignon",
+    "artist": "Pablo Picasso",
+    "Date": "1907",
+    "Siècle": "XXe siècle",
+    "Courant artistique": "Proto-cubisme",
+    "Dimensions": "243,9 × 233,7 cm",
+    "Médium": "Peinture à l'huile sur toile",
+    "Procédés artistiques": "Déconstruction des formes, influences africaines",
+    "id": "pablo-picasso-uvre-2",
+    "artistId": "pablo-picasso",
+    "glossaryIds": [],
+    "mediaIds": []
+  },
+  {
+    "title": "Femme au béret et à la robe quadrillée",
+    "artist": "Pablo Picasso",
+    "Siècle": "XXe siècle",
+    "Courant artistique": "Cubisme",
+    "Dimensions": "Variables",
+    "Médium": "Peinture à l'huile sur toile",
+    "Procédés artistiques": "Composition cubiste, schéma corporel fragmenté",
+    "id": "pablo-picasso-uvre-3",
+    "artistId": "pablo-picasso",
+    "glossaryIds": [],
+    "mediaIds": []
+  },
+  {
+    "title": "Composition II en rouge, bleu et jaune",
+    "artist": "Piet Mondrian",
+    "Date": "1930",
+    "Siècle": "XXe siècle",
+    "Courant artistique": "Néoplasticisme, De Stijl",
+    "Dimensions": "46 × 46 cm",
+    "Médium": "Peinture à l'huile sur toile",
+    "Procédés artistiques": "Lignes noires, rectangles de couleurs primaires",
+    "id": "piet-mondrian-uvre-1",
+    "artistId": "piet-mondrian",
+    "glossaryIds": [],
+    "mediaIds": []
+  },
+  {
+    "title": "Composition en rouge, jaune, bleu et noir",
+    "artist": "Piet Mondrian",
+    "Siècle": "XXe siècle",
+    "Courant artistique": "Néoplasticisme",
+    "Dimensions": "Variables",
+    "Médium": "Peinture à l'huile sur toile",
+    "Procédés artistiques": "Assemblage de formes géométriques",
+    "id": "piet-mondrian-uvre-2",
+    "artistId": "piet-mondrian",
+    "glossaryIds": [],
+    "mediaIds": []
+  },
+  {
+    "title": "Miroir",
+    "artist": "Suzy Lee",
+    "Date": "2003",
+    "Siècle": "XXIe siècle",
+    "Courant artistique": "Album jeunesse conceptuel",
+    "Dimensions": "Format album 23 × 29 cm",
+    "Médium": "Album jeunesse",
+    "Procédés artistiques": "Reliure centrale comme ligne de miroir, symétrie, reflet",
+    "id": "suzy-lee-uvre-1",
+    "artistId": "suzy-lee",
+    "glossaryIds": [],
+    "mediaIds": []
+  },
+  {
+    "title": "La vague",
+    "artist": "Suzy Lee",
+    "Date": "2008",
+    "Siècle": "XXIe siècle",
+    "Courant artistique": "Album jeunesse sans texte",
+    "Dimensions": "Format album 28 × 21 cm",
+    "Médium": "Album jeunesse",
+    "Procédés artistiques": "Illusion de transparence de l'eau, reflets, minimalisme",
+    "id": "suzy-lee-uvre-2",
+    "artistId": "suzy-lee",
+    "glossaryIds": [],
+    "mediaIds": []
+  },
+  {
+    "title": "Première aquarelle abstraite",
+    "artist": "Vassily Kandinsky",
+    "Date": "1910",
+    "Siècle": "XXe siècle",
+    "Courant artistique": "Abstraction",
+    "Dimensions": "50 × 65 cm",
+    "Médium": "Aquarelle sur papier",
+    "Procédés artistiques": "Composition abstraite, formes libres, couleurs spontanées",
+    "id": "vassily-kandinsky-uvre-1",
     "artistId": "vassily-kandinsky",
     "glossaryIds": [],
-    "_legacy": {},
-    "mediaIds": [],
-    "title": "Première aquarelle abstraite"
+    "mediaIds": []
   },
   {
-    "id": "vincent-van-gogh-uvre",
+    "title": "Composition VIII",
+    "artist": "Vassily Kandinsky",
+    "Date": "1923",
+    "Siècle": "XXe siècle",
+    "Courant artistique": "Abstraction géométrique",
+    "Dimensions": "140 × 201 cm",
+    "Médium": "Peinture à l ' huile sur toile",
+    "Procédés artistiques": "Formes géométriques abstraites, cercles, lignes, triangles",
+    "id": "vassily-kandinsky-uvre-2",
+    "artistId": "vassily-kandinsky",
+    "glossaryIds": [],
+    "mediaIds": []
+  },
+  {
+    "title": "Carrés avec cercles concentriques",
+    "artist": "Vassily Kandinsky",
+    "Date": "1913",
+    "Siècle": "XXe siècle",
+    "Courant artistique": "Abstraction",
+    "Dimensions": "23,8 × 31,4 cm",
+    "Médium": "Aquarelle, gouache et crayon sur papier",
+    "Procédés artistiques": "Exploration des couleurs primaires et de leurs effets émotionnels",
+    "id": "vassily-kandinsky-uvre-3",
+    "artistId": "vassily-kandinsky",
+    "glossaryIds": [],
+    "mediaIds": []
+  },
+  {
+    "title": "Jaune-Rouge-Bleu",
+    "artist": "Vassily Kandinsky",
+    "Date": "1925",
+    "Siècle": "XXe siècle",
+    "Courant artistique": "Abstraction",
+    "Dimensions": "128 × 201,5 cm",
+    "Médium": "Peinture à l'huile sur toile",
+    "Procédés artistiques": "Couleurs primaires, formes géométriques, valeur émotionnelle des teintes",
+    "id": "vassily-kandinsky-uvre-4",
+    "artistId": "vassily-kandinsky",
+    "glossaryIds": [],
+    "mediaIds": []
+  },
+  {
+    "title": "La Nuit étoilée",
+    "artist": "Vincent van Gogh",
+    "Date": "1889",
+    "Siècle": "XIXe siècle",
+    "Courant artistique": "Post-impressionnisme",
+    "Dimensions": "73,7 × 92,1 cm",
+    "Médium": "Peinture à l'huile sur toile",
+    "Procédés artistiques": "Touches tourbillonnantes, intensité chromatique",
+    "id": "vincent-van-gogh-uvre-1",
     "artistId": "vincent-van-gogh",
     "glossaryIds": [],
-    "_legacy": {},
-    "mediaIds": [],
-    "title": "La Nuit étoilée"
+    "mediaIds": []
   },
   {
-    "id": "yves-klein-uvre",
+    "title": "Iris",
+    "artist": "Vincent van Gogh",
+    "Date": "1889",
+    "Siècle": "XIXe siècle",
+    "Courant artistique": "Post-impressionnisme",
+    "Dimensions": "71 × 93 cm",
+    "Médium": "Peinture à l'huile sur toile",
+    "Procédés artistiques": "Mélange de couleurs, empâtements",
+    "id": "vincent-van-gogh-uvre-2",
+    "artistId": "vincent-van-gogh",
+    "glossaryIds": [],
+    "mediaIds": []
+  },
+  {
+    "title": "Le Bleu Klein (IKB)",
+    "artist": "Yves Klein",
+    "Date": "1957",
+    "Siècle": "XXe siècle",
+    "Courant artistique": "Nouveau Réalisme",
+    "Dimensions": "Variables",
+    "Médium": "Pigment breveté",
+    "Procédés artistiques": "Création d'une couleur brevetée, monochromes",
+    "id": "yves-klein-uvre-1",
     "artistId": "yves-klein",
     "glossaryIds": [],
-    "_legacy": {},
-    "mediaIds": [],
-    "title": "Le Bleu Klein (IKB)"
+    "mediaIds": []
+  },
+  {
+    "title": "Série Anthropométries",
+    "artist": "Yves Klein",
+    "Date": "Années 1960",
+    "Siècle": "XXe siècle",
+    "Courant artistique": "Nouveau Réalisme",
+    "Dimensions": "Variables (env. 156 × 282 cm)",
+    "Médium": "Bleu Klein (IKB) sur toile",
+    "Procédés artistiques": "Empreintes corporelles, pinceaux vivants, performance",
+    "id": "yves-klein-uvre-2",
+    "artistId": "yves-klein",
+    "glossaryIds": [],
+    "mediaIds": []
   }
 ]

@@ -764,32 +764,7 @@
     "id": "claude-monet",
     "name": "Claude Monet",
     "bio": [
-      "Peintre français (1840-1926), fondateur de l'impressionnisme. Maître de la lumière.",
-      "Œuvres",
-      "1 . \" Série Cathédrales de Rouen \"",
-      "Artiste : Claude Monet",
-      "Date : 1892-1894",
-      "Siècle : XIXe siècle",
-      "Courant artistique : Impressionnisme",
-      "Dimensions : Env. 100 × 65 cm (variations)",
-      "Médium : Peinture à l'huile sur toile",
-      "Procédés artistiques : Variations de lumière selon les heures",
-      "2 . \" Les Nymphéas\"",
-      "Artiste : Claude Monet",
-      "Date : 1914-1926",
-      "Siècle : XXe siècle",
-      "Courant artistique : Impressionnisme",
-      "Dimensions : Grands formats",
-      "Médium : Peinture à l'huile sur toile",
-      "Procédés artistiques : Exploration des nuances de bleu, vert, rose",
-      "3 . \" Les coquelicots \"",
-      "Artiste : Claude Monet",
-      "Date : 1873",
-      "Siècle : XIXe siècle",
-      "Courant artistique : Impressionnisme",
-      "Dimensions : 50 × 65 cm",
-      "Médium : Peinture à l'huile sur toile",
-      "Procédés artistiques : Couleurs secondaires et complémentaires"
+      "Peintre français (1840-1926), fondateur de l'impressionnisme. Maître de la lumière."
     ],
     "works": [
       {}
@@ -808,7 +783,9 @@
       "418933a345b544767576a05814a61d1c.jpg"
     ],
     "workIds": [
-      "claude-monet-uvre"
+      "claude-monet-uvre-1",
+      "claude-monet-uvre-2",
+      "claude-monet-uvre-3"
     ],
     "glossaryIds": [
       "nuance"
@@ -1821,48 +1798,7 @@
     "id": "henri-matisse",
     "name": "Henri Matisse",
     "bio": [
-      "Peintre français (1869-1954), chef de file du fauvisme. Maître de la couleur et des découpages .",
-      "Œuvres",
-      "1 . \" La Gerbe \"",
-      "Artiste : Henri Matisse",
-      "Date : 1953",
-      "Siècle : XXe siècle",
-      "Courant artistique : Fauvisme",
-      "Dimensions : 294 × 350 cm",
-      "Médium : Papiers gouachés découpés sur toile",
-      "Procédés artistiques : Découpage, aplats de couleurs pures",
-      "2 . \" L'Escargot \"",
-      "Artiste : Henri Matisse",
-      "Date : 1953",
-      "Siècle : XXe siècle",
-      "Courant artistique : Fauvisme",
-      "Dimensions : 287 × 288 cm",
-      "Médium : Papiers gouachés découpés sur toile",
-      "Procédés artistiques : Découpage, composition spirale",
-      "3 . \" La raie verte \"",
-      "Artiste : Henri Matisse",
-      "Date : 1905",
-      "Siècle : XXe siècle",
-      "Courant artistique : Fauvisme",
-      "Dimensions : 40,5 × 32,5 cm",
-      "Médium : Peinture à l'huile sur toile",
-      "Procédés artistiques : Mélange de couleurs, portrait fauve",
-      "4 . \" La Danse \"",
-      "Artiste : Henri Matisse",
-      "Date : 1910",
-      "Siècle : XXe siècle",
-      "Courant artistique : Fauvisme",
-      "Dimensions : 260 × 391 cm",
-      "Médium : Peinture à l'huile sur toile",
-      "Procédés artistiques : Couleurs d'intensité maximale, simplification des formes",
-      "5 . \" Icare \"",
-      "Artiste : Henri Matisse",
-      "Date : 1943-1947",
-      "Siècle : XXe siècle",
-      "Courant artistique : Fauvisme",
-      "Dimensions : Variables",
-      "Médium : Papiers gouachés découpés",
-      "Procédés artistiques : Découpage dans papiers peints à la gouache"
+      "Peintre français (1869-1954), chef de file du fauvisme. Maître de la couleur et des découpages ."
     ],
     "works": [
       {}
@@ -1884,7 +1820,11 @@
       "97174181cb42600b95623291b32f61bb.jpg"
     ],
     "workIds": [
-      "henri-matisse-uvre"
+      "henri-matisse-uvre-1",
+      "henri-matisse-uvre-2",
+      "henri-matisse-uvre-3",
+      "henri-matisse-uvre-4",
+      "henri-matisse-uvre-5"
     ],
     "glossaryIds": [
       "aplat",
@@ -2001,23 +1941,7 @@
     "id": "herve-tullet",
     "name": "Hervé Tullet",
     "bio": [
-      "Artiste et auteur français (né en 1958), pionnier du livre interactif pour enfants.",
-      "Œuvres",
-      "1 . \" Couleurs \"",
-      "Artiste : Hervé Tullet",
-      "Date : 2014",
-      "Siècle : XXIe siècle",
-      "Courant artistique : Album jeunesse interactif",
-      "Dimensions : Format album",
-      "Médium : Album jeunesse",
-      "Procédés artistiques : Juxtaposition de couleurs, harmonie, transparence chromatique",
-      "2 . \" Formes \"",
-      "Artiste : Hervé Tullet",
-      "Siècle : XXIe siècle",
-      "Courant artistique : Album jeunesse interactif",
-      "Dimensions : Format album",
-      "Médium : Album jeunesse",
-      "Procédés artistiques : Exploration des formes géométriques"
+      "Artiste et auteur français (né en 1958), pionnier du livre interactif pour enfants."
     ],
     "works": [
       {}
@@ -2050,7 +1974,8 @@
       "7be560d2d72077b4b39486e51bbe6409.jpg"
     ],
     "workIds": [
-      "herve-tullet-uvre"
+      "herve-tullet-uvre-1",
+      "herve-tullet-uvre-2"
     ],
     "glossaryIds": [
       "forme",
@@ -2972,23 +2897,7 @@
     "id": "kasimir-malevitch",
     "name": "Kasimir Malevitch",
     "bio": [
-      "Peintre russe (1879-1935), fondateur du suprématisme. Pionnier de l'abstraction géométrique.",
-      "Œuvres",
-      "1 . \" Carré Blanc sur fond blanc \"",
-      "Artiste : Kasimir Malevitch",
-      "Date : 1918",
-      "Siècle : XXe siècle",
-      "Courant artistique : Suprématisme",
-      "Dimensions : 79,4 × 79,4 cm",
-      "Médium : Peinture à l'huile sur toile",
-      "Procédés artistiques : Monochrome blanc, abstraction absolue",
-      "2 . \" Suprematist Composition \"",
-      "Artiste : Kasimir Malevitch",
-      "Siècle : XXe siècle",
-      "Courant artistique : Suprématisme",
-      "Dimensions : Variables",
-      "Médium : Peinture à l'huile sur toile",
-      "Procédés artistique s : Formes géométriques pures"
+      "Peintre russe (1879-1935), fondateur du suprématisme. Pionnier de l'abstraction géométrique."
     ],
     "works": [
       {}
@@ -3007,7 +2916,8 @@
       "3bec7151ee4a2374b94ee527d2d0a48a.jpg"
     ],
     "workIds": [
-      "kasimir-malevitch-uvre"
+      "kasimir-malevitch-uvre-1",
+      "kasimir-malevitch-uvre-2"
     ],
     "glossaryIds": [
       "blanc",
@@ -3535,24 +3445,7 @@
     "id": "marcel-duchamp",
     "name": "Marcel Duchamp",
     "bio": [
-      "Artiste français (1887-1968), figure centrale de l'art moderne. Il révolutionne l'art avec le concept de ready-made.",
-      "Œuvres",
-      "1 . \" Le Grand Verre\"",
-      "Artiste : Marcel Duchamp",
-      "Date : 1915-1923",
-      "Siècle : XXe siècle",
-      "Courant artistique : Dada, Art conceptuel",
-      "Dimensions : 277,5 × 175,9 cm",
-      "Médium : Huile, vernis, feuille de plomb sur verre",
-      "Procédés artistiques : Assemblage sur verre, techniques mixtes",
-      "2 . \"Fontaine\"",
-      "Artiste : Marcel Duchamp",
-      "Date : 1917",
-      "Siècle : XXe siècle",
-      "Courant artistique : Dada, Ready-made",
-      "Dimensions : 36 × 48 × 61 cm",
-      "Médium : Urinoir en porcelaine",
-      "Procédés artistiques : Ready-made, détournement d'objet manufacturé"
+      "Artiste français (1887-1968), figure centrale de l'art moderne. Il révolutionne l'art avec le concept de ready-made."
     ],
     "works": [
       {}
@@ -3570,7 +3463,8 @@
       "1f8b475019f5613d064337a3360e8862.jpg"
     ],
     "workIds": [
-      "marcel-duchamp-uvre"
+      "marcel-duchamp-uvre-1",
+      "marcel-duchamp-uvre-2"
     ],
     "glossaryIds": [
       "assembler",
@@ -3948,31 +3842,7 @@
     "id": "pablo-picasso",
     "name": "Pablo Picasso",
     "bio": [
-      "Peintre espagnol (1881-1973), cofondateur du cubisme et figure majeure de l'art moderne.",
-      "Œuvres",
-      "1 . Période bleue (\" La vie\", \"Le vieux guitariste aveugle\" )",
-      "Artiste : Pablo Picasso",
-      "Date : 1901-1904",
-      "Siècle : XXe siècle",
-      "Courant artistique : Période bleue",
-      "Dimensions : Variables",
-      "Médium : Peinture à l'huile sur toile",
-      "Procédés artistiques : Camaïeu de bleu, tonalités monochromes",
-      "2 . \" Les Demoiselles d'Avignon \"",
-      "Artiste : Pablo Picasso",
-      "Date : 1907",
-      "Siècle : XXe siècle",
-      "Courant artistique : Proto-cubisme",
-      "Dimensions : 243,9 × 233,7 cm",
-      "Médium : Peinture à l'huile sur toile",
-      "Procédés artistiques : Déconstruction des formes, influences africaines",
-      "3 . \" Femme au béret et à la robe quadrillée \"",
-      "Artiste : Pablo Picasso",
-      "Siècle : XXe siècle",
-      "Courant artistique : Cubisme",
-      "Dimensions : Variables",
-      "Médium : Peinture à l'huile sur toile",
-      "Procédés artistiques : Composition cubiste, schéma corporel fragmenté"
+      "Peintre espagnol (1881-1973), cofondateur du cubisme et figure majeure de l'art moderne."
     ],
     "works": [
       {}
@@ -3993,7 +3863,9 @@
       "27cdb9634e5203961d8ac7668cd1fafe.jpg"
     ],
     "workIds": [
-      "pablo-picasso-uvre"
+      "pablo-picasso-uvre-1",
+      "pablo-picasso-uvre-2",
+      "pablo-picasso-uvre-3"
     ],
     "glossaryIds": [
       "camaieu",
@@ -4244,23 +4116,7 @@
     "id": "piet-mondrian",
     "name": "Piet Mondrian",
     "bio": [
-      "Peintre néerlandais (1872-1944), figure majeure de l'abstraction géométrique et du mouvement De Stijl.",
-      "Œuvres",
-      "1 . \" Composition II en rouge, bleu et jaune \"",
-      "Artiste : Piet Mondrian",
-      "Date : 1930",
-      "Siècle : XXe siècle",
-      "Courant artistique : Néoplasticisme, De Stijl",
-      "Dimensions : 46 × 46 cm",
-      "Médium : Peinture à l'huile sur toile",
-      "Procédés artistiques : Lignes noires, rectangles de couleurs primaires",
-      "2 . \" Composition en rouge, jaune, bleu et noir \"",
-      "Artiste : Piet Mondrian",
-      "Siècle : XXe siècle",
-      "Courant artistique : Néoplasticisme",
-      "Dimensions : Variables",
-      "Médium : Peinture à l'huile sur toile",
-      "Procédés artistiques : Assemblage de formes géométriques"
+      "Peintre néerlandais (1872-1944), figure majeure de l'abstraction géométrique et du mouvement De Stijl."
     ],
     "works": [
       {}
@@ -4272,7 +4128,8 @@
       "7c7c1d659cc5fcab23e22cce79bb465f.jpg"
     ],
     "workIds": [
-      "piet-mondrian-uvre"
+      "piet-mondrian-uvre-1",
+      "piet-mondrian-uvre-2"
     ],
     "glossaryIds": [],
     "workshopIds": [],
@@ -4909,24 +4766,7 @@
     "id": "suzy-lee",
     "name": "Suzy Lee",
     "bio": [
-      "Illustratrice coréenne contemporaine, reconnue internationalement pour ses albums jeunesse poétiques.",
-      "Œuvres",
-      "1 . \"Miroir\"",
-      "Artiste : Suzy Lee",
-      "Date : 2003",
-      "Siècle : XXIe siècle",
-      "Courant artistique : Album jeunesse conceptuel",
-      "Dimensions : Format album 23 × 29 cm",
-      "Médium : Album jeunesse",
-      "Procédés artistiques : Reliure centrale comme ligne de miroir, symétrie, reflet",
-      "2 . \" La vague \"",
-      "Artiste : Suzy Lee",
-      "Date : 2008",
-      "Siècle : XXIe siècle",
-      "Courant artistique : Album jeunesse sans texte",
-      "Dimensions : Format album 28 × 21 cm",
-      "Médium : Album jeunesse",
-      "Procédés artistiques : Illusion de transparence de l'eau, reflets, minimalisme"
+      "Illustratrice coréenne contemporaine, reconnue internationalement pour ses albums jeunesse poétiques."
     ],
     "works": [
       {}
@@ -4944,7 +4784,8 @@
       "46485e9d5e7d0237e295ea4b705fe758.jpg"
     ],
     "workIds": [
-      "suzy-lee-uvre"
+      "suzy-lee-uvre-1",
+      "suzy-lee-uvre-2"
     ],
     "glossaryIds": [
       "reflet",
@@ -5052,40 +4893,7 @@
     "id": "vassily-kandinsky",
     "name": "Vassily Kandinsky",
     "bio": [
-      "Peintre russe (1866-1944), pionnier de l'art abstrait. En 1910, il peint la première aquarelle abstraite.",
-      "Œuvres",
-      "1 . \"Première aquarelle abstraite\"",
-      "Artiste : Vassily Kandinsky",
-      "Date : 1910",
-      "Siècle : XXe siècle",
-      "Courant artistique : Abstraction",
-      "Dimensions : 50 × 65 cm",
-      "Médium : Aquarelle sur papier",
-      "Procédés artistiques : Composition abstraite, formes libres, couleurs spontanées",
-      "2 . \"Composition VIII\"",
-      "Artiste : Vassily Kandinsky",
-      "Date : 1923",
-      "Siècle : XXe siècle",
-      "Courant artistique : Abstraction géométrique",
-      "Dimensions : 140 × 201 cm",
-      "Médium : Peinture à l ' huile sur toile",
-      "Procédés artistiques : Formes géométriques abstraites, cercles, lignes, triangles",
-      "3 . \"Carrés avec cercles concentriques\"",
-      "Artiste : Vassily Kandinsky",
-      "Date : 1913",
-      "Siècle : XXe siècle",
-      "Courant artistique : Abstraction",
-      "Dimensions : 23,8 × 31,4 cm",
-      "Médium : Aquarelle, gouache et crayon sur papier",
-      "Procédés artistiques : Exploration des couleurs primaires et de leurs effets émotionnels",
-      "4 . \"Jaune-Rouge-Bleu\"",
-      "Artiste : Vassily Kandinsky",
-      "Date : 1925",
-      "Siècle : XXe siècle",
-      "Courant artistique : Abstraction",
-      "Dimensions : 128 × 201,5 cm",
-      "Médium : Peinture à l'huile sur toile",
-      "Procédés artistiques : Couleurs primaires, formes géométriques, valeur émotionnelle des teintes"
+      "Peintre russe (1866-1944), pionnier de l'art abstrait. En 1910, il peint la première aquarelle abstraite."
     ],
     "works": [
       {}
@@ -5106,7 +4914,10 @@
       "ad16c069709142ce22289a9ebf6471f7.jpg"
     ],
     "workIds": [
-      "vassily-kandinsky-uvre"
+      "vassily-kandinsky-uvre-1",
+      "vassily-kandinsky-uvre-2",
+      "vassily-kandinsky-uvre-3",
+      "vassily-kandinsky-uvre-4"
     ],
     "glossaryIds": [
       "abstraction",
@@ -5148,24 +4959,7 @@
     "id": "vincent-van-gogh",
     "name": "Vincent van Gogh",
     "bio": [
-      "Peintre néerlandais (1853-1890), figure majeure du post-impressionnisme.",
-      "Œuvres",
-      "1 . \" La Nuit étoilée \"",
-      "Artiste : Vincent van Gogh",
-      "Date : 1889",
-      "Siècle : XIXe siècle",
-      "Courant artistique : Post-impressionnisme",
-      "Dimensions : 73,7 × 92,1 cm",
-      "Médium : Peinture à l'huile sur toile",
-      "Procédés artistiques : Touches tourbillonnantes, intensité chromatique",
-      "2 . \" Iris \"",
-      "Artiste : Vincent van Gogh",
-      "Date : 1889",
-      "Siècle : XIXe siècle",
-      "Courant artistique : Post-impressionnisme",
-      "Dimensions : 71 × 93 cm",
-      "Médium : Peinture à l'huile sur toile",
-      "Procédés artistiques : Mélange de couleurs, empâtements"
+      "Peintre néerlandais (1853-1890), figure majeure du post-impressionnisme."
     ],
     "works": [
       {}
@@ -5181,7 +4975,8 @@
       "a0583fe4a3fbd45aa4cc94e6b0ec15c3.jpg"
     ],
     "workIds": [
-      "vincent-van-gogh-uvre"
+      "vincent-van-gogh-uvre-1",
+      "vincent-van-gogh-uvre-2"
     ],
     "glossaryIds": [
       "intensite",
@@ -5213,24 +5008,7 @@
     "id": "yves-klein",
     "name": "Yves Klein",
     "bio": [
-      "Artiste français (1928-1962), figure du Nouveau Réalisme. Créateur du Bleu Klein (IKB).",
-      "Œuvres",
-      "1 . \"Le Bleu Klein\" (IKB)",
-      "Artiste : Yves Klein",
-      "Date : 1957",
-      "Siècle : XXe siècle",
-      "Courant artistique : Nouveau Réalisme",
-      "Dimensions : Variables",
-      "Médium : Pigment breveté",
-      "Procédés artistiques : Création d'une couleur brevetée, monochromes",
-      "2 . \"Série Anthropométries\"",
-      "Artiste : Yves Klein",
-      "Date : Années 1960",
-      "Siècle : XXe siècle",
-      "Courant artistique : Nouveau Réalisme",
-      "Dimensions : Variables (env. 156 × 282 cm)",
-      "Médium : Bleu Klein (IKB) sur toile",
-      "Procédés artistiques : Empreintes corporelles, pinceaux vivants, performance"
+      "Artiste français (1928-1962), figure du Nouveau Réalisme. Créateur du Bleu Klein (IKB)."
     ],
     "works": [
       {}
@@ -5247,7 +5025,8 @@
       "c45f2f67f40aae60000f7e30946735ea.jpg"
     ],
     "workIds": [
-      "yves-klein-uvre"
+      "yves-klein-uvre-1",
+      "yves-klein-uvre-2"
     ],
     "glossaryIds": [
       "couleur",
