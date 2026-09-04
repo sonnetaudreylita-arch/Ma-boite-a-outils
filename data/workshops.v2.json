@@ -65,7 +65,7 @@
           "Albers a consacré sa carrière à l'étude systématique des couleurs, créant des centaines de nuanciers et dégradés pour comprendre leurs intéractions. Notre travail de référentiel avec dégradés d'intensité et camaïeux suit exactement sa méthode. L'exercice de mélange devient une véritable recherche artistique."
         ],
         "images": [
-          "b40cfecca847d7dfed490f768174ceaa"
+          "5ec182c5b084debd35fb0351bde94296"
         ]
       },
       {
@@ -74,7 +74,9 @@
           "\"Cercle chromatique\" (Bauhaus, année 1920).",
           "Ittens a littéralement inventé l'exercice que nous réalisons durant cet atelier, dégradé entre primaires et secondaires, camaïeux vers le blanc et le noir, création de nuanciers systématiques. Pour lui ces referenciels son des outils essentiels. Nous reprenons sa pédagogie dans notre atelier: construire un vocabulaire chromatique qui servira de base à toute création future."
         ],
-        "images": []
+        "images": [
+          "b40cfecca847d7dfed490f768174ceaa"
+        ]
       }
     ],
     "glossaryIds": [
@@ -119,20 +121,20 @@
     ],
     "source": "PUBLISHED / Ateliers dexprimentations.html",
     "missingMediaIds": [],
-    "intro": [
-      "Création d'un référentiel des couleurs:",
-      "- un dégradé progressif de 7 touches allant d'une couleur primaire à une autre couleur primaire.",
-      "-un dégradé d'intensité de 7 touches d'une couleur primaire. (En diluant de plus en plus la gouache avec de l'eau).",
-      "- un dégradé allant d'une couleur primaire à l'une de ses secondaires. Ex: du magenta au orange.",
-      "- un camaïeu allant d'une couleur primaire jusqu'au blanc et de cette même couleur jusqu'au noir.",
-      "- 30 nuances de bruns. Le brun est un mélange de trois couleurs de manière disproportionnée (2/3 + 1/3)."
-    ]
+    "intro": []
   },
   {
     "id": "atelier-2",
     "number": 2,
     "title": "Atelier n°2 : table lumineuse",
     "sections": [
+      {
+        "heading": "Consignes",
+        "content": [
+          "Sur une table lumineuse, manipuler les divers objets mis à disposition afin de créer 3 compositions abstraites éphémères en jouant sur les couleurs, la transparence, les mélanges de couleurs, l'opacité, la brillance, etc..."
+        ],
+        "images": []
+      },
       {
         "heading": "Objets divers mis à disposition",
         "content": [],
@@ -173,7 +175,7 @@
           "\"Jeu de lumière\""
         ],
         "images": [
-          "30b483423ff7a36dea9166131a3c0e47"
+          "683eaf3165b65a30ee3c9cda133693d6"
         ]
       },
       {
@@ -181,7 +183,9 @@
         "content": [
           "\"Petit-Bleu et Petit-Jaune\""
         ],
-        "images": []
+        "images": [
+          "30b483423ff7a36dea9166131a3c0e47"
+        ]
       }
     ],
     "glossaryIds": [
@@ -228,9 +232,7 @@
     ],
     "source": "PUBLISHED / Ateliers dexprimentations.html",
     "missingMediaIds": [],
-    "intro": [
-      "Sur une table lumineuse, manipuler les divers objets mis à disposition afin de créer 3 compositions abstraites éphémères en jouant sur les couleurs, la transparence, les mélanges de couleurs, l'opacité, la brillance, etc..."
-    ]
+    "intro": []
   },
   {
     "id": "atelier-3",
@@ -282,7 +284,7 @@
           "Création de personnages expressifs avec des matériaux simples"
         ],
         "images": [
-          "f9d215e705fde2a6e505314e66c0a1fa"
+          "72748ee3e4646c8470fe34e6a256929d"
         ]
       },
       {
@@ -295,7 +297,9 @@
           "Travaille par assemblage et juxtaposition d'objets sur surface plane",
           "Détourne les matériaux de leur fonction initiale"
         ],
-        "images": []
+        "images": [
+          "f9d215e705fde2a6e505314e66c0a1fa"
+        ]
       }
     ],
     "glossaryIds": [
@@ -340,9 +344,7 @@
     ],
     "source": "PUBLISHED / Ateliers dexprimentations.html",
     "missingMediaIds": [],
-    "intro": [
-      "Sur une feuille de couleurs au choix, avec le matériel mis à disposition, composer trois visages. Poussez la complexité de la composition en élaborant le visage avec le plus d'éléments du schéma corporel possible vu l'espace disponible (feuille A4) et la taille des objets."
-    ]
+    "intro": []
   },
   {
     "id": "atelier-4",
@@ -373,16 +375,7 @@
           "Le contraste des complémentaires : une primaire et sa secondaire complémentaire sont juxtaposées : le bleu avec l'orange, le jaune avec le mauve et le rouge avec le vert.",
           "Le contraste simultané : il s’agit d’un effet d'optique, d’un procédé physiologique de correction à l'intérieur de l'organe visuel. Notre œil, pour une couleur donnée, exige sa complémentaire en même temps (d’où le terme « simultanéité »). Si la complémentaire n’est pas présente, il la crée lui-même sous la forme d’une illusion d’optique (un gris neutre juxtaposé à une couleur pure et saturée va sembler soudain « tirer » vers la complémentaire de celle-ci) ou d’une persistance rétinienne de la forme mais colorée avec la complémentaire (après avoir fixé une lumière de couleur, on garde la trace de sa complémentaire sur la rétine). Il est d'autant plus fort que la couleur est lumineuse et que l'on fixe longtemps la couleur principale. Lorsque les deux complémentaires sont présentes et juxtaposées, on peut voir son effet, elles semblent \"vibrer\" l'une et l'autre à l’endroit de contact.",
           "Le contraste de qualité : il s'agit ici du contraste au niveau de l'intensité d'une même couleur. Une couleur pure associée à la même couleur grisée ou blanchie.",
-          "Le contraste de quantité : une majorité d'une couleur qui prime sur les autres (déséquilibre) ou un équilibre des couleurs.",
-          "Consignes",
-          "Création de sept collages sur feuille A5 à partir de morceaux de papiers déchirés ou découpés dans des magazines dans le but d'illustrer les contrastes suivants:",
-          "- contraste des couleurs complémentaires: rouge/vert, orange/bleu, violet/jaune.",
-          "- contraste de quantité: une couleur plus présente que les autres en terme de quantité.",
-          "- contraste de la couleur en soi: trois couleurs primaires pures, saturées dont une très différente des autres. (Le plus contrasté possible)",
-          "- contraste clair obscur: couleurs lumineuses/ couleurs cassées (sans blanc ni noir)",
-          "- contraste de qualité: juxtaposition de couleurs pures et saturées avec des couleurs cassées avec du noir et blanc.",
-          "- contraste chaud-froid: couleurs chaudes (spectre rouge) et couleurs froides (spectre bleu)",
-          "- contraste de simultanéité: création d'une vibration optique avec des couleurs complémentaires pures et saturées et du dynamisme. Une même couleur doit être perçue différemment selon les couleurs posées à côté"
+          "Le contraste de quantité : une majorité d'une couleur qui prime sur les autres (déséquilibre) ou un équilibre des couleurs."
         ],
         "images": [
           "5d0acd52da61e25743660bf567d5919d"
@@ -435,7 +428,7 @@
           "Le Cercle Chromatique d’Itten est une représentation visuelle des mélanges de couleurs primaires : rouge, jaune et bleu. La base comprend également des couleurs supplémentaires telles que le vert, le violet, l’orange et le noir. Les nuances créées par la superposition des couleurs servaient à illustrer la théorie chromatique sous-jacente."
         ],
         "images": [
-          "3b2eb2de9e73e5b6e01a3d051c12d72f"
+          "0cd64800ecfa772b81301e75b31b22df"
         ]
       },
       {
@@ -444,7 +437,9 @@
           "\"Carrés avec cercles concentriques\"",
           "Etude de couleurs réalisée à l'aquarelle, à la gouache et au crayon sur papier. Kandinsky, contemporain et collègue d'Itten au Bauhaus, y explore les relations entre les couleurs primaires et secondaires organisées en cercle concentriques sur fond de carrés. Chaque case constitue une variation chromatique distincte, illustrant les contrastes de couleurs théorisés par Itten."
         ],
-        "images": []
+        "images": [
+          "3b2eb2de9e73e5b6e01a3d051c12d72f"
+        ]
       }
     ],
     "glossaryIds": [
@@ -485,6 +480,19 @@
     "number": 5,
     "title": "Atelier n°5: Traces et Empreintes",
     "sections": [
+      {
+        "heading": "Consignes",
+        "content": [
+          "Il existe 5 procédés d'empreintes et de traces en 2 dimensions :",
+          "Le tampon : enduire un objet/une surface de peinture et l'appliquer sur la feuille/le support. Ce procédé induit un effet miroir. Utilisation de la gouache.",
+          "La réserve : au moyen d'un outil/d'un objet/d'un geste, préserver un ou plusieurs espaces de la feuille/du support de la peinture. Fondamentalement, une réserve est un espace laissé vierge, il s'agit ici de plus que cela : les espaces restent vierges de peinture par juste parce qu'on a évité d'en mettre mais parce qu'un outil (pochoir, masking-tape, liquide de masquage, pastel gras blanc ...) un objet ou un geste (plier, chiffonner, ...) a laissé son empreinte sur le support en le préservant de la peinture. Un pochoir peut être postif ou négatif. Utilisation de la gouache.",
+          "Le frottage : on utilise une feuille de papier fine (type papier à imprimer ou papier de soie) que l'on pose sur une surface plus ou moins plane, la surface présentant une texture, une matière ou un contour. On vient ensuite frotter la feuille de papier, sans la bouger, avec un pastel gras, pastel sec, fusain, craie, etc manipulé à plat de préférence. Ce procédé peut être combiné avec la réserve. On ne réalise pas de fond coloré.",
+          "Le dripping : il s'agit de projeter de la peinture sur la feuille/le support sans toucher la feuille/le support. Le résultat va varier en fonction de la viscosité de la peinture, du geste et/ou de l'outil utilisé. Ce procédé peut être combiné avec la réserve. Utilisation de la gouache et de l'écoline (encre colorée).",
+          "Le monotype : procédé d'impression qui ne permet de réaliser qu'une seule empreinte (appelée aussi estampe). Il s'agit de déposer de la peinture sur une surface imperméable (vitre, miroir, plexiglas, plastique, métal, plaque de gel, plaque de terre glaise fraiche, etc) et de venir ensuite la transférer sur une feuille de papier que l'on applique sur la peinture fraîche. Ce procédé implique un effet miroir. Il est combinable avec n'importe quel autre procédé d'empreinte. Il permet par ailleurs de \"peindre\" de manière négative : si on applique de la peinture uniformément, on peut ensuite l'enlever avec un outil en traçant, le tracé sera alors \"blanc\" et le reste sera coloré. Utilisation de la gouache.",
+          "Ci dessus: Exemples d'expérimentations à proposer aux enfants de maternelles."
+        ],
+        "images": []
+      },
       {
         "heading": "Matériel",
         "content": [
@@ -707,7 +715,7 @@
           "Série d'oeuvres réalisés sur papier maroulfé sur toile. Yves Klein utilise des modèles enduits de peinture bleue comme \"pinceaux vivants\", leurs corps préssés contre la toile laissent une empreinte directe et unique de leur forme."
         ],
         "images": [
-          "28d53ec50b9839c3e4119669a4c7d87e"
+          "c45f2f67f40aae60000f7e30946735ea"
         ]
       },
       {
@@ -716,7 +724,9 @@
           "\"Milky Way\"",
           "Oeuvre pionnière réalisée à l'émail sur toile. Sobel y utilise le dripping, couvrant l'intégralité de la surface sans hiérarchie entre les zones. Cette approche, dite all-over, préfigure directement le travail de Jackson Pollock. Milky Way illustre les notions de trace, de giclure et coulures et de dripping."
         ],
-        "images": []
+        "images": [
+          "28d53ec50b9839c3e4119669a4c7d87e"
+        ]
       }
     ],
     "glossaryIds": [
@@ -839,15 +849,7 @@
     ],
     "source": "PUBLISHED / Ateliers dexprimentations.html",
     "missingMediaIds": [],
-    "intro": [
-      "Il existe 5 procédés d'empreintes et de traces en 2 dimensions :",
-      "Le tampon : enduire un objet/une surface de peinture et l'appliquer sur la feuille/le support. Ce procédé induit un effet miroir. Utilisation de la gouache.",
-      "La réserve : au moyen d'un outil/d'un objet/d'un geste, préserver un ou plusieurs espaces de la feuille/du support de la peinture. Fondamentalement, une réserve est un espace laissé vierge, il s'agit ici de plus que cela : les espaces restent vierges de peinture par juste parce qu'on a évité d'en mettre mais parce qu'un outil (pochoir, masking-tape, liquide de masquage, pastel gras blanc ...) un objet ou un geste (plier, chiffonner, ...) a laissé son empreinte sur le support en le préservant de la peinture. Un pochoir peut être postif ou négatif. Utilisation de la gouache.",
-      "Le frottage : on utilise une feuille de papier fine (type papier à imprimer ou papier de soie) que l'on pose sur une surface plus ou moins plane, la surface présentant une texture, une matière ou un contour. On vient ensuite frotter la feuille de papier, sans la bouger, avec un pastel gras, pastel sec, fusain, craie, etc manipulé à plat de préférence. Ce procédé peut être combiné avec la réserve. On ne réalise pas de fond coloré.",
-      "Le dripping : il s'agit de projeter de la peinture sur la feuille/le support sans toucher la feuille/le support. Le résultat va varier en fonction de la viscosité de la peinture, du geste et/ou de l'outil utilisé. Ce procédé peut être combiné avec la réserve. Utilisation de la gouache et de l'écoline (encre colorée).",
-      "Le monotype : procédé d'impression qui ne permet de réaliser qu'une seule empreinte (appelée aussi estampe). Il s'agit de déposer de la peinture sur une surface imperméable (vitre, miroir, plexiglas, plastique, métal, plaque de gel, plaque de terre glaise fraiche, etc) et de venir ensuite la transférer sur une feuille de papier que l'on applique sur la peinture fraîche. Ce procédé implique un effet miroir. Il est combinable avec n'importe quel autre procédé d'empreinte. Il permet par ailleurs de \"peindre\" de manière négative : si on applique de la peinture uniformément, on peut ensuite l'enlever avec un outil en traçant, le tracé sera alors \"blanc\" et le reste sera coloré. Utilisation de la gouache.",
-      "Ci dessus: Exemples d'expérimentations à proposer aux enfants de maternelles."
-    ]
+    "intro": []
   },
   {
     "id": "atelier-6",
