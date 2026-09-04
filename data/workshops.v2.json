@@ -96,7 +96,8 @@
       "teinte"
     ],
     "artistIds": [
-      "joseph-albers"
+      "joseph-albers",
+      "johannes-itten"
     ],
     "mediaIds": [
       "4507331886fe2abfda481186136dde9e",
@@ -228,9 +229,7 @@
     "source": "PUBLISHED / Ateliers dexprimentations.html",
     "missingMediaIds": [],
     "intro": [
-      "Consignes",
-      "Sur une table lumineuse, manipuler les divers objets mis à disposition afin de créer 3 compositions abstraites éphémères en jouant sur les couleurs, la transparence, les mélanges de couleurs, l'opacité, la brillance, etc...",
-      "Matériel"
+      "Sur une table lumineuse, manipuler les divers objets mis à disposition afin de créer 3 compositions abstraites éphémères en jouant sur les couleurs, la transparence, les mélanges de couleurs, l'opacité, la brillance, etc..."
     ]
   },
   {
@@ -247,58 +246,7 @@
       {
         "heading": "Matériel",
         "content": [
-          "Objets divers mis à disposition",
-          "Objets divers mis à disposition",
-          "Bloc de feuille A4 canson de diverses couleurs",
-          "Experimentation",
-          "Résultat final",
-          "Eléments du",
-          "Glossaire",
-          "Assembler",
-          "Composition",
-          "Composition figurative",
-          "Contraste",
-          "Figuration",
-          "Gestion de l'espace",
-          "Juxtaposer",
-          "Manipulation",
-          "Matériel de récupération",
-          "Matériel détourné",
-          "Matière",
-          "Organiser",
-          "Production éphémère",
-          "Relief",
-          "Repréentation",
-          "Schèma corporel",
-          "Superposer/ Superposition",
-          "Visage",
-          "Christian VOLTZ",
-          "Livre \"Patates\"",
-          "Christian Voltz est un illustrateur reconnu pour son style unique qui utilise des",
-          "objets de récupération",
-          "(fil de fer, boulons, vis, boutons, tissus, etc.) pour créer ses personnages et illustrations. Son livre \"Patate\" en est un exemple parfait pour illustrer l'atelier Visages:",
-          "Assemblage d'objets hétéroclites du quotidien",
-          "Détournement de la fonction première des objets (un boulon devient un nez, du fil de fer forme des cheveux)",
-          "Composition sur fond en 2D",
-          "Création de personnages expressifs avec des matériaux simples",
-          "Jane PERKINS",
-          "\"Billy idol\"",
-          "Jane Perkins est une artiste britannique contemporaine qui crée des",
-          "portraits et reproductions d'œuvres célèbres",
-          "à partir d'objets trouvés et de récupération. Un",
-          "exemple idéal pour illustrer l'atelier Visages:",
-          "Utilise des",
-          "objets de récupération hétéroclites",
-          ": boutons, perles, jouets cassés, bijoux fantaisie, coquillages, petits déchets plastiques",
-          "Crée des",
-          "compositions figuratives",
-          "(portraits, reproductions de tableaux célèbres comme \"La Jeune Fille à la perle\" ou \"La Naissance de Vénus\")",
-          "Travaille par",
-          "assemblage et juxtaposition",
-          "d'objets sur surface plane",
-          "Détourne les",
-          "matériaux",
-          "de leur fonction initiale"
+          "Bloc de feuille A4 canson de diverses couleurs"
         ]
       },
       {
@@ -311,7 +259,6 @@
       {
         "heading": "Objets divers mis à disposition",
         "content": [
-          "Bloc de feuille A4 canson de diverses couleurs",
           "Experimentation",
           "Résultat final"
         ],
@@ -330,12 +277,8 @@
           "Livre \"Patates\"",
           "Christian Voltz est un illustrateur reconnu pour son style unique qui utilise des objets de récupération (fil de fer, boulons, vis, boutons, tissus, etc.) pour créer ses personnages et illustrations. Son livre \"Patate\" en est un exemple parfait pour illustrer l'atelier Visages:",
           "Assemblage d'objets hétéroclites du quotidien",
-          "Assemblage d'objets hétéroclites du quotidien",
-          "Détournement de la fonction première des objets (un boulon devient un nez, du fil de fer forme des cheveux)",
           "Détournement de la fonction première des objets (un boulon devient un nez, du fil de fer forme des cheveux)",
           "Composition sur fond en 2D",
-          "Composition sur fond en 2D",
-          "Création de personnages expressifs avec des matériaux simples",
           "Création de personnages expressifs avec des matériaux simples"
         ],
         "images": [
@@ -348,12 +291,8 @@
           "\"Billy idol\"",
           "Jane Perkins est une artiste britannique contemporaine qui crée des portraits et reproductions d'œuvres célèbres à partir d'objets trouvés et de récupération. Un exemple idéal pour illustrer l'atelier Visages:",
           "Utilise des objets de récupération hétéroclites : boutons, perles, jouets cassés, bijoux fantaisie, coquillages, petits déchets plastiques",
-          "Utilise des objets de récupération hétéroclites : boutons, perles, jouets cassés, bijoux fantaisie, coquillages, petits déchets plastiques",
-          "Crée des compositions figuratives (portraits, reproductions de tableaux célèbres comme \"La Jeune Fille à la perle\" ou \"La Naissance de Vénus\")",
           "Crée des compositions figuratives (portraits, reproductions de tableaux célèbres comme \"La Jeune Fille à la perle\" ou \"La Naissance de Vénus\")",
           "Travaille par assemblage et juxtaposition d'objets sur surface plane",
-          "Travaille par assemblage et juxtaposition d'objets sur surface plane",
-          "Détourne les matériaux de leur fonction initiale",
           "Détourne les matériaux de leur fonction initiale"
         ],
         "images": []
@@ -402,9 +341,7 @@
     "source": "PUBLISHED / Ateliers dexprimentations.html",
     "missingMediaIds": [],
     "intro": [
-      "Consignes",
-      "Sur une feuille de couleurs au choix, avec le matériel mis à disposition, composer trois visages. Poussez la complexité de la composition en élaborant le visage avec le plus d'éléments du schéma corporel possible vu l'espace disponible (feuille A4) et la taille des objets.",
-      "Materiel"
+      "Sur une feuille de couleurs au choix, avec le matériel mis à disposition, composer trois visages. Poussez la complexité de la composition en élaborant le visage avec le plus d'éléments du schéma corporel possible vu l'espace disponible (feuille A4) et la taille des objets."
     ]
   },
   {
@@ -422,35 +359,7 @@
           "- contraste clair obscur: couleurs lumineuses/ couleurs cassées (sans blanc ni noir)",
           "- contraste de qualité: juxtaposition de couleurs pures et saturées avec des couleurs cassées avec du noir et blanc.",
           "- contraste chaud-froid: couleurs chaudes (spectre rouge) et couleurs froides (spectre bleu)",
-          "- contraste de simultanéité: création d'une vibration optique avec des couleurs complémentaires pures et saturées et du dynamisme. Une même couleur doit être perçue différemment selon les couleurs posées à côté",
-          "Contraste des complémentaires",
-          "Constrate de simultanéité",
-          "Contraste de qualité",
-          "Contraste de la couleur en soi",
-          "Constraste chaud/froid",
-          "Contraste clair-obscur",
-          "Contraste de quantité",
-          "Eléments du",
-          "Glossaire",
-          "Constraste de couleur",
-          "Constraste de la couleur en soi",
-          "Constraste des complémentaires",
-          "Constraste chaud-froid",
-          "Constraste d",
-          "e quantité",
-          "Constraste de qualit",
-          "é",
-          "Constraste clair-ob",
-          "scur",
-          "Constraste de simultanéité",
-          "Composition abstraite",
-          "Gestion de l'espace",
-          "JOHANNES ITTEN",
-          "Cercle Chromatique",
-          "Le Cercle Chromatique d’Itten est une représentation visuelle des mélanges de couleurs primaires : rouge, jaune et bleu. La base comprend également des couleurs supplémentaires telles que le vert, le violet, l’orange et le noir. Les nuances créées par la superposition des couleurs servaient à illustrer la théorie chromatique sous-jacente.",
-          "VASSILY KANDINSKY",
-          "\"Carrés avec cercles concentriques\"",
-          "Etude de couleurs réalisée à l'aquarelle, à la gouache et au crayon sur papier. Kandinsky, contemporain et collègue d'Itten au Bauhaus, y explore les relations entre les couleurs primaires et secondaires organisées en cercle concentriques sur fond de carrés. Chaque case constitue une variation chromatique distincte, illustrant les contrastes de couleurs théorisés par Itten."
+          "- contraste de simultanéité: création d'une vibration optique avec des couleurs complémentaires pures et saturées et du dynamisme. Une même couleur doit être perçue différemment selon les couleurs posées à côté"
         ]
       },
       {
@@ -588,77 +497,7 @@
           "Encres colorées (Ecoline diverses couleurs)",
           "Gouaches (diverses couleurs)",
           "Pastels gras (et secs)",
-          "Pastel blanc",
-          "Experimentation",
-          "LE TAMPON",
-          "morceaux d'éponge ménagère",
-          "Cale en plastique",
-          "eponge de maquillage",
-          "fourcette en métal",
-          "pièce de circuit à bille (tunnel) en plastique",
-          "LA RESERVE",
-          "rouleau en carton",
-          "pliage",
-          "frossage",
-          "masking tape",
-          "pastel gras blanc & écoline",
-          "LE FROTTAGE",
-          "plaque d'égout",
-          "caisse en plastique",
-          "dos de livre",
-          "emballage en carton fin - pastel gras blanc - écoline",
-          "pochoir & caisse en plastique",
-          "LE DRIPPING",
-          "compte-gouttes & paille",
-          "compte gouttes - pochoir- mouvement",
-          "projection avec pinceaux plat",
-          "dripping & pochoir",
-          "pipette & mouvement",
-          "LE MONOTYPE",
-          "pinceau en silicone",
-          "spatule en plastique",
-          "masking tape &  spatule en plastique",
-          "spatule",
-          "pochoir & éponge",
-          "Elements du",
-          "Glossaire",
-          "Trace",
-          "Empreinte",
-          "Procédé",
-          "Tampon",
-          "Reserve",
-          "Frottage",
-          "Dripping",
-          "Monotype",
-          "Gestion de l'espace",
-          "Geste",
-          "Effet miroir",
-          "Encre colorée",
-          "Transfert",
-          "Pochoir",
-          "Gravure",
-          "Quadrichromie",
-          "Rouleau en mousse",
-          "Rouleau de linogravure",
-          "Pipette/compte goutte",
-          "Seringue",
-          "Vaporisateur",
-          "Eponge",
-          "Brosse à dent",
-          "Spatule",
-          "Masking Tape",
-          "Vitre/ miroir",
-          "Uniforme",
-          "Similaire",
-          "Motif graphique",
-          "Empreinte positive/negative",
-          "Bruine/eclaboussure/giclure/goutte",
-          "IVES KLEIN",
-          "\"Anthropométries\" (1960)",
-          "Série d'oeuvres réalisés sur papier maroulfé sur toile. Yves Klein utilise des modèles enduits de peinture bleue comme \"pinceaux vivants\", leurs corps préssés contre la toile laissent une empreinte directe et unique de leur forme.",
-          "JANET SOBEL",
-          "\"Milky Way\"",
-          "Oeuvre pionnière réalisée à l'émail sur toile. Sobel y utilise le dripping, couvrant l'intégralité de la surface sans hiérarchie entre les zones. Cette approche, dite all-over, préfigure directement le travail de Jackson Pollock. Milky Way illustre les notions de trace, de giclure et coulures et de dripping."
+          "Pastel blanc"
         ]
       },
       {
@@ -999,9 +838,7 @@
       "28d53ec50b9839c3e4119669a4c7d87e.jpg"
     ],
     "source": "PUBLISHED / Ateliers dexprimentations.html",
-    "missingMediaIds": [
-      "28d53ec50b9839c3e4119669a4c7d87e"
-    ],
+    "missingMediaIds": [],
     "intro": [
       "Il existe 5 procédés d'empreintes et de traces en 2 dimensions :",
       "Le tampon : enduire un objet/une surface de peinture et l'appliquer sur la feuille/le support. Ce procédé induit un effet miroir. Utilisation de la gouache.",
@@ -1009,19 +846,7 @@
       "Le frottage : on utilise une feuille de papier fine (type papier à imprimer ou papier de soie) que l'on pose sur une surface plus ou moins plane, la surface présentant une texture, une matière ou un contour. On vient ensuite frotter la feuille de papier, sans la bouger, avec un pastel gras, pastel sec, fusain, craie, etc manipulé à plat de préférence. Ce procédé peut être combiné avec la réserve. On ne réalise pas de fond coloré.",
       "Le dripping : il s'agit de projeter de la peinture sur la feuille/le support sans toucher la feuille/le support. Le résultat va varier en fonction de la viscosité de la peinture, du geste et/ou de l'outil utilisé. Ce procédé peut être combiné avec la réserve. Utilisation de la gouache et de l'écoline (encre colorée).",
       "Le monotype : procédé d'impression qui ne permet de réaliser qu'une seule empreinte (appelée aussi estampe). Il s'agit de déposer de la peinture sur une surface imperméable (vitre, miroir, plexiglas, plastique, métal, plaque de gel, plaque de terre glaise fraiche, etc) et de venir ensuite la transférer sur une feuille de papier que l'on applique sur la peinture fraîche. Ce procédé implique un effet miroir. Il est combinable avec n'importe quel autre procédé d'empreinte. Il permet par ailleurs de \"peindre\" de manière négative : si on applique de la peinture uniformément, on peut ensuite l'enlever avec un outil en traçant, le tracé sera alors \"blanc\" et le reste sera coloré. Utilisation de la gouache.",
-      "Ci dessus: Exemples d'expérimentations à proposer aux enfants de maternelles.",
-      "Matériel",
-      "Brosses, peignes, et éponges diverses (en haut)",
-      "Pochoirs (en bas)",
-      "Rouleaux en mousse (en haut)",
-      "Rouleaux de linogravure",
-      "Pipette, Brosse à dent, Compte-gouttes, spatule en plastique, pinceau en silicone divers",
-      "Morceaux d'éponges",
-      "Encres colorées (Ecoline diverses couleurs)",
-      "Gouaches (diverses couleurs)",
-      "Pastels gras (et secs)",
-      "Pastel blanc",
-      "Experimentation"
+      "Ci dessus: Exemples d'expérimentations à proposer aux enfants de maternelles."
     ]
   },
   {
